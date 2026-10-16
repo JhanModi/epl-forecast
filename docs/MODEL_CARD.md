@@ -19,7 +19,7 @@
 | Dataset | Status |
 | --- | --- |
 | Demo league (default) | Synthetic. Shareable, and the results below are reproducible from the repository. |
-| openfootball | Public domain, results only. Supported; not yet evaluated. |
+| openfootball | Public domain, results only. Evaluated: on the 2025/26 holdout, RPS 0.2130 against a base-rate baseline of 0.2280 (p = 0.006), statistically tied with gradient boosting. Results and limitations are in the README. |
 | Premier League site | Evaluated locally only. Data, models and reports are not distributed under the site's terms, and no figures are published (see the README). |
 
 Inputs are the teams, kickoff date and final score of earlier matches only. In-match statistics are used by the
@@ -53,6 +53,8 @@ probabilities the synthetic league was generated from; "share of achievable gain
 ## Caveats
 - **Synthetic data.** The demo measures the method, not real-world skill. Its generator was calibrated on three
   aggregate Premier League statistics and under-produces draws.
+- **One real holdout season.** The openfootball evaluation rests on a single untouched season (380 matches), and
+  the gain over the baseline there was well below the tuning season's. There is no bookmaker comparison.
 - **Draws.** A calibrated model rarely makes a draw its single most likely outcome. Judge it by RPS and log loss,
   not accuracy.
 - **Promoted teams.** Teams with no top-flight history start from a learned promoted-team prior; their early

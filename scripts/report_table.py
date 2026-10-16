@@ -2,6 +2,7 @@
 
 uv run python scripts/report_table.py                         # demo report, holdout season
 uv run python scripts/report_table.py --season 2024 --report data/artifacts/demo/backtest/report.json
+uv run python scripts/report_table.py --report data/artifacts/openfootball/backtest/report.json   # real data
 """
 
 import argparse
@@ -26,10 +27,14 @@ def table(report: dict, season: str, production: str = "dixon_coles") -> str:
     models = data["models"]
     baseline = models[data["reference"]]["metrics"]["rps"]["mean"]
     ceiling = models[data["ceiling"]]["metrics"]["rps"]["mean"] if data.get("ceiling") else None
-    header = (
-        "| Model | RPS ↓ | 95% CI | Log loss ↓ | Accuracy | ECE | vs baseline | Share of achievable gain |"
+    # Real data has no oracle, so there is no achievable gain to share out: drop that column.
+    header = "| Model | RPS ↓ | 95% CI | Log loss ↓ | Accuracy | ECE | vs baseline |" + (
+        " Share of achievable gain |" if ceiling is not None else ""
     )
-    rows = [header, "| --- | ---: | :---: | ---: | ---: | ---: | ---: | ---: |"]
+    rows = [
+        header,
+        "| --- | ---: | :---: | ---: | ---: | ---: | ---: |" + (" ---: |" if ceiling is not None else ""),
+    ]
     for name in data["ranking"]:
         m = models[name]
         rps = m["metrics"]["rps"]
@@ -46,7 +51,7 @@ def table(report: dict, season: str, production: str = "dixon_coles") -> str:
         rows.append(
             f"| {label} | {rps['mean']:.4f} | {rps['low']:.3f}–{rps['high']:.3f} | "
             f"{m['metrics']['log_loss']['mean']:.3f} | {m['metrics']['accuracy']['mean']:.1%} | "
-            f"{m['calibration']['ece']:.3f} | {versus} | {share} |"
+            f"{m['calibration']['ece']:.3f} | {versus} |" + (f" {share} |" if ceiling is not None else "")
         )
     note = (
         f"\n\n{data['n_matches']} matches, season {season}/{(int(season) + 1) % 100:02d}; "

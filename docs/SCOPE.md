@@ -33,7 +33,7 @@ There are **no real users**. Nothing here claims adoption, traffic or production
 | --- | --- | --- |
 | AC1 | A clean checkout builds, tests and serves **offline**, using only redistributable data | `tests/test_datasets.py::test_demo_build_needs_no_network`; `scripts/check_distribution.py --docker` in CI |
 | AC2 | No forecast uses information from after its kickoff | `tests/test_features.py` (leakage tests), `tests/test_evaluation.py::test_walk_forward_never_looks_ahead`, `tests/test_models.py::test_feature_models_ignore_fixture_results` |
-| AC3 | The production model beats the base-rate baseline on the holdout season (paired test on RPS, p < 0.05) | `data/artifacts/demo/backtest/report.json` (demo); the author's local Premier League report (not distributed) |
+| AC3 | The production model beats the base-rate baseline on the holdout season (paired test on RPS, p < 0.05) | `data/artifacts/demo/backtest/report.json` (demo); `data/artifacts/openfootball/backtest/report.json` (real results, p = 0.006); the author's local Premier League report (not distributed) |
 | AC4 | Forecast probabilities are valid, and holdout calibration error (ECE) is below 0.06 | `tests/test_models.py::test_every_model_returns_valid_probabilities`; ECE in the backtest report |
 | AC5 | Every endpoint has a typed contract; invalid input gets a 4xx RFC 9457 problem, never a 500 | `tests/test_api.py`, `tests/test_security.py`; `docs/openapi.json` checked against code in CI |
 | AC6 | Expensive work is bounded: unsupported sizes return 422, a client over its rate gets 429, saturation returns 503, and cache storage stays at or below its cap | `tests/test_security.py` |

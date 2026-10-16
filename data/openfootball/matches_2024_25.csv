@@ -1,0 +1,381 @@
+match_id,date,matchweek,status,home_team,away_team,home_short_name,away_short_name,home_abbr,away_abbr,home_score,away_score,home_ht_score,away_ht_score,home_red_cards,away_red_cards,stadium,attendance,season
+20241308,2024-08-16 20:00:00,1,finished,Manchester United,Fulham,Manchester United,Fulham,MUN,FUL,1,0,0.0,0.0,,,,,2024
+20240911,2024-08-17 12:30:00,1,finished,Ipswich Town,Liverpool,Ipswich Town,Liverpool,IPS,LIV,0,2,0.0,0.0,,,,,2024
+20240019,2024-08-17 15:00:00,1,finished,Arsenal,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,ARS,WOL,2,0,1.0,0.0,,,,,2024
+20240704,2024-08-17 15:00:00,1,finished,Everton,Brighton & Hove Albion,Everton,Brighton & Hove Albion,EVE,BHA,0,3,0.0,1.0,,,,,2024
+20241416,2024-08-17 15:00:00,1,finished,Newcastle United,Southampton,Newcastle United,Southampton,NEW,SOU,1,0,1.0,0.0,,,,,2024
+20241502,2024-08-17 15:00:00,1,finished,Nottingham Forest,Bournemouth,Nottingham Forest,Bournemouth,NFO,BOU,1,1,1.0,0.0,,,,,2024
+20241801,2024-08-17 17:30:00,1,finished,West Ham United,Aston Villa,West Ham United,Aston Villa,WHU,AVL,1,2,1.0,1.0,,,,,2024
+20240306,2024-08-18 14:00:00,1,finished,Brentford,Crystal Palace,Brentford,Crystal Palace,BRE,CRY,2,1,1.0,0.0,,,,,2024
+20240512,2024-08-18 16:30:00,1,finished,Chelsea,Manchester City,Chelsea,Manchester City,CHE,MCI,0,2,0.0,1.0,,,,,2024
+20241017,2024-08-19 20:00:00,1,finished,Leicester City,Tottenham Hotspur,Leicester City,Tottenham Hotspur,LEI,TOT,1,1,0.0,1.0,,,,,2024
+20240413,2024-08-24 12:30:00,2,finished,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,Manchester United,BHA,MUN,2,1,1.0,0.0,,,,,2024
+20240618,2024-08-24 15:00:00,2,finished,Crystal Palace,West Ham United,Crystal Palace,West Ham United,CRY,WHU,0,2,0.0,0.0,,,,,2024
+20240810,2024-08-24 15:00:00,2,finished,Fulham,Leicester City,Fulham,Leicester City,FUL,LEI,2,1,1.0,1.0,,,,,2024
+20241209,2024-08-24 15:00:00,2,finished,Manchester City,Ipswich Town,Manchester City,Ipswich Town,MCI,IPS,4,1,3.0,1.0,,,,,2024
+20241615,2024-08-24 15:00:00,2,finished,Southampton,Nottingham Forest,Southampton,Nottingham Forest,SOU,NFO,0,1,0.0,0.0,,,,,2024
+20241707,2024-08-24 15:00:00,2,finished,Tottenham Hotspur,Everton,Tottenham Hotspur,Everton,TOT,EVE,4,0,2.0,0.0,,,,,2024
+20240100,2024-08-24 17:30:00,2,finished,Aston Villa,Arsenal,Aston Villa,Arsenal,AVL,ARS,0,2,0.0,0.0,,,,,2024
+20240214,2024-08-25 14:00:00,2,finished,Bournemouth,Newcastle United,Bournemouth,Newcastle United,BOU,NEW,1,1,1.0,0.0,,,,,2024
+20241905,2024-08-25 14:00:00,2,finished,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,Chelsea,WOL,CHE,2,6,2.0,2.0,,,,,2024
+20241103,2024-08-25 16:30:00,2,finished,Liverpool,Brentford,Liverpool,Brentford,LIV,BRE,2,0,1.0,0.0,,,,,2024
+20240004,2024-08-31 12:30:00,3,finished,Arsenal,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,ARS,BHA,1,1,1.0,0.0,,,,,2024
+20240316,2024-08-31 15:00:00,3,finished,Brentford,Southampton,Brentford,Southampton,BRE,SOU,3,1,1.0,0.0,,,,,2024
+20240702,2024-08-31 15:00:00,3,finished,Everton,Bournemouth,Everton,Bournemouth,EVE,BOU,2,3,0.0,0.0,,,,,2024
+20240908,2024-08-31 15:00:00,3,finished,Ipswich Town,Fulham,Ipswich Town,Fulham,IPS,FUL,1,1,1.0,1.0,,,,,2024
+20241001,2024-08-31 15:00:00,3,finished,Leicester City,Aston Villa,Leicester City,Aston Villa,LEI,AVL,1,2,0.0,1.0,,,,,2024
+20241519,2024-08-31 15:00:00,3,finished,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,NFO,WOL,1,1,1.0,1.0,,,,,2024
+20241812,2024-08-31 17:30:00,3,finished,West Ham United,Manchester City,West Ham United,Manchester City,WHU,MCI,1,3,1.0,2.0,,,,,2024
+20240506,2024-09-01 13:30:00,3,finished,Chelsea,Crystal Palace,Chelsea,Crystal Palace,CHE,CRY,1,1,1.0,0.0,,,,,2024
+20241417,2024-09-01 13:30:00,3,finished,Newcastle United,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,NEW,TOT,2,1,1.0,0.0,,,,,2024
+20241311,2024-09-01 16:00:00,3,finished,Manchester United,Liverpool,Manchester United,Liverpool,MUN,LIV,0,3,0.0,2.0,,,,,2024
+20241613,2024-09-14 12:30:00,4,finished,Southampton,Manchester United,Southampton,Manchester United,SOU,MUN,0,3,0.0,2.0,,,,,2024
+20240409,2024-09-14 15:00:00,4,finished,Brighton & Hove Albion,Ipswich Town,Brighton & Hove Albion,Ipswich Town,BHA,IPS,0,0,,,,,,,2024
+20240610,2024-09-14 15:00:00,4,finished,Crystal Palace,Leicester City,Crystal Palace,Leicester City,CRY,LEI,2,2,0.0,1.0,,,,,2024
+20240818,2024-09-14 15:00:00,4,finished,Fulham,West Ham United,Fulham,West Ham United,FUL,WHU,1,1,1.0,0.0,,,,,2024
+20241115,2024-09-14 15:00:00,4,finished,Liverpool,Nottingham Forest,Liverpool,Nottingham Forest,LIV,NFO,0,1,0.0,0.0,,,,,2024
+20241203,2024-09-14 15:00:00,4,finished,Manchester City,Brentford,Manchester City,Brentford,MCI,BRE,2,1,2.0,1.0,,,,,2024
+20240107,2024-09-14 17:30:00,4,finished,Aston Villa,Everton,Aston Villa,Everton,AVL,EVE,3,2,1.0,2.0,,,,,2024
+20240205,2024-09-14 20:00:00,4,finished,Bournemouth,Chelsea,Bournemouth,Chelsea,BOU,CHE,0,1,0.0,0.0,,,,,2024
+20241700,2024-09-15 14:00:00,4,finished,Tottenham Hotspur,Arsenal,Tottenham Hotspur,Arsenal,TOT,ARS,0,1,0.0,0.0,,,,,2024
+20241914,2024-09-15 16:30:00,4,finished,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,Newcastle United,WOL,NEW,1,2,1.0,0.0,,,,,2024
+20241805,2024-09-21 12:30:00,5,finished,West Ham United,Chelsea,West Ham United,Chelsea,WHU,CHE,0,3,0.0,2.0,,,,,2024
+20240119,2024-09-21 15:00:00,5,finished,Aston Villa,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,AVL,WOL,3,1,0.0,1.0,,,,,2024
+20240814,2024-09-21 15:00:00,5,finished,Fulham,Newcastle United,Fulham,Newcastle United,FUL,NEW,3,1,2.0,0.0,,,,,2024
+20241007,2024-09-21 15:00:00,5,finished,Leicester City,Everton,Leicester City,Everton,LEI,EVE,1,1,0.0,1.0,,,,,2024
+20241102,2024-09-21 15:00:00,5,finished,Liverpool,Bournemouth,Liverpool,Bournemouth,LIV,BOU,3,0,3.0,0.0,,,,,2024
+20241609,2024-09-21 15:00:00,5,finished,Southampton,Ipswich Town,Southampton,Ipswich Town,SOU,IPS,1,1,1.0,0.0,,,,,2024
+20241703,2024-09-21 15:00:00,5,finished,Tottenham Hotspur,Brentford,Tottenham Hotspur,Brentford,TOT,BRE,3,1,2.0,1.0,,,,,2024
+20240613,2024-09-21 17:30:00,5,finished,Crystal Palace,Manchester United,Crystal Palace,Manchester United,CRY,MUN,0,0,,,,,,,2024
+20240415,2024-09-22 14:00:00,5,finished,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,BHA,NFO,2,2,2.0,1.0,,,,,2024
+20241200,2024-09-22 16:30:00,5,finished,Manchester City,Arsenal,Manchester City,Arsenal,MCI,ARS,2,2,1.0,2.0,,,,,2024
+20241412,2024-09-28 12:30:00,6,finished,Newcastle United,Manchester City,Newcastle United,Manchester City,NEW,MCI,1,1,0.0,1.0,,,,,2024
+20240010,2024-09-28 15:00:00,6,finished,Arsenal,Leicester City,Arsenal,Leicester City,ARS,LEI,4,2,2.0,0.0,,,,,2024
+20240318,2024-09-28 15:00:00,6,finished,Brentford,West Ham United,Brentford,West Ham United,BRE,WHU,1,1,1.0,0.0,,,,,2024
+20240504,2024-09-28 15:00:00,6,finished,Chelsea,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,CHE,BHA,4,2,4.0,2.0,,,,,2024
+20240706,2024-09-28 15:00:00,6,finished,Everton,Crystal Palace,Everton,Crystal Palace,EVE,CRY,2,1,0.0,1.0,,,,,2024
+20241508,2024-09-28 15:00:00,6,finished,Nottingham Forest,Fulham,Nottingham Forest,Fulham,NFO,FUL,0,1,0.0,0.0,,,,,2024
+20241911,2024-09-28 17:30:00,6,finished,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,Liverpool,WOL,LIV,1,2,0.0,1.0,,,,,2024
+20240901,2024-09-29 14:00:00,6,finished,Ipswich Town,Aston Villa,Ipswich Town,Aston Villa,IPS,AVL,2,2,1.0,2.0,,,,,2024
+20241317,2024-09-29 16:30:00,6,finished,Manchester United,Tottenham Hotspur,Manchester United,Tottenham Hotspur,MUN,TOT,0,3,0.0,1.0,,,,,2024
+20240216,2024-09-30 20:00:00,6,finished,Bournemouth,Southampton,Bournemouth,Southampton,BOU,SOU,3,1,3.0,0.0,,,,,2024
+20240611,2024-10-05 12:30:00,7,finished,Crystal Palace,Liverpool,Crystal Palace,Liverpool,CRY,LIV,0,1,0.0,1.0,,,,,2024
+20240016,2024-10-05 15:00:00,7,finished,Arsenal,Southampton,Arsenal,Southampton,ARS,SOU,3,1,0.0,0.0,,,,,2024
+20240319,2024-10-05 15:00:00,7,finished,Brentford,Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,BRE,WOL,5,3,4.0,2.0,,,,,2024
+20241002,2024-10-05 15:00:00,7,finished,Leicester City,Bournemouth,Leicester City,Bournemouth,LEI,BOU,1,0,1.0,0.0,,,,,2024
+20241208,2024-10-05 15:00:00,7,finished,Manchester City,Fulham,Manchester City,Fulham,MCI,FUL,3,2,1.0,1.0,,,,,2024
+20241809,2024-10-05 15:00:00,7,finished,West Ham United,Ipswich Town,West Ham United,Ipswich Town,WHU,IPS,4,1,2.0,1.0,,,,,2024
+20240714,2024-10-05 17:30:00,7,finished,Everton,Newcastle United,Everton,Newcastle United,EVE,NEW,0,0,,,,,,,2024
+20240113,2024-10-06 14:00:00,7,finished,Aston Villa,Manchester United,Aston Villa,Manchester United,AVL,MUN,0,0,,,,,,,2024
+20240515,2024-10-06 14:00:00,7,finished,Chelsea,Nottingham Forest,Chelsea,Nottingham Forest,CHE,NFO,1,1,0.0,0.0,,,,,2024
+20240417,2024-10-06 16:30:00,7,finished,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,BHA,TOT,3,2,0.0,2.0,,,,,2024
+20241718,2024-10-19 12:30:00,8,finished,Tottenham Hotspur,West Ham United,Tottenham Hotspur,West Ham United,TOT,WHU,4,1,1.0,1.0,,,,,2024
+20240801,2024-10-19 15:00:00,8,finished,Fulham,Aston Villa,Fulham,Aston Villa,FUL,AVL,1,3,1.0,1.0,,,,,2024
+20240907,2024-10-19 15:00:00,8,finished,Ipswich Town,Everton,Ipswich Town,Everton,IPS,EVE,0,2,0.0,2.0,,,,,2024
+20241303,2024-10-19 15:00:00,8,finished,Manchester United,Brentford,Manchester United,Brentford,MUN,BRE,2,1,0.0,1.0,,,,,2024
+20241404,2024-10-19 15:00:00,8,finished,Newcastle United,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,NEW,BHA,0,1,0.0,1.0,,,,,2024
+20241610,2024-10-19 15:00:00,8,finished,Southampton,Leicester City,Southampton,Leicester City,SOU,LEI,2,3,2.0,0.0,,,,,2024
+20240200,2024-10-19 17:30:00,8,finished,Bournemouth,Arsenal,Bournemouth,Arsenal,BOU,ARS,2,0,0.0,0.0,,,,,2024
+20241912,2024-10-20 14:00:00,8,finished,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,Manchester City,WOL,MCI,1,2,1.0,1.0,,,,,2024
+20241105,2024-10-20 16:30:00,8,finished,Liverpool,Chelsea,Liverpool,Chelsea,LIV,CHE,2,1,1.0,0.0,,,,,2024
+20241506,2024-10-21 20:00:00,8,finished,Nottingham Forest,Crystal Palace,Nottingham Forest,Crystal Palace,NFO,CRY,1,0,0.0,0.0,,,,,2024
+20241015,2024-10-25 20:00:00,9,finished,Leicester City,Nottingham Forest,Leicester City,Nottingham Forest,LEI,NFO,1,3,1.0,1.0,,,,,2024
+20240102,2024-10-26 15:00:00,9,finished,Aston Villa,Bournemouth,Aston Villa,Bournemouth,AVL,BOU,1,1,0.0,0.0,,,,,2024
+20240309,2024-10-26 15:00:00,9,finished,Brentford,Ipswich Town,Brentford,Ipswich Town,BRE,IPS,4,3,2.0,2.0,,,,,2024
+20240419,2024-10-26 15:00:00,9,finished,Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,BHA,WOL,2,2,1.0,0.0,,,,,2024
+20241216,2024-10-26 15:00:00,9,finished,Manchester City,Southampton,Manchester City,Southampton,MCI,SOU,1,0,1.0,0.0,,,,,2024
+20240708,2024-10-26 17:30:00,9,finished,Everton,Fulham,Everton,Fulham,EVE,FUL,1,1,0.0,0.0,,,,,2024
+20240514,2024-10-27 14:00:00,9,finished,Chelsea,Newcastle United,Chelsea,Newcastle United,CHE,NEW,2,1,1.0,1.0,,,,,2024
+20240617,2024-10-27 14:00:00,9,finished,Crystal Palace,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,CRY,TOT,1,0,1.0,0.0,,,,,2024
+20241813,2024-10-27 14:00:00,9,finished,West Ham United,Manchester United,West Ham United,Manchester United,WHU,MUN,2,1,0.0,0.0,,,,,2024
+20240011,2024-10-27 16:30:00,9,finished,Arsenal,Liverpool,Arsenal,Liverpool,ARS,LIV,2,2,2.0,1.0,,,,,2024
+20241400,2024-11-02 12:30:00,10,finished,Newcastle United,Arsenal,Newcastle United,Arsenal,NEW,ARS,1,0,1.0,0.0,,,,,2024
+20240212,2024-11-02 15:00:00,10,finished,Bournemouth,Manchester City,Bournemouth,Manchester City,BOU,MCI,2,1,1.0,0.0,,,,,2024
+20240910,2024-11-02 15:00:00,10,finished,Ipswich Town,Leicester City,Ipswich Town,Leicester City,IPS,LEI,1,1,0.0,0.0,,,,,2024
+20241104,2024-11-02 15:00:00,10,finished,Liverpool,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,LIV,BHA,2,1,0.0,1.0,,,,,2024
+20241518,2024-11-02 15:00:00,10,finished,Nottingham Forest,West Ham United,Nottingham Forest,West Ham United,NFO,WHU,3,0,1.0,0.0,,,,,2024
+20241607,2024-11-02 15:00:00,10,finished,Southampton,Everton,Southampton,Everton,SOU,EVE,1,0,0.0,0.0,,,,,2024
+20241906,2024-11-02 17:30:00,10,finished,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,WOL,CRY,2,2,0.0,0.0,,,,,2024
+20241701,2024-11-03 14:00:00,10,finished,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,Aston Villa,TOT,AVL,4,1,0.0,1.0,,,,,2024
+20241305,2024-11-03 16:30:00,10,finished,Manchester United,Chelsea,Manchester United,Chelsea,MUN,CHE,1,1,0.0,0.0,,,,,2024
+20240803,2024-11-04 20:00:00,10,finished,Fulham,Brentford,Fulham,Brentford,FUL,BRE,2,1,0.0,1.0,,,,,2024
+20240302,2024-11-09 15:00:00,11,finished,Brentford,Bournemouth,Brentford,Bournemouth,BRE,BOU,3,2,1.0,1.0,,,,,2024
+20240608,2024-11-09 15:00:00,11,finished,Crystal Palace,Fulham,Crystal Palace,Fulham,CRY,FUL,0,2,0.0,1.0,,,,,2024
+20241807,2024-11-09 15:00:00,11,finished,West Ham United,Everton,West Ham United,Everton,WHU,EVE,0,0,,,,,,,2024
+20241916,2024-11-09 15:00:00,11,finished,Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers,Southampton,WOL,SOU,2,0,1.0,0.0,,,,,2024
+20240412,2024-11-09 17:30:00,11,finished,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,Manchester City,BHA,MCI,2,1,0.0,1.0,,,,,2024
+20241101,2024-11-09 20:00:00,11,finished,Liverpool,Aston Villa,Liverpool,Aston Villa,LIV,AVL,2,0,1.0,0.0,,,,,2024
+20241310,2024-11-10 14:00:00,11,finished,Manchester United,Leicester City,Manchester United,Leicester City,MUN,LEI,3,0,2.0,0.0,,,,,2024
+20241514,2024-11-10 14:00:00,11,finished,Nottingham Forest,Newcastle United,Nottingham Forest,Newcastle United,NFO,NEW,1,3,1.0,0.0,,,,,2024
+20241709,2024-11-10 14:00:00,11,finished,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur,Ipswich Town,TOT,IPS,1,2,0.0,2.0,,,,,2024
+20240500,2024-11-10 16:30:00,11,finished,Chelsea,Arsenal,Chelsea,Arsenal,CHE,ARS,1,1,0.0,0.0,,,,,2024
+20241005,2024-11-23 12:30:00,12,finished,Leicester City,Chelsea,Leicester City,Chelsea,LEI,CHE,1,2,0.0,1.0,,,,,2024
+20240015,2024-11-23 15:00:00,12,finished,Arsenal,Nottingham Forest,Arsenal,Nottingham Forest,ARS,NFO,3,0,1.0,0.0,,,,,2024
+20240106,2024-11-23 15:00:00,12,finished,Aston Villa,Crystal Palace,Aston Villa,Crystal Palace,AVL,CRY,2,2,1.0,2.0,,,,,2024
+20240204,2024-11-23 15:00:00,12,finished,Bournemouth,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,BOU,BHA,1,2,0.0,1.0,,,,,2024
+20240703,2024-11-23 15:00:00,12,finished,Everton,Brentford,Everton,Brentford,EVE,BRE,0,0,,,,,,,2024
+20240819,2024-11-23 15:00:00,12,finished,Fulham,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,FUL,WOL,1,4,1.0,1.0,,,,,2024
+20241217,2024-11-23 17:30:00,12,finished,Manchester City,Tottenham Hotspur,Manchester City,Tottenham Hotspur,MCI,TOT,0,4,0.0,2.0,,,,,2024
+20241611,2024-11-24 14:00:00,12,finished,Southampton,Liverpool,Southampton,Liverpool,SOU,LIV,2,3,1.0,1.0,,,,,2024
+20240913,2024-11-24 16:30:00,12,finished,Ipswich Town,Manchester United,Ipswich Town,Manchester United,IPS,MUN,1,1,1.0,1.0,,,,,2024
+20241418,2024-11-25 20:00:00,12,finished,Newcastle United,West Ham United,Newcastle United,West Ham United,NEW,WHU,0,2,0.0,1.0,,,,,2024
+20240416,2024-11-29 20:00:00,13,finished,Brighton & Hove Albion,Southampton,Brighton & Hove Albion,Southampton,BHA,SOU,1,1,1.0,0.0,,,,,2024
+20240310,2024-11-30 15:00:00,13,finished,Brentford,Leicester City,Brentford,Leicester City,BRE,LEI,4,1,3.0,1.0,,,,,2024
+20240614,2024-11-30 15:00:00,13,finished,Crystal Palace,Newcastle United,Crystal Palace,Newcastle United,CRY,NEW,1,1,0.0,0.0,,,,,2024
+20241509,2024-11-30 15:00:00,13,finished,Nottingham Forest,Ipswich Town,Nottingham Forest,Ipswich Town,NFO,IPS,1,0,0.0,0.0,,,,,2024
+20241902,2024-11-30 15:00:00,13,finished,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Bournemouth,WOL,BOU,2,4,1.0,3.0,,,,,2024
+20241800,2024-11-30 17:30:00,13,finished,West Ham United,Arsenal,West Ham United,Arsenal,WHU,ARS,2,5,2.0,5.0,,,,,2024
+20240501,2024-12-01 13:30:00,13,finished,Chelsea,Aston Villa,Chelsea,Aston Villa,CHE,AVL,3,0,2.0,0.0,,,,,2024
+20241307,2024-12-01 13:30:00,13,finished,Manchester United,Everton,Manchester United,Everton,MUN,EVE,4,0,2.0,0.0,,,,,2024
+20241708,2024-12-01 13:30:00,13,finished,Tottenham Hotspur,Fulham,Tottenham Hotspur,Fulham,TOT,FUL,1,1,0.0,0.0,,,,,2024
+20241112,2024-12-01 16:00:00,13,finished,Liverpool,Manchester City,Liverpool,Manchester City,LIV,MCI,2,0,1.0,0.0,,,,,2024
+20240906,2024-12-03 19:30:00,14,finished,Ipswich Town,Crystal Palace,Ipswich Town,Crystal Palace,IPS,CRY,0,1,0.0,0.0,,,,,2024
+20241018,2024-12-03 20:15:00,14,finished,Leicester City,West Ham United,Leicester City,West Ham United,LEI,WHU,3,1,1.0,0.0,,,,,2024
+20240719,2024-12-04 19:30:00,14,finished,Everton,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,EVE,WOL,4,0,2.0,0.0,,,,,2024
+20241215,2024-12-04 19:30:00,14,finished,Manchester City,Nottingham Forest,Manchester City,Nottingham Forest,MCI,NFO,3,0,2.0,0.0,,,,,2024
+20241411,2024-12-04 19:30:00,14,finished,Newcastle United,Liverpool,Newcastle United,Liverpool,NEW,LIV,3,3,1.0,0.0,,,,,2024
+20241605,2024-12-04 19:30:00,14,finished,Southampton,Chelsea,Southampton,Chelsea,SOU,CHE,1,5,1.0,3.0,,,,,2024
+20240013,2024-12-04 20:15:00,14,finished,Arsenal,Manchester United,Arsenal,Manchester United,ARS,MUN,2,0,0.0,0.0,,,,,2024
+20240103,2024-12-04 20:15:00,14,finished,Aston Villa,Brentford,Aston Villa,Brentford,AVL,BRE,3,1,3.0,0.0,,,,,2024
+20240804,2024-12-05 19:30:00,14,finished,Fulham,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,FUL,BHA,3,1,1.0,0.0,,,,,2024
+20240217,2024-12-05 20:15:00,14,finished,Bournemouth,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,BOU,TOT,1,0,1.0,0.0,,,,,2024
+20240116,2024-12-07 15:00:00,15,finished,Aston Villa,Southampton,Aston Villa,Southampton,AVL,SOU,1,0,1.0,0.0,,,,,2024
+20240314,2024-12-07 15:00:00,15,finished,Brentford,Newcastle United,Brentford,Newcastle United,BRE,NEW,4,2,2.0,2.0,,,,,2024
+20240612,2024-12-07 15:00:00,15,finished,Crystal Palace,Manchester City,Crystal Palace,Manchester City,CRY,MCI,2,2,1.0,1.0,,,,,2024
+20241315,2024-12-07 17:30:00,15,finished,Manchester United,Nottingham Forest,Manchester United,Nottingham Forest,MUN,NFO,2,3,1.0,1.0,,,,,2024
+20240800,2024-12-08 14:00:00,15,finished,Fulham,Arsenal,Fulham,Arsenal,FUL,ARS,1,1,1.0,0.0,,,,,2024
+20240902,2024-12-08 14:00:00,15,finished,Ipswich Town,Bournemouth,Ipswich Town,Bournemouth,IPS,BOU,1,2,1.0,0.0,,,,,2024
+20241004,2024-12-08 14:00:00,15,finished,Leicester City,Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,LEI,BHA,2,2,0.0,1.0,,,,,2024
+20241705,2024-12-08 16:30:00,15,finished,Tottenham Hotspur,Chelsea,Tottenham Hotspur,Chelsea,TOT,CHE,3,4,2.0,1.0,,,,,2024
+20241819,2024-12-09 20:00:00,15,finished,West Ham United,Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,WHU,WOL,2,1,0.0,0.0,,,,,2024
+20240007,2024-12-14 15:00:00,16,finished,Arsenal,Everton,Arsenal,Everton,ARS,EVE,0,0,,,,,,,2024
+20241108,2024-12-14 15:00:00,16,finished,Liverpool,Fulham,Liverpool,Fulham,LIV,FUL,2,2,0.0,1.0,,,,,2024
+20241410,2024-12-14 15:00:00,16,finished,Newcastle United,Leicester City,Newcastle United,Leicester City,NEW,LEI,4,0,1.0,0.0,,,,,2024
+20241909,2024-12-14 15:00:00,16,finished,Wolverhampton Wanderers,Ipswich Town,Wolverhampton Wanderers,Ipswich Town,WOL,IPS,1,2,0.0,1.0,,,,,2024
+20241501,2024-12-14 17:30:00,16,finished,Nottingham Forest,Aston Villa,Nottingham Forest,Aston Villa,NFO,AVL,2,1,0.0,0.0,,,,,2024
+20240406,2024-12-15 14:00:00,16,finished,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,Crystal Palace,BHA,CRY,1,3,0.0,2.0,,,,,2024
+20241213,2024-12-15 16:30:00,16,finished,Manchester City,Manchester United,Manchester City,Manchester United,MCI,MUN,1,2,1.0,0.0,,,,,2024
+20240503,2024-12-15 19:00:00,16,finished,Chelsea,Brentford,Chelsea,Brentford,CHE,BRE,2,1,1.0,0.0,,,,,2024
+20241617,2024-12-15 19:00:00,16,finished,Southampton,Tottenham Hotspur,Southampton,Tottenham Hotspur,SOU,TOT,0,5,0.0,5.0,,,,,2024
+20240218,2024-12-16 20:00:00,16,finished,Bournemouth,West Ham United,Bournemouth,West Ham United,BOU,WHU,1,1,0.0,0.0,,,,,2024
+20240112,2024-12-21 12:30:00,17,finished,Aston Villa,Manchester City,Aston Villa,Manchester City,AVL,MCI,2,1,1.0,0.0,,,,,2024
+20240315,2024-12-21 15:00:00,17,finished,Brentford,Nottingham Forest,Brentford,Nottingham Forest,BRE,NFO,0,2,0.0,1.0,,,,,2024
+20240914,2024-12-21 15:00:00,17,finished,Ipswich Town,Newcastle United,Ipswich Town,Newcastle United,IPS,NEW,0,4,0.0,3.0,,,,,2024
+20241804,2024-12-21 15:00:00,17,finished,West Ham United,Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,WHU,BHA,1,1,0.0,0.0,,,,,2024
+20240600,2024-12-21 17:30:00,17,finished,Crystal Palace,Arsenal,Crystal Palace,Arsenal,CRY,ARS,1,5,1.0,3.0,,,,,2024
+20240705,2024-12-22 14:00:00,17,finished,Everton,Chelsea,Everton,Chelsea,EVE,CHE,0,0,,,,,,,2024
+20240816,2024-12-22 14:00:00,17,finished,Fulham,Southampton,Fulham,Southampton,FUL,SOU,0,0,,,,,,,2024
+20241019,2024-12-22 14:00:00,17,finished,Leicester City,Wolverhampton Wanderers,Leicester City,Wolverhampton Wanderers,LEI,WOL,0,3,0.0,3.0,,,,,2024
+20241302,2024-12-22 14:00:00,17,finished,Manchester United,Bournemouth,Manchester United,Bournemouth,MUN,BOU,0,3,0.0,1.0,,,,,2024
+20241711,2024-12-22 16:30:00,17,finished,Tottenham Hotspur,Liverpool,Tottenham Hotspur,Liverpool,TOT,LIV,3,6,1.0,3.0,,,,,2024
+20241207,2024-12-26 12:30:00,18,finished,Manchester City,Everton,Manchester City,Everton,MCI,EVE,1,1,1.0,1.0,,,,,2024
+20240206,2024-12-26 15:00:00,18,finished,Bournemouth,Crystal Palace,Bournemouth,Crystal Palace,BOU,CRY,0,0,,,,,,,2024
+20240508,2024-12-26 15:00:00,18,finished,Chelsea,Fulham,Chelsea,Fulham,CHE,FUL,1,2,1.0,0.0,,,,,2024
+20241401,2024-12-26 15:00:00,18,finished,Newcastle United,Aston Villa,Newcastle United,Aston Villa,NEW,AVL,3,0,1.0,0.0,,,,,2024
+20241517,2024-12-26 15:00:00,18,finished,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,NFO,TOT,1,0,1.0,0.0,,,,,2024
+20241618,2024-12-26 15:00:00,18,finished,Southampton,West Ham United,Southampton,West Ham United,SOU,WHU,0,1,0.0,0.0,,,,,2024
+20241913,2024-12-26 17:30:00,18,finished,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,Manchester United,WOL,MUN,2,0,0.0,0.0,,,,,2024
+20241110,2024-12-26 20:00:00,18,finished,Liverpool,Leicester City,Liverpool,Leicester City,LIV,LEI,3,1,1.0,1.0,,,,,2024
+20240403,2024-12-27 19:30:00,18,finished,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,Brentford,BHA,BRE,0,0,,,,,,,2024
+20240009,2024-12-27 20:15:00,18,finished,Arsenal,Ipswich Town,Arsenal,Ipswich Town,ARS,IPS,1,0,1.0,0.0,,,,,2024
+20241012,2024-12-29 14:30:00,19,finished,Leicester City,Manchester City,Leicester City,Manchester City,LEI,MCI,0,2,0.0,1.0,,,,,2024
+20240616,2024-12-29 15:00:00,19,finished,Crystal Palace,Southampton,Crystal Palace,Southampton,CRY,SOU,2,1,1.0,1.0,,,,,2024
+20240715,2024-12-29 15:00:00,19,finished,Everton,Nottingham Forest,Everton,Nottingham Forest,EVE,NFO,0,2,0.0,1.0,,,,,2024
+20240802,2024-12-29 15:00:00,19,finished,Fulham,Bournemouth,Fulham,Bournemouth,FUL,BOU,2,2,1.0,0.0,,,,,2024
+20241719,2024-12-29 15:00:00,19,finished,Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,TOT,WOL,2,2,2.0,1.0,,,,,2024
+20241811,2024-12-29 17:15:00,19,finished,West Ham United,Liverpool,West Ham United,Liverpool,WHU,LIV,0,5,0.0,3.0,,,,,2024
+20240104,2024-12-30 19:45:00,19,finished,Aston Villa,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,AVL,BHA,2,2,1.0,1.0,,,,,2024
+20240905,2024-12-30 19:45:00,19,finished,Ipswich Town,Chelsea,Ipswich Town,Chelsea,IPS,CHE,2,0,1.0,0.0,,,,,2024
+20241314,2024-12-30 20:00:00,19,finished,Manchester United,Newcastle United,Manchester United,Newcastle United,MUN,NEW,0,2,0.0,2.0,,,,,2024
+20240300,2025-01-01 17:30:00,19,finished,Brentford,Arsenal,Brentford,Arsenal,BRE,ARS,1,3,1.0,1.0,,,,,2024
+20241714,2025-01-04 12:30:00,20,finished,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Newcastle United,TOT,NEW,1,2,1.0,2.0,,,,,2024
+20240110,2025-01-04 15:00:00,20,finished,Aston Villa,Leicester City,Aston Villa,Leicester City,AVL,LEI,2,1,0.0,0.0,,,,,2024
+20240207,2025-01-04 15:00:00,20,finished,Bournemouth,Everton,Bournemouth,Everton,BOU,EVE,1,0,0.0,0.0,,,,,2024
+20240605,2025-01-04 15:00:00,20,finished,Crystal Palace,Chelsea,Crystal Palace,Chelsea,CRY,CHE,1,1,0.0,1.0,,,,,2024
+20241218,2025-01-04 15:00:00,20,finished,Manchester City,West Ham United,Manchester City,West Ham United,MCI,WHU,4,1,2.0,0.0,,,,,2024
+20241603,2025-01-04 15:00:00,20,finished,Southampton,Brentford,Southampton,Brentford,SOU,BRE,0,5,0.0,1.0,,,,,2024
+20240400,2025-01-04 17:30:00,20,finished,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,Arsenal,BHA,ARS,1,1,0.0,1.0,,,,,2024
+20240809,2025-01-05 14:00:00,20,finished,Fulham,Ipswich Town,Fulham,Ipswich Town,FUL,IPS,2,2,0.0,1.0,,,,,2024
+20241113,2025-01-05 16:30:00,20,finished,Liverpool,Manchester United,Liverpool,Manchester United,LIV,MUN,2,2,0.0,0.0,,,,,2024
+20241915,2025-01-06 20:00:00,20,finished,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,WOL,NFO,0,3,0.0,2.0,,,,,2024
+20240312,2025-01-14 19:30:00,21,finished,Brentford,Manchester City,Brentford,Manchester City,BRE,MCI,2,2,0.0,0.0,,,,,2024
+20240502,2025-01-14 19:30:00,21,finished,Chelsea,Bournemouth,Chelsea,Bournemouth,CHE,BOU,2,2,1.0,0.0,,,,,2024
+20241808,2025-01-14 19:30:00,21,finished,West Ham United,Fulham,West Ham United,Fulham,WHU,FUL,3,2,2.0,0.0,,,,,2024
+20241511,2025-01-14 20:00:00,21,finished,Nottingham Forest,Liverpool,Nottingham Forest,Liverpool,NFO,LIV,1,1,1.0,0.0,,,,,2024
+20240701,2025-01-15 19:30:00,21,finished,Everton,Aston Villa,Everton,Aston Villa,EVE,AVL,0,1,0.0,0.0,,,,,2024
+20241006,2025-01-15 19:30:00,21,finished,Leicester City,Crystal Palace,Leicester City,Crystal Palace,LEI,CRY,0,2,0.0,0.0,,,,,2024
+20241419,2025-01-15 19:30:00,21,finished,Newcastle United,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,NEW,WOL,3,0,1.0,0.0,,,,,2024
+20240017,2025-01-15 20:00:00,21,finished,Arsenal,Tottenham Hotspur,Arsenal,Tottenham Hotspur,ARS,TOT,2,1,2.0,1.0,,,,,2024
+20240904,2025-01-16 19:30:00,21,finished,Ipswich Town,Brighton & Hove Albion,Ipswich Town,Brighton & Hove Albion,IPS,BHA,0,2,0.0,0.0,,,,,2024
+20241316,2025-01-16 20:00:00,21,finished,Manchester United,Southampton,Manchester United,Southampton,MUN,SOU,3,1,0.0,1.0,,,,,2024
+20241402,2025-01-18 12:30:00,22,finished,Newcastle United,Bournemouth,Newcastle United,Bournemouth,NEW,BOU,1,4,1.0,2.0,,,,,2024
+20240311,2025-01-18 15:00:00,22,finished,Brentford,Liverpool,Brentford,Liverpool,BRE,LIV,0,2,0.0,0.0,,,,,2024
+20241008,2025-01-18 15:00:00,22,finished,Leicester City,Fulham,Leicester City,Fulham,LEI,FUL,0,2,0.0,0.0,,,,,2024
+20241806,2025-01-18 15:00:00,22,finished,West Ham United,Crystal Palace,West Ham United,Crystal Palace,WHU,CRY,0,2,0.0,0.0,,,,,2024
+20240001,2025-01-18 17:30:00,22,finished,Arsenal,Aston Villa,Arsenal,Aston Villa,ARS,AVL,2,2,1.0,0.0,,,,,2024
+20240717,2025-01-19 14:00:00,22,finished,Everton,Tottenham Hotspur,Everton,Tottenham Hotspur,EVE,TOT,3,2,3.0,0.0,,,,,2024
+20241304,2025-01-19 14:00:00,22,finished,Manchester United,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,MUN,BHA,1,3,1.0,1.0,,,,,2024
+20241516,2025-01-19 14:00:00,22,finished,Nottingham Forest,Southampton,Nottingham Forest,Southampton,NFO,SOU,3,2,3.0,0.0,,,,,2024
+20240912,2025-01-19 16:30:00,22,finished,Ipswich Town,Manchester City,Ipswich Town,Manchester City,IPS,MCI,0,6,0.0,3.0,,,,,2024
+20240519,2025-01-20 20:00:00,22,finished,Chelsea,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,CHE,WOL,3,1,1.0,1.0,,,,,2024
+20240215,2025-01-25 15:00:00,23,finished,Bournemouth,Nottingham Forest,Bournemouth,Nottingham Forest,BOU,NFO,5,0,1.0,0.0,,,,,2024
+20240407,2025-01-25 15:00:00,23,finished,Brighton & Hove Albion,Everton,Brighton & Hove Albion,Everton,BHA,EVE,0,1,0.0,1.0,,,,,2024
+20241109,2025-01-25 15:00:00,23,finished,Liverpool,Ipswich Town,Liverpool,Ipswich Town,LIV,IPS,4,1,3.0,0.0,,,,,2024
+20241614,2025-01-25 15:00:00,23,finished,Southampton,Newcastle United,Southampton,Newcastle United,SOU,NEW,1,3,1.0,2.0,,,,,2024
+20241900,2025-01-25 15:00:00,23,finished,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,Arsenal,WOL,ARS,0,1,0.0,0.0,,,,,2024
+20241205,2025-01-25 17:30:00,23,finished,Manchester City,Chelsea,Manchester City,Chelsea,MCI,CHE,3,1,1.0,1.0,,,,,2024
+20240603,2025-01-26 14:00:00,23,finished,Crystal Palace,Brentford,Crystal Palace,Brentford,CRY,BRE,1,2,0.0,0.0,,,,,2024
+20241710,2025-01-26 14:00:00,23,finished,Tottenham Hotspur,Leicester City,Tottenham Hotspur,Leicester City,TOT,LEI,1,2,1.0,0.0,,,,,2024
+20240118,2025-01-26 16:30:00,23,finished,Aston Villa,West Ham United,Aston Villa,West Ham United,AVL,WHU,1,1,1.0,0.0,,,,,2024
+20240813,2025-01-26 19:00:00,23,finished,Fulham,Manchester United,Fulham,Manchester United,FUL,MUN,0,1,0.0,0.0,,,,,2024
+20241504,2025-02-01 12:30:00,24,finished,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,NFO,BHA,7,0,3.0,0.0,,,,,2024
+20240211,2025-02-01 15:00:00,24,finished,Bournemouth,Liverpool,Bournemouth,Liverpool,BOU,LIV,0,2,0.0,1.0,,,,,2024
+20240710,2025-02-01 15:00:00,24,finished,Everton,Leicester City,Everton,Leicester City,EVE,LEI,4,0,3.0,0.0,,,,,2024
+20240916,2025-02-01 15:00:00,24,finished,Ipswich Town,Southampton,Ipswich Town,Southampton,IPS,SOU,1,2,1.0,1.0,,,,,2024
+20241408,2025-02-01 15:00:00,24,finished,Newcastle United,Fulham,Newcastle United,Fulham,NEW,FUL,1,2,1.0,0.0,,,,,2024
+20241901,2025-02-01 17:30:00,24,finished,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Aston Villa,WOL,AVL,2,0,1.0,0.0,,,,,2024
+20240317,2025-02-02 14:00:00,24,finished,Brentford,Tottenham Hotspur,Brentford,Tottenham Hotspur,BRE,TOT,0,2,0.0,1.0,,,,,2024
+20241306,2025-02-02 14:00:00,24,finished,Manchester United,Crystal Palace,Manchester United,Crystal Palace,MUN,CRY,0,2,0.0,0.0,,,,,2024
+20240012,2025-02-02 16:30:00,24,finished,Arsenal,Manchester City,Arsenal,Manchester City,ARS,MCI,5,1,1.0,0.0,,,,,2024
+20240518,2025-02-03 20:00:00,24,finished,Chelsea,West Ham United,Chelsea,West Ham United,CHE,WHU,2,1,0.0,1.0,,,,,2024
+20240711,2025-02-12 19:30:00,15,finished,Everton,Liverpool,Everton,Liverpool,EVE,LIV,2,2,1.0,1.0,,,,,2024
+20240405,2025-02-14 20:00:00,25,finished,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Chelsea,BHA,CHE,3,0,2.0,0.0,,,,,2024
+20241000,2025-02-15 12:30:00,25,finished,Leicester City,Arsenal,Leicester City,Arsenal,LEI,ARS,0,2,0.0,0.0,,,,,2024
+20240109,2025-02-15 15:00:00,25,finished,Aston Villa,Ipswich Town,Aston Villa,Ipswich Town,AVL,IPS,1,1,0.0,0.0,,,,,2024
+20240815,2025-02-15 15:00:00,25,finished,Fulham,Nottingham Forest,Fulham,Nottingham Forest,FUL,NFO,2,1,1.0,1.0,,,,,2024
+20241214,2025-02-15 15:00:00,25,finished,Manchester City,Newcastle United,Manchester City,Newcastle United,MCI,NEW,4,0,3.0,0.0,,,,,2024
+20241602,2025-02-15 15:00:00,25,finished,Southampton,Bournemouth,Southampton,Bournemouth,SOU,BOU,1,3,0.0,2.0,,,,,2024
+20241803,2025-02-15 15:00:00,25,finished,West Ham United,Brentford,West Ham United,Brentford,WHU,BRE,0,1,0.0,1.0,,,,,2024
+20240607,2025-02-15 17:30:00,25,finished,Crystal Palace,Everton,Crystal Palace,Everton,CRY,EVE,1,2,0.0,1.0,,,,,2024
+20241119,2025-02-16 14:00:00,25,finished,Liverpool,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,LIV,WOL,2,1,2.0,0.0,,,,,2024
+20241713,2025-02-16 16:30:00,25,finished,Tottenham Hotspur,Manchester United,Tottenham Hotspur,Manchester United,TOT,MUN,1,0,1.0,0.0,,,,,2024
+20240111,2025-02-19 19:30:00,29,finished,Aston Villa,Liverpool,Aston Villa,Liverpool,AVL,LIV,2,2,2.0,1.0,,,,,2024
+20241003,2025-02-21 20:00:00,26,finished,Leicester City,Brentford,Leicester City,Brentford,LEI,BRE,0,4,0.0,3.0,,,,,2024
+20240713,2025-02-22 12:30:00,26,finished,Everton,Manchester United,Everton,Manchester United,EVE,MUN,2,2,2.0,0.0,,,,,2024
+20240018,2025-02-22 15:00:00,26,finished,Arsenal,West Ham United,Arsenal,West Ham United,ARS,WHU,0,1,0.0,1.0,,,,,2024
+20240219,2025-02-22 15:00:00,26,finished,Bournemouth,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,BOU,WOL,0,1,0.0,1.0,,,,,2024
+20240806,2025-02-22 15:00:00,26,finished,Fulham,Crystal Palace,Fulham,Crystal Palace,FUL,CRY,0,2,0.0,1.0,,,,,2024
+20240917,2025-02-22 15:00:00,26,finished,Ipswich Town,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur,IPS,TOT,1,4,1.0,2.0,,,,,2024
+20241604,2025-02-22 15:00:00,26,finished,Southampton,Brighton & Hove Albion,Southampton,Brighton & Hove Albion,SOU,BHA,0,4,0.0,1.0,,,,,2024
+20240105,2025-02-22 17:30:00,26,finished,Aston Villa,Chelsea,Aston Villa,Chelsea,AVL,CHE,2,1,0.0,1.0,,,,,2024
+20241415,2025-02-23 14:00:00,26,finished,Newcastle United,Nottingham Forest,Newcastle United,Nottingham Forest,NEW,NFO,4,3,4.0,1.0,,,,,2024
+20241211,2025-02-23 16:30:00,26,finished,Manchester City,Liverpool,Manchester City,Liverpool,MCI,LIV,0,2,0.0,2.0,,,,,2024
+20240402,2025-02-25 19:30:00,27,finished,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,Bournemouth,BHA,BOU,2,1,1.0,0.0,,,,,2024
+20240601,2025-02-25 19:30:00,27,finished,Crystal Palace,Aston Villa,Crystal Palace,Aston Villa,CRY,AVL,4,1,1.0,0.0,,,,,2024
+20241908,2025-02-25 19:30:00,27,finished,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,Fulham,WOL,FUL,1,2,1.0,1.0,,,,,2024
+20240516,2025-02-25 20:15:00,27,finished,Chelsea,Southampton,Chelsea,Southampton,CHE,SOU,4,0,3.0,0.0,,,,,2024
+20240307,2025-02-26 19:30:00,27,finished,Brentford,Everton,Brentford,Everton,BRE,EVE,1,1,1.0,0.0,,,,,2024
+20241309,2025-02-26 19:30:00,27,finished,Manchester United,Ipswich Town,Manchester United,Ipswich Town,MUN,IPS,3,2,2.0,2.0,,,,,2024
+20241500,2025-02-26 19:30:00,27,finished,Nottingham Forest,Arsenal,Nottingham Forest,Arsenal,NFO,ARS,0,0,,,,,,,2024
+20241712,2025-02-26 19:30:00,27,finished,Tottenham Hotspur,Manchester City,Tottenham Hotspur,Manchester City,TOT,MCI,0,1,0.0,1.0,,,,,2024
+20241114,2025-02-26 20:15:00,27,finished,Liverpool,Newcastle United,Liverpool,Newcastle United,LIV,NEW,2,0,1.0,0.0,,,,,2024
+20241810,2025-02-27 20:00:00,27,finished,West Ham United,Leicester City,West Ham United,Leicester City,WHU,LEI,2,0,2.0,0.0,,,,,2024
+20241512,2025-03-08 12:30:00,28,finished,Nottingham Forest,Manchester City,Nottingham Forest,Manchester City,NFO,MCI,1,0,0.0,0.0,,,,,2024
+20240408,2025-03-08 15:00:00,28,finished,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,Fulham,BHA,FUL,2,1,1.0,1.0,,,,,2024
+20240609,2025-03-08 15:00:00,28,finished,Crystal Palace,Ipswich Town,Crystal Palace,Ipswich Town,CRY,IPS,1,0,0.0,0.0,,,,,2024
+20241116,2025-03-08 15:00:00,28,finished,Liverpool,Southampton,Liverpool,Southampton,LIV,SOU,3,1,0.0,1.0,,,,,2024
+20240301,2025-03-08 17:30:00,28,finished,Brentford,Aston Villa,Brentford,Aston Villa,BRE,AVL,0,1,0.0,0.0,,,,,2024
+20241907,2025-03-08 20:00:00,28,finished,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,Everton,WOL,EVE,1,1,1.0,1.0,,,,,2024
+20240510,2025-03-09 14:00:00,28,finished,Chelsea,Leicester City,Chelsea,Leicester City,CHE,LEI,1,0,0.0,0.0,,,,,2024
+20241702,2025-03-09 14:00:00,28,finished,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,Bournemouth,TOT,BOU,2,2,0.0,1.0,,,,,2024
+20241300,2025-03-09 16:30:00,28,finished,Manchester United,Arsenal,Manchester United,Arsenal,MUN,ARS,1,1,1.0,0.0,,,,,2024
+20241814,2025-03-10 20:00:00,28,finished,West Ham United,Newcastle United,West Ham United,Newcastle United,WHU,NEW,0,1,0.0,0.0,,,,,2024
+20240718,2025-03-15 15:00:00,29,finished,Everton,West Ham United,Everton,West Ham United,EVE,WHU,1,1,0.0,0.0,,,,,2024
+20240915,2025-03-15 15:00:00,29,finished,Ipswich Town,Nottingham Forest,Ipswich Town,Nottingham Forest,IPS,NFO,2,4,0.0,3.0,,,,,2024
+20241204,2025-03-15 15:00:00,29,finished,Manchester City,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,MCI,BHA,2,2,2.0,1.0,,,,,2024
+20241619,2025-03-15 15:00:00,29,finished,Southampton,Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers,SOU,WOL,1,2,0.0,1.0,,,,,2024
+20240203,2025-03-15 17:30:00,29,finished,Bournemouth,Brentford,Bournemouth,Brentford,BOU,BRE,1,2,1.0,1.0,,,,,2024
+20240005,2025-03-16 13:30:00,29,finished,Arsenal,Chelsea,Arsenal,Chelsea,ARS,CHE,1,0,1.0,0.0,,,,,2024
+20240817,2025-03-16 13:30:00,29,finished,Fulham,Tottenham Hotspur,Fulham,Tottenham Hotspur,FUL,TOT,2,0,0.0,0.0,,,,,2024
+20241013,2025-03-16 19:00:00,29,finished,Leicester City,Manchester United,Leicester City,Manchester United,LEI,MUN,0,3,0.0,1.0,,,,,2024
+20240008,2025-04-01 19:45:00,30,finished,Arsenal,Fulham,Arsenal,Fulham,ARS,FUL,2,1,1.0,0.0,,,,,2024
+20241918,2025-04-01 19:45:00,30,finished,Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,West Ham United,WOL,WHU,1,0,1.0,0.0,,,,,2024
+20241513,2025-04-01 20:00:00,30,finished,Nottingham Forest,Manchester United,Nottingham Forest,Manchester United,NFO,MUN,1,0,1.0,0.0,,,,,2024
+20240209,2025-04-02 19:45:00,30,finished,Bournemouth,Ipswich Town,Bournemouth,Ipswich Town,BOU,IPS,1,2,0.0,1.0,,,,,2024
+20240401,2025-04-02 19:45:00,30,finished,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,Aston Villa,BHA,AVL,0,3,0.0,0.0,,,,,2024
+20241210,2025-04-02 19:45:00,30,finished,Manchester City,Leicester City,Manchester City,Leicester City,MCI,LEI,2,0,2.0,0.0,,,,,2024
+20241403,2025-04-02 19:45:00,30,finished,Newcastle United,Brentford,Newcastle United,Brentford,NEW,BRE,2,1,1.0,0.0,,,,,2024
+20241606,2025-04-02 19:45:00,30,finished,Southampton,Crystal Palace,Southampton,Crystal Palace,SOU,CRY,1,1,1.0,0.0,,,,,2024
+20241107,2025-04-02 20:00:00,30,finished,Liverpool,Everton,Liverpool,Everton,LIV,EVE,1,0,0.0,0.0,,,,,2024
+20240517,2025-04-03 20:00:00,30,finished,Chelsea,Tottenham Hotspur,Chelsea,Tottenham Hotspur,CHE,TOT,1,0,0.0,0.0,,,,,2024
+20240700,2025-04-05 12:30:00,31,finished,Everton,Arsenal,Everton,Arsenal,EVE,ARS,1,1,0.0,1.0,,,,,2024
+20240604,2025-04-05 15:00:00,31,finished,Crystal Palace,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,CRY,BHA,2,1,1.0,1.0,,,,,2024
+20240919,2025-04-05 15:00:00,31,finished,Ipswich Town,Wolverhampton Wanderers,Ipswich Town,Wolverhampton Wanderers,IPS,WOL,1,2,1.0,0.0,,,,,2024
+20241802,2025-04-05 15:00:00,31,finished,West Ham United,Bournemouth,West Ham United,Bournemouth,WHU,BOU,2,2,0.0,1.0,,,,,2024
+20240115,2025-04-05 17:30:00,31,finished,Aston Villa,Nottingham Forest,Aston Villa,Nottingham Forest,AVL,NFO,2,1,2.0,0.0,,,,,2024
+20240305,2025-04-06 14:00:00,31,finished,Brentford,Chelsea,Brentford,Chelsea,BRE,CHE,0,0,,,,,,,2024
+20240811,2025-04-06 14:00:00,31,finished,Fulham,Liverpool,Fulham,Liverpool,FUL,LIV,3,2,3.0,1.0,,,,,2024
+20241716,2025-04-06 14:00:00,31,finished,Tottenham Hotspur,Southampton,Tottenham Hotspur,Southampton,TOT,SOU,3,1,2.0,0.0,,,,,2024
+20241312,2025-04-06 16:30:00,31,finished,Manchester United,Manchester City,Manchester United,Manchester City,MUN,MCI,0,0,,,,,,,2024
+20241014,2025-04-07 20:00:00,31,finished,Leicester City,Newcastle United,Leicester City,Newcastle United,LEI,NEW,0,3,0.0,3.0,,,,,2024
+20241206,2025-04-12 12:30:00,32,finished,Manchester City,Crystal Palace,Manchester City,Crystal Palace,MCI,CRY,5,2,2.0,2.0,,,,,2024
+20240410,2025-04-12 15:00:00,32,finished,Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Leicester City,BHA,LEI,2,2,1.0,1.0,,,,,2024
+20241507,2025-04-12 15:00:00,32,finished,Nottingham Forest,Everton,Nottingham Forest,Everton,NFO,EVE,0,1,0.0,0.0,,,,,2024
+20241601,2025-04-12 15:00:00,32,finished,Southampton,Aston Villa,Southampton,Aston Villa,SOU,AVL,0,3,0.0,0.0,,,,,2024
+20240003,2025-04-12 17:30:00,32,finished,Arsenal,Brentford,Arsenal,Brentford,ARS,BRE,1,1,0.0,0.0,,,,,2024
+20240509,2025-04-13 14:00:00,32,finished,Chelsea,Ipswich Town,Chelsea,Ipswich Town,CHE,IPS,2,2,0.0,2.0,,,,,2024
+20241118,2025-04-13 14:00:00,32,finished,Liverpool,West Ham United,Liverpool,West Ham United,LIV,WHU,2,1,1.0,0.0,,,,,2024
+20241917,2025-04-13 14:00:00,32,finished,Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,WOL,TOT,4,2,2.0,0.0,,,,,2024
+20241413,2025-04-13 16:30:00,32,finished,Newcastle United,Manchester United,Newcastle United,Manchester United,NEW,MUN,4,1,1.0,1.0,,,,,2024
+20240208,2025-04-14 20:00:00,32,finished,Bournemouth,Fulham,Bournemouth,Fulham,BOU,FUL,1,0,1.0,0.0,,,,,2024
+20241406,2025-04-16 19:30:00,29,finished,Newcastle United,Crystal Palace,Newcastle United,Crystal Palace,NEW,CRY,5,0,4.0,0.0,,,,,2024
+20240304,2025-04-19 15:00:00,33,finished,Brentford,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,BRE,BHA,4,2,1.0,1.0,,,,,2024
+20240602,2025-04-19 15:00:00,33,finished,Crystal Palace,Bournemouth,Crystal Palace,Bournemouth,CRY,BOU,0,0,,,,,,,2024
+20240712,2025-04-19 15:00:00,33,finished,Everton,Manchester City,Everton,Manchester City,EVE,MCI,0,2,0.0,0.0,,,,,2024
+20241816,2025-04-19 15:00:00,33,finished,West Ham United,Southampton,West Ham United,Southampton,WHU,SOU,1,1,0.0,0.0,,,,,2024
+20240114,2025-04-19 17:30:00,33,finished,Aston Villa,Newcastle United,Aston Villa,Newcastle United,AVL,NEW,4,1,1.0,1.0,,,,,2024
+20240805,2025-04-20 14:00:00,33,finished,Fulham,Chelsea,Fulham,Chelsea,FUL,CHE,1,2,1.0,0.0,,,,,2024
+20240900,2025-04-20 14:00:00,33,finished,Ipswich Town,Arsenal,Ipswich Town,Arsenal,IPS,ARS,0,4,0.0,2.0,,,,,2024
+20241319,2025-04-20 14:00:00,33,finished,Manchester United,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,MUN,WOL,0,1,0.0,0.0,,,,,2024
+20241011,2025-04-20 16:30:00,33,finished,Leicester City,Liverpool,Leicester City,Liverpool,LEI,LIV,0,1,0.0,0.0,,,,,2024
+20241715,2025-04-21 20:00:00,33,finished,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,TOT,NFO,1,2,0.0,2.0,,,,,2024
+20241201,2025-04-22 20:00:00,34,finished,Manchester City,Aston Villa,Manchester City,Aston Villa,MCI,AVL,2,1,1.0,1.0,,,,,2024
+20240006,2025-04-23 20:00:00,34,finished,Arsenal,Crystal Palace,Arsenal,Crystal Palace,ARS,CRY,2,2,2.0,1.0,,,,,2024
+20240507,2025-04-26 12:30:00,34,finished,Chelsea,Everton,Chelsea,Everton,CHE,EVE,1,0,1.0,0.0,,,,,2024
+20240418,2025-04-26 15:00:00,34,finished,Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,West Ham United,BHA,WHU,3,2,1.0,0.0,,,,,2024
+20241409,2025-04-26 15:00:00,34,finished,Newcastle United,Ipswich Town,Newcastle United,Ipswich Town,NEW,IPS,3,0,1.0,0.0,,,,,2024
+20241608,2025-04-26 15:00:00,34,finished,Southampton,Fulham,Southampton,Fulham,SOU,FUL,1,2,1.0,0.0,,,,,2024
+20241910,2025-04-26 15:00:00,34,finished,Wolverhampton Wanderers,Leicester City,Wolverhampton Wanderers,Leicester City,WOL,LEI,3,0,1.0,0.0,,,,,2024
+20240213,2025-04-27 14:00:00,34,finished,Bournemouth,Manchester United,Bournemouth,Manchester United,BOU,MUN,1,1,1.0,0.0,,,,,2024
+20241117,2025-04-27 16:30:00,34,finished,Liverpool,Tottenham Hotspur,Liverpool,Tottenham Hotspur,LIV,TOT,5,1,3.0,1.0,,,,,2024
+20241503,2025-05-01 19:30:00,34,finished,Nottingham Forest,Brentford,Nottingham Forest,Brentford,NFO,BRE,0,2,0.0,1.0,,,,,2024
+20241219,2025-05-02 20:00:00,35,finished,Manchester City,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,MCI,WOL,1,0,1.0,0.0,,,,,2024
+20240108,2025-05-03 12:30:00,35,finished,Aston Villa,Fulham,Aston Villa,Fulham,AVL,FUL,1,0,1.0,0.0,,,,,2024
+20240709,2025-05-03 15:00:00,35,finished,Everton,Ipswich Town,Everton,Ipswich Town,EVE,IPS,2,2,2.0,1.0,,,,,2024
+20241016,2025-05-03 15:00:00,35,finished,Leicester City,Southampton,Leicester City,Southampton,LEI,SOU,2,0,2.0,0.0,,,,,2024
+20240002,2025-05-03 17:30:00,35,finished,Arsenal,Bournemouth,Arsenal,Bournemouth,ARS,BOU,1,2,1.0,0.0,,,,,2024
+20240313,2025-05-04 14:00:00,35,finished,Brentford,Manchester United,Brentford,Manchester United,BRE,MUN,4,3,2.0,1.0,,,,,2024
+20240414,2025-05-04 14:00:00,35,finished,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,Newcastle United,BHA,NEW,1,1,1.0,0.0,,,,,2024
+20241817,2025-05-04 14:00:00,35,finished,West Ham United,Tottenham Hotspur,West Ham United,Tottenham Hotspur,WHU,TOT,1,1,1.0,1.0,,,,,2024
+20240511,2025-05-04 16:30:00,35,finished,Chelsea,Liverpool,Chelsea,Liverpool,CHE,LIV,3,1,1.0,0.0,,,,,2024
+20240615,2025-05-05 20:00:00,35,finished,Crystal Palace,Nottingham Forest,Crystal Palace,Nottingham Forest,CRY,NFO,1,1,0.0,0.0,,,,,2024
+20240807,2025-05-10 15:00:00,36,finished,Fulham,Everton,Fulham,Everton,FUL,EVE,1,3,1.0,1.0,,,,,2024
+20240903,2025-05-10 15:00:00,36,finished,Ipswich Town,Brentford,Ipswich Town,Brentford,IPS,BRE,0,1,0.0,1.0,,,,,2024
+20241612,2025-05-10 15:00:00,36,finished,Southampton,Manchester City,Southampton,Manchester City,SOU,MCI,0,0,,,,,,,2024
+20241904,2025-05-10 15:00:00,36,finished,Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,WOL,BHA,0,2,0.0,1.0,,,,,2024
+20240201,2025-05-10 17:30:00,36,finished,Bournemouth,Aston Villa,Bournemouth,Aston Villa,BOU,AVL,0,1,0.0,1.0,,,,,2024
+20241405,2025-05-11 12:00:00,36,finished,Newcastle United,Chelsea,Newcastle United,Chelsea,NEW,CHE,2,0,1.0,0.0,,,,,2024
+20241318,2025-05-11 14:15:00,36,finished,Manchester United,West Ham United,Manchester United,West Ham United,MUN,WHU,0,2,0.0,1.0,,,,,2024
+20241510,2025-05-11 14:15:00,36,finished,Nottingham Forest,Leicester City,Nottingham Forest,Leicester City,NFO,LEI,2,2,1.0,1.0,,,,,2024
+20241706,2025-05-11 14:15:00,36,finished,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,Crystal Palace,TOT,CRY,0,2,0.0,1.0,,,,,2024
+20241100,2025-05-11 16:30:00,36,finished,Liverpool,Arsenal,Liverpool,Arsenal,LIV,ARS,2,2,2.0,0.0,,,,,2024
+20240117,2025-05-16 19:30:00,37,finished,Aston Villa,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,AVL,TOT,2,0,0.0,0.0,,,,,2024
+20240513,2025-05-16 20:15:00,37,finished,Chelsea,Manchester United,Chelsea,Manchester United,CHE,MUN,1,0,0.0,0.0,,,,,2024
+20240716,2025-05-18 12:00:00,37,finished,Everton,Southampton,Everton,Southampton,EVE,SOU,2,0,2.0,0.0,,,,,2024
+20241815,2025-05-18 14:15:00,37,finished,West Ham United,Nottingham Forest,West Ham United,Nottingham Forest,WHU,NFO,1,2,0.0,1.0,,,,,2024
+20240308,2025-05-18 15:00:00,37,finished,Brentford,Fulham,Brentford,Fulham,BRE,FUL,2,3,2.0,1.0,,,,,2024
+20241009,2025-05-18 15:00:00,37,finished,Leicester City,Ipswich Town,Leicester City,Ipswich Town,LEI,IPS,2,0,1.0,0.0,,,,,2024
+20240014,2025-05-18 16:30:00,37,finished,Arsenal,Newcastle United,Arsenal,Newcastle United,ARS,NEW,1,0,0.0,0.0,,,,,2024
+20240411,2025-05-19 20:00:00,37,finished,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,Liverpool,BHA,LIV,3,2,1.0,2.0,,,,,2024
+20240619,2025-05-20 20:00:00,37,finished,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,CRY,WOL,4,2,2.0,1.0,,,,,2024
+20241202,2025-05-20 20:00:00,37,finished,Manchester City,Bournemouth,Manchester City,Bournemouth,MCI,BOU,3,1,2.0,0.0,,,,,2024
+20240210,2025-05-25 16:00:00,38,finished,Bournemouth,Leicester City,Bournemouth,Leicester City,BOU,LEI,2,0,0.0,0.0,,,,,2024
+20240812,2025-05-25 16:00:00,38,finished,Fulham,Manchester City,Fulham,Manchester City,FUL,MCI,0,2,0.0,1.0,,,,,2024
+20240918,2025-05-25 16:00:00,38,finished,Ipswich Town,West Ham United,Ipswich Town,West Ham United,IPS,WHU,1,3,0.0,1.0,,,,,2024
+20241106,2025-05-25 16:00:00,38,finished,Liverpool,Crystal Palace,Liverpool,Crystal Palace,LIV,CRY,1,1,0.0,1.0,,,,,2024
+20241301,2025-05-25 16:00:00,38,finished,Manchester United,Aston Villa,Manchester United,Aston Villa,MUN,AVL,2,0,0.0,0.0,,,,,2024
+20241407,2025-05-25 16:00:00,38,finished,Newcastle United,Everton,Newcastle United,Everton,NEW,EVE,0,1,0.0,0.0,,,,,2024
+20241505,2025-05-25 16:00:00,38,finished,Nottingham Forest,Chelsea,Nottingham Forest,Chelsea,NFO,CHE,0,1,0.0,0.0,,,,,2024
+20241600,2025-05-25 16:00:00,38,finished,Southampton,Arsenal,Southampton,Arsenal,SOU,ARS,1,2,0.0,1.0,,,,,2024
+20241704,2025-05-25 16:00:00,38,finished,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,TOT,BHA,1,4,1.0,0.0,,,,,2024
+20241903,2025-05-25 16:00:00,38,finished,Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,Brentford,WOL,BRE,1,1,0.0,1.0,,,,,2024

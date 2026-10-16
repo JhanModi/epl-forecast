@@ -1,0 +1,381 @@
+match_id,date,matchweek,status,home_team,away_team,home_short_name,away_short_name,home_abbr,away_abbr,home_score,away_score,home_ht_score,away_ht_score,home_red_cards,away_red_cards,stadium,attendance,season
+20260006,2026-08-21 20:00:00,1,finished,Arsenal,Coventry City,Arsenal,Coventry City,ARS,COV,3.0,0.0,2.0,0.0,,,,,2026
+20261015,2026-08-22 12:30:00,1,finished,Hull City,Manchester United,Hull City,Manchester United,HUL,MUN,2.0,0.0,2.0,0.0,,,,,2026
+20260807,2026-08-22 15:00:00,1,finished,Everton,Crystal Palace,Everton,Crystal Palace,EVE,CRY,2.0,0.0,1.0,0.0,,,,,2026
+20261118,2026-08-22 15:00:00,1,finished,Ipswich Town,Sunderland,Ipswich Town,Sunderland,IPS,SUN,2.0,1.0,1.0,1.0,,,,,2026
+20261712,2026-08-22 15:00:00,1,finished,Nottingham Forest,Leeds United,Nottingham Forest,Leeds United,NFO,LEE,0.0,1.0,0.0,0.0,,,,,2026
+20260319,2026-08-22 17:30:00,1,finished,Brentford,Tottenham Hotspur,Brentford,Tottenham Hotspur,BRE,TOT,3.0,0.0,2.0,0.0,,,,,2026
+20260401,2026-08-23 14:00:00,1,finished,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,Aston Villa,BHA,AVL,4.0,0.0,4.0,0.0,,,,,2026
+20261402,2026-08-23 14:00:00,1,finished,Manchester City,Bournemouth,Manchester City,Bournemouth,MCI,BOU,2.0,1.0,0.0,1.0,,,,,2026
+20261613,2026-08-23 16:30:00,1,finished,Newcastle United,Liverpool,Newcastle United,Liverpool,NEW,LIV,2.0,2.0,1.0,0.0,,,,,2026
+20260905,2026-08-24 20:00:00,1,finished,Fulham,Chelsea,Fulham,Chelsea,FUL,CHE,2.0,3.0,1.0,2.0,,,,,2026
+20260714,2026-08-28 20:00:00,2,finished,Crystal Palace,Manchester City,Crystal Palace,Manchester City,CRY,MCI,1.0,4.0,0.0,1.0,,,,,2026
+20261317,2026-08-29 12:30:00,2,finished,Liverpool,Nottingham Forest,Liverpool,Nottingham Forest,LIV,NFO,2.0,2.0,0.0,1.0,,,,,2026
+20260208,2026-08-29 15:00:00,2,finished,Bournemouth,Everton,Bournemouth,Everton,BOU,EVE,1.0,1.0,1.0,0.0,,,,,2026
+20260610,2026-08-29 15:00:00,2,finished,Coventry City,Hull City,Coventry City,Hull City,COV,HUL,0.0,1.0,0.0,0.0,,,,,2026
+20261916,2026-08-29 17:30:00,2,finished,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Newcastle United,TOT,NEW,0.0,2.0,0.0,0.0,,,,,2026
+20260504,2026-08-30 14:00:00,2,finished,Chelsea,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,CHE,BHA,4.0,3.0,3.0,1.0,,,,,2026
+20261203,2026-08-30 14:00:00,2,finished,Leeds United,Brentford,Leeds United,Brentford,LEE,BRE,1.0,1.0,0.0,1.0,,,,,2026
+20261809,2026-08-30 14:00:00,2,finished,Sunderland,Fulham,Sunderland,Fulham,SUN,FUL,1.0,0.0,0.0,0.0,,,,,2026
+20261511,2026-08-30 16:30:00,2,finished,Manchester United,Ipswich Town,Manchester United,Ipswich Town,MUN,IPS,5.0,2.0,1.0,1.0,,,,,2026
+20260100,2026-08-31 20:00:00,2,finished,Aston Villa,Arsenal,Aston Villa,Arsenal,AVL,ARS,0.0,1.0,0.0,0.0,,,,,2026
+20261113,2026-09-04 20:00:00,3,finished,Ipswich Town,Liverpool,Ipswich Town,Liverpool,IPS,LIV,0.0,2.0,0.0,2.0,,,,,2026
+20261602,2026-09-05 12:30:00,3,finished,Newcastle United,Bournemouth,Newcastle United,Bournemouth,NEW,BOU,2.0,2.0,1.0,2.0,,,,,2026
+20260318,2026-09-05 15:00:00,3,finished,Brentford,Sunderland,Brentford,Sunderland,BRE,SUN,1.0,1.0,0.0,0.0,,,,,2026
+20260412,2026-09-05 15:00:00,3,finished,Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,Leeds United,BHA,LEE,1.0,1.0,0.0,1.0,,,,,2026
+20260907,2026-09-05 15:00:00,3,finished,Fulham,Crystal Palace,Fulham,Crystal Palace,FUL,CRY,2.0,3.0,2.0,1.0,,,,,2026
+20261406,2026-09-05 15:00:00,3,finished,Manchester City,Coventry City,Manchester City,Coventry City,MCI,COV,1.0,0.0,1.0,0.0,,,,,2026
+20261719,2026-09-05 15:00:00,3,finished,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,NFO,TOT,0.0,0.0,,,,,,,2026
+20261001,2026-09-05 17:30:00,3,finished,Hull City,Aston Villa,Hull City,Aston Villa,HUL,AVL,0.0,0.0,,,,,,,2026
+20260815,2026-09-06 14:00:00,3,finished,Everton,Manchester United,Everton,Manchester United,EVE,MUN,2.0,2.0,0.0,0.0,,,,,2026
+20260005,2026-09-06 16:30:00,3,finished,Arsenal,Chelsea,Arsenal,Chelsea,ARS,CHE,2.0,1.0,1.0,1.0,,,,,2026
+20260117,2026-09-12 15:00:00,4,finished,Aston Villa,Nottingham Forest,Aston Villa,Nottingham Forest,AVL,NFO,1.0,2.0,0.0,0.0,,,,,2026
+20260203,2026-09-12 15:00:00,4,finished,Bournemouth,Brentford,Bournemouth,Brentford,BOU,BRE,2.0,2.0,1.0,1.0,,,,,2026
+20260510,2026-09-12 15:00:00,4,finished,Chelsea,Hull City,Chelsea,Hull City,CHE,HUL,2.0,2.0,1.0,2.0,,,,,2026
+20260711,2026-09-12 15:00:00,4,finished,Crystal Palace,Ipswich Town,Crystal Palace,Ipswich Town,CRY,IPS,2.0,3.0,1.0,2.0,,,,,2026
+20261309,2026-09-12 15:00:00,4,finished,Liverpool,Fulham,Liverpool,Fulham,LIV,FUL,0.0,0.0,,,,,,,2026
+20261908,2026-09-12 17:30:00,4,finished,Tottenham Hotspur,Everton,Tottenham Hotspur,Everton,TOT,EVE,0.0,0.0,,,,,,,2026
+20261800,2026-09-12 20:00:00,4,finished,Sunderland,Arsenal,Sunderland,Arsenal,SUN,ARS,0.0,2.0,0.0,0.0,,,,,2026
+20260604,2026-09-13 14:00:00,4,finished,Coventry City,Brighton & Hove Albion,Coventry City,Brighton & Hove Albion,COV,BHA,0.0,5.0,0.0,1.0,,,,,2026
+20261514,2026-09-13 16:30:00,4,finished,Manchester United,Manchester City,Manchester United,Manchester City,MUN,MCI,0.0,1.0,0.0,0.0,,,,,2026
+20261216,2026-09-14 20:00:00,4,finished,Leeds United,Newcastle United,Leeds United,Newcastle United,LEE,NEW,4.0,1.0,3.0,0.0,,,,,2026
+20260305,2026-09-18 20:00:00,5,finished,Brentford,Chelsea,Brentford,Chelsea,BRE,CHE,3.0,0.0,0.0,0.0,,,,,2026
+20261901,2026-09-19 12:30:00,5,finished,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,Aston Villa,TOT,AVL,2.0,3.0,0.0,1.0,,,,,2026
+20260400,2026-09-19 15:00:00,5,finished,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,Arsenal,BHA,ARS,3.0,0.0,2.0,0.0,,,,,2026
+20260811,2026-09-19 15:00:00,5,finished,Everton,Ipswich Town,Everton,Ipswich Town,EVE,IPS,1.0,0.0,1.0,0.0,,,,,2026
+20261610,2026-09-19 15:00:00,5,finished,Newcastle United,Hull City,Newcastle United,Hull City,NEW,HUL,2.0,1.0,2.0,0.0,,,,,2026
+20261706,2026-09-19 17:30:00,5,finished,Nottingham Forest,Coventry City,Nottingham Forest,Coventry City,NFO,COV,0.0,1.0,0.0,0.0,,,,,2026
+20260213,2026-09-20 14:00:00,5,finished,Bournemouth,Liverpool,Bournemouth,Liverpool,BOU,LIV,0.0,1.0,0.0,0.0,,,,,2026
+20261207,2026-09-20 14:00:00,5,finished,Leeds United,Crystal Palace,Leeds United,Crystal Palace,LEE,CRY,0.0,0.0,,,,,,,2026
+20261418,2026-09-20 14:00:00,5,finished,Manchester City,Sunderland,Manchester City,Sunderland,MCI,SUN,5.0,3.0,3.0,2.0,,,,,2026
+20260915,2026-09-20 16:30:00,5,finished,Fulham,Manchester United,Fulham,Manchester United,FUL,MUN,1.0,1.0,0.0,0.0,,,,,2026
+20260012,2026-10-10 12:30:00,6,scheduled,Arsenal,Leeds United,Arsenal,Leeds United,ARS,LEE,,,,,,,,,2026
+20260103,2026-10-10 15:00:00,6,scheduled,Aston Villa,Brentford,Aston Villa,Brentford,AVL,BRE,,,,,,,,,2026
+20260502,2026-10-10 15:00:00,6,scheduled,Chelsea,Bournemouth,Chelsea,Bournemouth,CHE,BOU,,,,,,,,,2026
+20261109,2026-10-10 15:00:00,6,scheduled,Ipswich Town,Fulham,Ipswich Town,Fulham,IPS,FUL,,,,,,,,,2026
+20261804,2026-10-10 15:00:00,6,scheduled,Sunderland,Brighton & Hove Albion,Sunderland,Brighton & Hove Albion,SUN,BHA,,,,,,,,,2026
+20261519,2026-10-10 17:30:00,6,scheduled,Manchester United,Tottenham Hotspur,Manchester United,Tottenham Hotspur,MUN,TOT,,,,,,,,,2026
+20260717,2026-10-11 14:00:00,6,scheduled,Crystal Palace,Nottingham Forest,Crystal Palace,Nottingham Forest,CRY,NFO,,,,,,,,,2026
+20261008,2026-10-11 14:00:00,6,scheduled,Hull City,Everton,Hull City,Everton,HUL,EVE,,,,,,,,,2026
+20261314,2026-10-11 16:30:00,6,scheduled,Liverpool,Manchester City,Liverpool,Manchester City,LIV,MCI,,,,,,,,,2026
+20260616,2026-10-12 20:00:00,6,scheduled,Coventry City,Newcastle United,Coventry City,Newcastle United,COV,NEW,,,,,,,,,2026
+20260805,2026-10-17 12:30:00,7,scheduled,Everton,Chelsea,Everton,Chelsea,EVE,CHE,,,,,,,,,2026
+20260313,2026-10-17 15:00:00,7,scheduled,Brentford,Liverpool,Brentford,Liverpool,BRE,LIV,,,,,,,,,2026
+20260910,2026-10-17 15:00:00,7,scheduled,Fulham,Hull City,Fulham,Hull City,FUL,HUL,,,,,,,,,2026
+20261411,2026-10-17 15:00:00,7,scheduled,Manchester City,Ipswich Town,Manchester City,Ipswich Town,MCI,IPS,,,,,,,,,2026
+20261601,2026-10-17 17:30:00,7,scheduled,Newcastle United,Aston Villa,Newcastle United,Aston Villa,NEW,AVL,,,,,,,,,2026
+20260218,2026-10-18 14:00:00,7,scheduled,Bournemouth,Sunderland,Bournemouth,Sunderland,BOU,SUN,,,,,,,,,2026
+20260407,2026-10-18 14:00:00,7,scheduled,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,Crystal Palace,BHA,CRY,,,,,,,,,2026
+20261215,2026-10-18 14:00:00,7,scheduled,Leeds United,Manchester United,Leeds United,Manchester United,LEE,MUN,,,,,,,,,2026
+20261700,2026-10-18 16:30:00,7,scheduled,Nottingham Forest,Arsenal,Nottingham Forest,Arsenal,NFO,ARS,,,,,,,,,2026
+20261906,2026-10-19 20:00:00,7,scheduled,Tottenham Hotspur,Coventry City,Tottenham Hotspur,Coventry City,TOT,COV,,,,,,,,,2026
+20261117,2026-10-23 20:00:00,8,scheduled,Ipswich Town,Nottingham Forest,Ipswich Town,Nottingham Forest,IPS,NFO,,,,,,,,,2026
+20260114,2026-10-24 12:30:00,8,scheduled,Aston Villa,Manchester City,Aston Villa,Manchester City,AVL,MCI,,,,,,,,,2026
+20260008,2026-10-24 15:00:00,8,scheduled,Arsenal,Everton,Arsenal,Everton,ARS,EVE,,,,,,,,,2026
+20260609,2026-10-24 15:00:00,8,scheduled,Coventry City,Fulham,Coventry City,Fulham,COV,FUL,,,,,,,,,2026
+20260519,2026-10-24 17:30:00,8,scheduled,Chelsea,Tottenham Hotspur,Chelsea,Tottenham Hotspur,CHE,TOT,,,,,,,,,2026
+20260716,2026-10-25 14:00:00,8,scheduled,Crystal Palace,Newcastle United,Crystal Palace,Newcastle United,CRY,NEW,,,,,,,,,2026
+20261003,2026-10-25 14:00:00,8,scheduled,Hull City,Brentford,Hull City,Brentford,HUL,BRE,,,,,,,,,2026
+20261304,2026-10-25 14:00:00,8,scheduled,Liverpool,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,LIV,BHA,,,,,,,,,2026
+20261502,2026-10-25 14:00:00,8,scheduled,Manchester United,Bournemouth,Manchester United,Bournemouth,MUN,BOU,,,,,,,,,2026
+20261812,2026-10-25 16:30:00,8,scheduled,Sunderland,Leeds United,Sunderland,Leeds United,SUN,LEE,,,,,,,,,2026
+20260515,2026-10-31 12:30:00,9,scheduled,Chelsea,Manchester United,Chelsea,Manchester United,CHE,MUN,,,,,,,,,2026
+20260212,2026-10-31 15:00:00,9,scheduled,Bournemouth,Leeds United,Bournemouth,Leeds United,BOU,LEE,,,,,,,,,2026
+20260317,2026-10-31 15:00:00,9,scheduled,Brentford,Nottingham Forest,Brentford,Nottingham Forest,BRE,NFO,,,,,,,,,2026
+20260618,2026-10-31 15:00:00,9,scheduled,Coventry City,Sunderland,Coventry City,Sunderland,COV,SUN,,,,,,,,,2026
+20261011,2026-10-31 15:00:00,9,scheduled,Hull City,Ipswich Town,Hull City,Ipswich Town,HUL,IPS,,,,,,,,,2026
+20261404,2026-10-31 15:00:00,9,scheduled,Manchester City,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,MCI,BHA,,,,,,,,,2026
+20261907,2026-10-31 17:30:00,9,scheduled,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,Crystal Palace,TOT,CRY,,,,,,,,,2026
+20260109,2026-10-31 20:00:00,9,scheduled,Aston Villa,Fulham,Aston Villa,Fulham,AVL,FUL,,,,,,,,,2026
+20261300,2026-11-01 16:30:00,9,scheduled,Liverpool,Arsenal,Liverpool,Arsenal,LIV,ARS,,,,,,,,,2026
+20261608,2026-11-02 20:00:00,9,scheduled,Newcastle United,Everton,Newcastle United,Everton,NEW,EVE,,,,,,,,,2026
+20260010,2026-11-07 15:00:00,10,scheduled,Arsenal,Hull City,Arsenal,Hull City,ARS,HUL,,,,,,,,,2026
+20260403,2026-11-07 15:00:00,10,scheduled,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,Brentford,BHA,BRE,,,,,,,,,2026
+20260713,2026-11-07 15:00:00,10,scheduled,Crystal Palace,Liverpool,Crystal Palace,Liverpool,CRY,LIV,,,,,,,,,2026
+20260806,2026-11-07 15:00:00,10,scheduled,Everton,Coventry City,Everton,Coventry City,EVE,COV,,,,,,,,,2026
+20260916,2026-11-07 15:00:00,10,scheduled,Fulham,Newcastle United,Fulham,Newcastle United,FUL,NEW,,,,,,,,,2026
+20261102,2026-11-07 15:00:00,10,scheduled,Ipswich Town,Bournemouth,Ipswich Town,Bournemouth,IPS,BOU,,,,,,,,,2026
+20261219,2026-11-07 15:00:00,10,scheduled,Leeds United,Tottenham Hotspur,Leeds United,Tottenham Hotspur,LEE,TOT,,,,,,,,,2026
+20261501,2026-11-07 15:00:00,10,scheduled,Manchester United,Aston Villa,Manchester United,Aston Villa,MUN,AVL,,,,,,,,,2026
+20261714,2026-11-07 15:00:00,10,scheduled,Nottingham Forest,Manchester City,Nottingham Forest,Manchester City,NFO,MCI,,,,,,,,,2026
+20261805,2026-11-07 15:00:00,10,scheduled,Sunderland,Chelsea,Sunderland,Chelsea,SUN,CHE,,,,,,,,,2026
+20260118,2026-11-21 15:00:00,11,scheduled,Aston Villa,Sunderland,Aston Villa,Sunderland,AVL,SUN,,,,,,,,,2026
+20260217,2026-11-21 15:00:00,11,scheduled,Bournemouth,Nottingham Forest,Bournemouth,Nottingham Forest,BOU,NFO,,,,,,,,,2026
+20260308,2026-11-21 15:00:00,11,scheduled,Brentford,Everton,Brentford,Everton,BRE,EVE,,,,,,,,,2026
+20260512,2026-11-21 15:00:00,11,scheduled,Chelsea,Leeds United,Chelsea,Leeds United,CHE,LEE,,,,,,,,,2026
+20260607,2026-11-21 15:00:00,11,scheduled,Coventry City,Crystal Palace,Coventry City,Crystal Palace,COV,CRY,,,,,,,,,2026
+20261004,2026-11-21 15:00:00,11,scheduled,Hull City,Brighton & Hove Albion,Hull City,Brighton & Hove Albion,HUL,BHA,,,,,,,,,2026
+20261315,2026-11-21 15:00:00,11,scheduled,Liverpool,Manchester United,Liverpool,Manchester United,LIV,MUN,,,,,,,,,2026
+20261409,2026-11-21 15:00:00,11,scheduled,Manchester City,Fulham,Manchester City,Fulham,MCI,FUL,,,,,,,,,2026
+20261600,2026-11-21 15:00:00,11,scheduled,Newcastle United,Arsenal,Newcastle United,Arsenal,NEW,ARS,,,,,,,,,2026
+20261911,2026-11-21 15:00:00,11,scheduled,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur,Ipswich Town,TOT,IPS,,,,,,,,,2026
+20260014,2026-11-28 15:00:00,12,scheduled,Arsenal,Manchester City,Arsenal,Manchester City,ARS,MCI,,,,,,,,,2026
+20260416,2026-11-28 15:00:00,12,scheduled,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,Newcastle United,BHA,NEW,,,,,,,,,2026
+20260710,2026-11-28 15:00:00,12,scheduled,Crystal Palace,Hull City,Crystal Palace,Hull City,CRY,HUL,,,,,,,,,2026
+20260813,2026-11-28 15:00:00,12,scheduled,Everton,Liverpool,Everton,Liverpool,EVE,LIV,,,,,,,,,2026
+20260902,2026-11-28 15:00:00,12,scheduled,Fulham,Bournemouth,Fulham,Bournemouth,FUL,BOU,,,,,,,,,2026
+20261101,2026-11-28 15:00:00,12,scheduled,Ipswich Town,Aston Villa,Ipswich Town,Aston Villa,IPS,AVL,,,,,,,,,2026
+20261206,2026-11-28 15:00:00,12,scheduled,Leeds United,Coventry City,Leeds United,Coventry City,LEE,COV,,,,,,,,,2026
+20261503,2026-11-28 15:00:00,12,scheduled,Manchester United,Brentford,Manchester United,Brentford,MUN,BRE,,,,,,,,,2026
+20261705,2026-11-28 15:00:00,12,scheduled,Nottingham Forest,Chelsea,Nottingham Forest,Chelsea,NFO,CHE,,,,,,,,,2026
+20261819,2026-11-28 15:00:00,12,scheduled,Sunderland,Tottenham Hotspur,Sunderland,Tottenham Hotspur,SUN,TOT,,,,,,,,,2026
+20260108,2026-12-02 20:00:00,13,scheduled,Aston Villa,Everton,Aston Villa,Everton,AVL,EVE,,,,,,,,,2026
+20260204,2026-12-02 20:00:00,13,scheduled,Bournemouth,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,BOU,BHA,,,,,,,,,2026
+20260300,2026-12-02 20:00:00,13,scheduled,Brentford,Arsenal,Brentford,Arsenal,BRE,ARS,,,,,,,,,2026
+20260507,2026-12-02 20:00:00,13,scheduled,Chelsea,Crystal Palace,Chelsea,Crystal Palace,CHE,CRY,,,,,,,,,2026
+20260611,2026-12-02 20:00:00,13,scheduled,Coventry City,Ipswich Town,Coventry City,Ipswich Town,COV,IPS,,,,,,,,,2026
+20261017,2026-12-02 20:00:00,13,scheduled,Hull City,Nottingham Forest,Hull City,Nottingham Forest,HUL,NFO,,,,,,,,,2026
+20261318,2026-12-02 20:00:00,13,scheduled,Liverpool,Sunderland,Liverpool,Sunderland,LIV,SUN,,,,,,,,,2026
+20261412,2026-12-02 20:00:00,13,scheduled,Manchester City,Leeds United,Manchester City,Leeds United,MCI,LEE,,,,,,,,,2026
+20261615,2026-12-02 20:00:00,13,scheduled,Newcastle United,Manchester United,Newcastle United,Manchester United,NEW,MUN,,,,,,,,,2026
+20261909,2026-12-02 20:00:00,13,scheduled,Tottenham Hotspur,Fulham,Tottenham Hotspur,Fulham,TOT,FUL,,,,,,,,,2026
+20260107,2026-12-05 15:00:00,14,scheduled,Aston Villa,Crystal Palace,Aston Villa,Crystal Palace,AVL,CRY,,,,,,,,,2026
+20260210,2026-12-05 15:00:00,14,scheduled,Bournemouth,Hull City,Bournemouth,Hull City,BOU,HUL,,,,,,,,,2026
+20260314,2026-12-05 15:00:00,14,scheduled,Brentford,Manchester City,Brentford,Manchester City,BRE,MCI,,,,,,,,,2026
+20260513,2026-12-05 15:00:00,14,scheduled,Chelsea,Liverpool,Chelsea,Liverpool,CHE,LIV,,,,,,,,,2026
+20260809,2026-12-05 15:00:00,14,scheduled,Everton,Fulham,Everton,Fulham,EVE,FUL,,,,,,,,,2026
+20261211,2026-12-05 15:00:00,14,scheduled,Leeds United,Ipswich Town,Leeds United,Ipswich Town,LEE,IPS,,,,,,,,,2026
+20261506,2026-12-05 15:00:00,14,scheduled,Manchester United,Coventry City,Manchester United,Coventry City,MUN,COV,,,,,,,,,2026
+20261618,2026-12-05 15:00:00,14,scheduled,Newcastle United,Sunderland,Newcastle United,Sunderland,NEW,SUN,,,,,,,,,2026
+20261704,2026-12-05 15:00:00,14,scheduled,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,NFO,BHA,,,,,,,,,2026
+20261900,2026-12-05 15:00:00,14,scheduled,Tottenham Hotspur,Arsenal,Tottenham Hotspur,Arsenal,TOT,ARS,,,,,,,,,2026
+20260002,2026-12-12 15:00:00,15,scheduled,Arsenal,Bournemouth,Arsenal,Bournemouth,ARS,BOU,,,,,,,,,2026
+20260408,2026-12-12 15:00:00,15,scheduled,Brighton & Hove Albion,Everton,Brighton & Hove Albion,Everton,BHA,EVE,,,,,,,,,2026
+20260601,2026-12-12 15:00:00,15,scheduled,Coventry City,Aston Villa,Coventry City,Aston Villa,COV,AVL,,,,,,,,,2026
+20260715,2026-12-12 15:00:00,15,scheduled,Crystal Palace,Manchester United,Crystal Palace,Manchester United,CRY,MUN,,,,,,,,,2026
+20260903,2026-12-12 15:00:00,15,scheduled,Fulham,Brentford,Fulham,Brentford,FUL,BRE,,,,,,,,,2026
+20261019,2026-12-12 15:00:00,15,scheduled,Hull City,Tottenham Hotspur,Hull City,Tottenham Hotspur,HUL,TOT,,,,,,,,,2026
+20261116,2026-12-12 15:00:00,15,scheduled,Ipswich Town,Newcastle United,Ipswich Town,Newcastle United,IPS,NEW,,,,,,,,,2026
+20261312,2026-12-12 15:00:00,15,scheduled,Liverpool,Leeds United,Liverpool,Leeds United,LIV,LEE,,,,,,,,,2026
+20261405,2026-12-12 15:00:00,15,scheduled,Manchester City,Chelsea,Manchester City,Chelsea,MCI,CHE,,,,,,,,,2026
+20261817,2026-12-12 15:00:00,15,scheduled,Sunderland,Nottingham Forest,Sunderland,Nottingham Forest,SUN,NFO,,,,,,,,,2026
+20260015,2026-12-19 15:00:00,16,scheduled,Arsenal,Manchester United,Arsenal,Manchester United,ARS,MUN,,,,,,,,,2026
+20260206,2026-12-19 15:00:00,16,scheduled,Bournemouth,Coventry City,Bournemouth,Coventry City,BOU,COV,,,,,,,,,2026
+20260316,2026-12-19 15:00:00,16,scheduled,Brentford,Newcastle United,Brentford,Newcastle United,BRE,NEW,,,,,,,,,2026
+20260411,2026-12-19 15:00:00,16,scheduled,Brighton & Hove Albion,Ipswich Town,Brighton & Hove Albion,Ipswich Town,BHA,IPS,,,,,,,,,2026
+20260501,2026-12-19 15:00:00,16,scheduled,Chelsea,Aston Villa,Chelsea,Aston Villa,CHE,AVL,,,,,,,,,2026
+20261209,2026-12-19 15:00:00,16,scheduled,Leeds United,Fulham,Leeds United,Fulham,LEE,FUL,,,,,,,,,2026
+20261319,2026-12-19 15:00:00,16,scheduled,Liverpool,Tottenham Hotspur,Liverpool,Tottenham Hotspur,LIV,TOT,,,,,,,,,2026
+20261410,2026-12-19 15:00:00,16,scheduled,Manchester City,Hull City,Manchester City,Hull City,MCI,HUL,,,,,,,,,2026
+20261708,2026-12-19 15:00:00,16,scheduled,Nottingham Forest,Everton,Nottingham Forest,Everton,NFO,EVE,,,,,,,,,2026
+20261807,2026-12-19 15:00:00,16,scheduled,Sunderland,Crystal Palace,Sunderland,Crystal Palace,SUN,CRY,,,,,,,,,2026
+20260112,2026-12-26 12:30:00,17,scheduled,Aston Villa,Leeds United,Aston Villa,Leeds United,AVL,LEE,,,,,,,,,2026
+20260818,2026-12-26 15:00:00,17,scheduled,Everton,Sunderland,Everton,Sunderland,EVE,SUN,,,,,,,,,2026
+20260904,2026-12-26 15:00:00,17,scheduled,Fulham,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,FUL,BHA,,,,,,,,,2026
+20261103,2026-12-26 15:00:00,17,scheduled,Ipswich Town,Brentford,Ipswich Town,Brentford,IPS,BRE,,,,,,,,,2026
+20261902,2026-12-26 15:00:00,17,scheduled,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,Bournemouth,TOT,BOU,,,,,,,,,2026
+20261013,2026-12-26 17:30:00,17,scheduled,Hull City,Liverpool,Hull City,Liverpool,HUL,LIV,,,,,,,,,2026
+20261614,2026-12-26 20:00:00,17,scheduled,Newcastle United,Manchester City,Newcastle United,Manchester City,NEW,MCI,,,,,,,,,2026
+20260605,2026-12-27 14:00:00,17,scheduled,Coventry City,Chelsea,Coventry City,Chelsea,COV,CHE,,,,,,,,,2026
+20261517,2026-12-27 16:30:00,17,scheduled,Manchester United,Nottingham Forest,Manchester United,Nottingham Forest,MUN,NFO,,,,,,,,,2026
+20260700,2026-12-27 19:00:00,17,scheduled,Crystal Palace,Arsenal,Crystal Palace,Arsenal,CRY,ARS,,,,,,,,,2026
+20261012,2026-12-29 19:30:00,18,scheduled,Hull City,Leeds United,Hull City,Leeds United,HUL,LEE,,,,,,,,,2026
+20261904,2026-12-29 19:30:00,18,scheduled,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,TOT,BHA,,,,,,,,,2026
+20260814,2026-12-29 20:15:00,18,scheduled,Everton,Manchester City,Everton,Manchester City,EVE,MCI,,,,,,,,,2026
+20260603,2026-12-30 19:30:00,18,scheduled,Coventry City,Brentford,Coventry City,Brentford,COV,BRE,,,,,,,,,2026
+20260702,2026-12-30 19:30:00,18,scheduled,Crystal Palace,Bournemouth,Crystal Palace,Bournemouth,CRY,BOU,,,,,,,,,2026
+20260900,2026-12-30 19:30:00,18,scheduled,Fulham,Arsenal,Fulham,Arsenal,FUL,ARS,,,,,,,,,2026
+20261518,2026-12-30 19:30:00,18,scheduled,Manchester United,Sunderland,Manchester United,Sunderland,MUN,SUN,,,,,,,,,2026
+20261617,2026-12-30 19:30:00,18,scheduled,Newcastle United,Nottingham Forest,Newcastle United,Nottingham Forest,NEW,NFO,,,,,,,,,2026
+20260113,2026-12-30 20:15:00,18,scheduled,Aston Villa,Liverpool,Aston Villa,Liverpool,AVL,LIV,,,,,,,,,2026
+20261105,2026-12-30 20:15:00,18,scheduled,Ipswich Town,Chelsea,Ipswich Town,Chelsea,IPS,CHE,,,,,,,,,2026
+20261208,2027-01-01 20:00:00,19,scheduled,Leeds United,Everton,Leeds United,Everton,LEE,EVE,,,,,,,,,2026
+20260415,2027-01-02 12:30:00,19,scheduled,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,Manchester United,BHA,MUN,,,,,,,,,2026
+20260011,2027-01-02 15:00:00,19,scheduled,Arsenal,Ipswich Town,Arsenal,Ipswich Town,ARS,IPS,,,,,,,,,2026
+20260307,2027-01-02 15:00:00,19,scheduled,Brentford,Crystal Palace,Brentford,Crystal Palace,BRE,CRY,,,,,,,,,2026
+20261306,2027-01-02 15:00:00,19,scheduled,Liverpool,Coventry City,Liverpool,Coventry City,LIV,COV,,,,,,,,,2026
+20261709,2027-01-02 15:00:00,19,scheduled,Nottingham Forest,Fulham,Nottingham Forest,Fulham,NFO,FUL,,,,,,,,,2026
+20261810,2027-01-02 15:00:00,19,scheduled,Sunderland,Hull City,Sunderland,Hull City,SUN,HUL,,,,,,,,,2026
+20260201,2027-01-02 17:30:00,19,scheduled,Bournemouth,Aston Villa,Bournemouth,Aston Villa,BOU,AVL,,,,,,,,,2026
+20260516,2027-01-03 14:00:00,19,scheduled,Chelsea,Newcastle United,Chelsea,Newcastle United,CHE,NEW,,,,,,,,,2026
+20261419,2027-01-03 16:30:00,19,scheduled,Manchester City,Tottenham Hotspur,Manchester City,Tottenham Hotspur,MCI,TOT,,,,,,,,,2026
+20260003,2027-01-05 19:30:00,20,scheduled,Arsenal,Brentford,Arsenal,Brentford,ARS,BRE,,,,,,,,,2026
+20260402,2027-01-05 19:30:00,20,scheduled,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,Bournemouth,BHA,BOU,,,,,,,,,2026
+20260801,2027-01-05 19:30:00,20,scheduled,Everton,Aston Villa,Everton,Aston Villa,EVE,AVL,,,,,,,,,2026
+20261710,2027-01-05 19:30:00,20,scheduled,Nottingham Forest,Hull City,Nottingham Forest,Hull City,NFO,HUL,,,,,,,,,2026
+20261813,2027-01-05 20:15:00,20,scheduled,Sunderland,Liverpool,Sunderland,Liverpool,SUN,LIV,,,,,,,,,2026
+20260705,2027-01-06 19:30:00,20,scheduled,Crystal Palace,Chelsea,Crystal Palace,Chelsea,CRY,CHE,,,,,,,,,2026
+20260919,2027-01-06 19:30:00,20,scheduled,Fulham,Tottenham Hotspur,Fulham,Tottenham Hotspur,FUL,TOT,,,,,,,,,2026
+20261106,2027-01-06 19:30:00,20,scheduled,Ipswich Town,Coventry City,Ipswich Town,Coventry City,IPS,COV,,,,,,,,,2026
+20261214,2027-01-06 20:15:00,20,scheduled,Leeds United,Manchester City,Leeds United,Manchester City,LEE,MCI,,,,,,,,,2026
+20261516,2027-01-07 20:00:00,20,scheduled,Manchester United,Newcastle United,Manchester United,Newcastle United,MUN,NEW,,,,,,,,,2026
+20260115,2027-01-16 15:00:00,21,scheduled,Aston Villa,Manchester United,Aston Villa,Manchester United,AVL,MUN,,,,,,,,,2026
+20260211,2027-01-16 15:00:00,21,scheduled,Bournemouth,Ipswich Town,Bournemouth,Ipswich Town,BOU,IPS,,,,,,,,,2026
+20260304,2027-01-16 15:00:00,21,scheduled,Brentford,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,BRE,BHA,,,,,,,,,2026
+20260518,2027-01-16 15:00:00,21,scheduled,Chelsea,Sunderland,Chelsea,Sunderland,CHE,SUN,,,,,,,,,2026
+20260608,2027-01-16 15:00:00,21,scheduled,Coventry City,Everton,Coventry City,Everton,COV,EVE,,,,,,,,,2026
+20261000,2027-01-16 15:00:00,21,scheduled,Hull City,Arsenal,Hull City,Arsenal,HUL,ARS,,,,,,,,,2026
+20261307,2027-01-16 15:00:00,21,scheduled,Liverpool,Crystal Palace,Liverpool,Crystal Palace,LIV,CRY,,,,,,,,,2026
+20261417,2027-01-16 15:00:00,21,scheduled,Manchester City,Nottingham Forest,Manchester City,Nottingham Forest,MCI,NFO,,,,,,,,,2026
+20261609,2027-01-16 15:00:00,21,scheduled,Newcastle United,Fulham,Newcastle United,Fulham,NEW,FUL,,,,,,,,,2026
+20261912,2027-01-16 15:00:00,21,scheduled,Tottenham Hotspur,Leeds United,Tottenham Hotspur,Leeds United,TOT,LEE,,,,,,,,,2026
+20260016,2027-01-23 15:00:00,22,scheduled,Arsenal,Newcastle United,Arsenal,Newcastle United,ARS,NEW,,,,,,,,,2026
+20260414,2027-01-23 15:00:00,22,scheduled,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,Manchester City,BHA,MCI,,,,,,,,,2026
+20260719,2027-01-23 15:00:00,22,scheduled,Crystal Palace,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,CRY,TOT,,,,,,,,,2026
+20260803,2027-01-23 15:00:00,22,scheduled,Everton,Brentford,Everton,Brentford,EVE,BRE,,,,,,,,,2026
+20260901,2027-01-23 15:00:00,22,scheduled,Fulham,Aston Villa,Fulham,Aston Villa,FUL,AVL,,,,,,,,,2026
+20261110,2027-01-23 15:00:00,22,scheduled,Ipswich Town,Hull City,Ipswich Town,Hull City,IPS,HUL,,,,,,,,,2026
+20261205,2027-01-23 15:00:00,22,scheduled,Leeds United,Chelsea,Leeds United,Chelsea,LEE,CHE,,,,,,,,,2026
+20261513,2027-01-23 15:00:00,22,scheduled,Manchester United,Liverpool,Manchester United,Liverpool,MUN,LIV,,,,,,,,,2026
+20261702,2027-01-23 15:00:00,22,scheduled,Nottingham Forest,Bournemouth,Nottingham Forest,Bournemouth,NFO,BOU,,,,,,,,,2026
+20261806,2027-01-23 15:00:00,22,scheduled,Sunderland,Coventry City,Sunderland,Coventry City,SUN,COV,,,,,,,,,2026
+20260111,2027-01-30 15:00:00,23,scheduled,Aston Villa,Ipswich Town,Aston Villa,Ipswich Town,AVL,IPS,,,,,,,,,2026
+20260209,2027-01-30 15:00:00,23,scheduled,Bournemouth,Fulham,Bournemouth,Fulham,BOU,FUL,,,,,,,,,2026
+20260315,2027-01-30 15:00:00,23,scheduled,Brentford,Manchester United,Brentford,Manchester United,BRE,MUN,,,,,,,,,2026
+20260517,2027-01-30 15:00:00,23,scheduled,Chelsea,Nottingham Forest,Chelsea,Nottingham Forest,CHE,NFO,,,,,,,,,2026
+20260612,2027-01-30 15:00:00,23,scheduled,Coventry City,Leeds United,Coventry City,Leeds United,COV,LEE,,,,,,,,,2026
+20261007,2027-01-30 15:00:00,23,scheduled,Hull City,Crystal Palace,Hull City,Crystal Palace,HUL,CRY,,,,,,,,,2026
+20261308,2027-01-30 15:00:00,23,scheduled,Liverpool,Everton,Liverpool,Everton,LIV,EVE,,,,,,,,,2026
+20261400,2027-01-30 15:00:00,23,scheduled,Manchester City,Arsenal,Manchester City,Arsenal,MCI,ARS,,,,,,,,,2026
+20261604,2027-01-30 15:00:00,23,scheduled,Newcastle United,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,NEW,BHA,,,,,,,,,2026
+20261918,2027-01-30 15:00:00,23,scheduled,Tottenham Hotspur,Sunderland,Tottenham Hotspur,Sunderland,TOT,SUN,,,,,,,,,2026
+20260013,2027-02-06 15:00:00,24,scheduled,Arsenal,Liverpool,Arsenal,Liverpool,ARS,LIV,,,,,,,,,2026
+20260410,2027-02-06 15:00:00,24,scheduled,Brighton & Hove Albion,Hull City,Brighton & Hove Albion,Hull City,BHA,HUL,,,,,,,,,2026
+20260706,2027-02-06 15:00:00,24,scheduled,Crystal Palace,Coventry City,Crystal Palace,Coventry City,CRY,COV,,,,,,,,,2026
+20260816,2027-02-06 15:00:00,24,scheduled,Everton,Newcastle United,Everton,Newcastle United,EVE,NEW,,,,,,,,,2026
+20260914,2027-02-06 15:00:00,24,scheduled,Fulham,Manchester City,Fulham,Manchester City,FUL,MCI,,,,,,,,,2026
+20261119,2027-02-06 15:00:00,24,scheduled,Ipswich Town,Tottenham Hotspur,Ipswich Town,Tottenham Hotspur,IPS,TOT,,,,,,,,,2026
+20261202,2027-02-06 15:00:00,24,scheduled,Leeds United,Bournemouth,Leeds United,Bournemouth,LEE,BOU,,,,,,,,,2026
+20261505,2027-02-06 15:00:00,24,scheduled,Manchester United,Chelsea,Manchester United,Chelsea,MUN,CHE,,,,,,,,,2026
+20261703,2027-02-06 15:00:00,24,scheduled,Nottingham Forest,Brentford,Nottingham Forest,Brentford,NFO,BRE,,,,,,,,,2026
+20261801,2027-02-06 15:00:00,24,scheduled,Sunderland,Aston Villa,Sunderland,Aston Villa,SUN,AVL,,,,,,,,,2026
+20260102,2027-02-10 20:00:00,25,scheduled,Aston Villa,Bournemouth,Aston Villa,Bournemouth,AVL,BOU,,,,,,,,,2026
+20260613,2027-02-10 20:00:00,25,scheduled,Coventry City,Liverpool,Coventry City,Liverpool,COV,LIV,,,,,,,,,2026
+20260703,2027-02-10 20:00:00,25,scheduled,Crystal Palace,Brentford,Crystal Palace,Brentford,CRY,BRE,,,,,,,,,2026
+20260812,2027-02-10 20:00:00,25,scheduled,Everton,Leeds United,Everton,Leeds United,EVE,LEE,,,,,,,,,2026
+20260917,2027-02-10 20:00:00,25,scheduled,Fulham,Nottingham Forest,Fulham,Nottingham Forest,FUL,NFO,,,,,,,,,2026
+20261018,2027-02-10 20:00:00,25,scheduled,Hull City,Sunderland,Hull City,Sunderland,HUL,SUN,,,,,,,,,2026
+20261100,2027-02-10 20:00:00,25,scheduled,Ipswich Town,Arsenal,Ipswich Town,Arsenal,IPS,ARS,,,,,,,,,2026
+20261504,2027-02-10 20:00:00,25,scheduled,Manchester United,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,MUN,BHA,,,,,,,,,2026
+20261605,2027-02-10 20:00:00,25,scheduled,Newcastle United,Chelsea,Newcastle United,Chelsea,NEW,CHE,,,,,,,,,2026
+20261914,2027-02-10 20:00:00,25,scheduled,Tottenham Hotspur,Manchester City,Tottenham Hotspur,Manchester City,TOT,MCI,,,,,,,,,2026
+20260009,2027-02-20 15:00:00,26,scheduled,Arsenal,Fulham,Arsenal,Fulham,ARS,FUL,,,,,,,,,2026
+20260207,2027-02-20 15:00:00,26,scheduled,Bournemouth,Crystal Palace,Bournemouth,Crystal Palace,BOU,CRY,,,,,,,,,2026
+20260306,2027-02-20 15:00:00,26,scheduled,Brentford,Coventry City,Brentford,Coventry City,BRE,COV,,,,,,,,,2026
+20260419,2027-02-20 15:00:00,26,scheduled,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,BHA,TOT,,,,,,,,,2026
+20260511,2027-02-20 15:00:00,26,scheduled,Chelsea,Ipswich Town,Chelsea,Ipswich Town,CHE,IPS,,,,,,,,,2026
+20261201,2027-02-20 15:00:00,26,scheduled,Leeds United,Aston Villa,Leeds United,Aston Villa,LEE,AVL,,,,,,,,,2026
+20261310,2027-02-20 15:00:00,26,scheduled,Liverpool,Hull City,Liverpool,Hull City,LIV,HUL,,,,,,,,,2026
+20261416,2027-02-20 15:00:00,26,scheduled,Manchester City,Newcastle United,Manchester City,Newcastle United,MCI,NEW,,,,,,,,,2026
+20261715,2027-02-20 15:00:00,26,scheduled,Nottingham Forest,Manchester United,Nottingham Forest,Manchester United,NFO,MUN,,,,,,,,,2026
+20261808,2027-02-20 15:00:00,26,scheduled,Sunderland,Everton,Sunderland,Everton,SUN,EVE,,,,,,,,,2026
+20260105,2027-02-27 15:00:00,27,scheduled,Aston Villa,Chelsea,Aston Villa,Chelsea,AVL,CHE,,,,,,,,,2026
+20260602,2027-02-27 15:00:00,27,scheduled,Coventry City,Bournemouth,Coventry City,Bournemouth,COV,BOU,,,,,,,,,2026
+20260718,2027-02-27 15:00:00,27,scheduled,Crystal Palace,Sunderland,Crystal Palace,Sunderland,CRY,SUN,,,,,,,,,2026
+20260817,2027-02-27 15:00:00,27,scheduled,Everton,Nottingham Forest,Everton,Nottingham Forest,EVE,NFO,,,,,,,,,2026
+20260912,2027-02-27 15:00:00,27,scheduled,Fulham,Leeds United,Fulham,Leeds United,FUL,LEE,,,,,,,,,2026
+20261014,2027-02-27 15:00:00,27,scheduled,Hull City,Manchester City,Hull City,Manchester City,HUL,MCI,,,,,,,,,2026
+20261104,2027-02-27 15:00:00,27,scheduled,Ipswich Town,Brighton & Hove Albion,Ipswich Town,Brighton & Hove Albion,IPS,BHA,,,,,,,,,2026
+20261500,2027-02-27 15:00:00,27,scheduled,Manchester United,Arsenal,Manchester United,Arsenal,MUN,ARS,,,,,,,,,2026
+20261603,2027-02-27 15:00:00,27,scheduled,Newcastle United,Brentford,Newcastle United,Brentford,NEW,BRE,,,,,,,,,2026
+20261913,2027-02-27 15:00:00,27,scheduled,Tottenham Hotspur,Liverpool,Tottenham Hotspur,Liverpool,TOT,LIV,,,,,,,,,2026
+20260007,2027-03-03 20:00:00,28,scheduled,Arsenal,Crystal Palace,Arsenal,Crystal Palace,ARS,CRY,,,,,,,,,2026
+20260219,2027-03-03 20:00:00,28,scheduled,Bournemouth,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,BOU,TOT,,,,,,,,,2026
+20260311,2027-03-03 20:00:00,28,scheduled,Brentford,Ipswich Town,Brentford,Ipswich Town,BRE,IPS,,,,,,,,,2026
+20260409,2027-03-03 20:00:00,28,scheduled,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,Fulham,BHA,FUL,,,,,,,,,2026
+20260506,2027-03-03 20:00:00,28,scheduled,Chelsea,Coventry City,Chelsea,Coventry City,CHE,COV,,,,,,,,,2026
+20261210,2027-03-03 20:00:00,28,scheduled,Leeds United,Hull City,Leeds United,Hull City,LEE,HUL,,,,,,,,,2026
+20261301,2027-03-03 20:00:00,28,scheduled,Liverpool,Aston Villa,Liverpool,Aston Villa,LIV,AVL,,,,,,,,,2026
+20261408,2027-03-03 20:00:00,28,scheduled,Manchester City,Everton,Manchester City,Everton,MCI,EVE,,,,,,,,,2026
+20261716,2027-03-03 20:00:00,28,scheduled,Nottingham Forest,Newcastle United,Nottingham Forest,Newcastle United,NFO,NEW,,,,,,,,,2026
+20261815,2027-03-03 20:00:00,28,scheduled,Sunderland,Manchester United,Sunderland,Manchester United,SUN,MUN,,,,,,,,,2026
+20260110,2027-03-13 15:00:00,29,scheduled,Aston Villa,Hull City,Aston Villa,Hull City,AVL,HUL,,,,,,,,,2026
+20260216,2027-03-13 15:00:00,29,scheduled,Bournemouth,Newcastle United,Bournemouth,Newcastle United,BOU,NEW,,,,,,,,,2026
+20260500,2027-03-13 15:00:00,29,scheduled,Chelsea,Arsenal,Chelsea,Arsenal,CHE,ARS,,,,,,,,,2026
+20260614,2027-03-13 15:00:00,29,scheduled,Coventry City,Manchester City,Coventry City,Manchester City,COV,MCI,,,,,,,,,2026
+20260709,2027-03-13 15:00:00,29,scheduled,Crystal Palace,Fulham,Crystal Palace,Fulham,CRY,FUL,,,,,,,,,2026
+20261204,2027-03-13 15:00:00,29,scheduled,Leeds United,Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,LEE,BHA,,,,,,,,,2026
+20261311,2027-03-13 15:00:00,29,scheduled,Liverpool,Ipswich Town,Liverpool,Ipswich Town,LIV,IPS,,,,,,,,,2026
+20261508,2027-03-13 15:00:00,29,scheduled,Manchester United,Everton,Manchester United,Everton,MUN,EVE,,,,,,,,,2026
+20261803,2027-03-13 15:00:00,29,scheduled,Sunderland,Brentford,Sunderland,Brentford,SUN,BRE,,,,,,,,,2026
+20261917,2027-03-13 15:00:00,29,scheduled,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,TOT,NFO,,,,,,,,,2026
+20260018,2027-03-20 15:00:00,30,scheduled,Arsenal,Sunderland,Arsenal,Sunderland,ARS,SUN,,,,,,,,,2026
+20260302,2027-03-20 15:00:00,30,scheduled,Brentford,Bournemouth,Brentford,Bournemouth,BRE,BOU,,,,,,,,,2026
+20260406,2027-03-20 15:00:00,30,scheduled,Brighton & Hove Albion,Coventry City,Brighton & Hove Albion,Coventry City,BHA,COV,,,,,,,,,2026
+20260819,2027-03-20 15:00:00,30,scheduled,Everton,Tottenham Hotspur,Everton,Tottenham Hotspur,EVE,TOT,,,,,,,,,2026
+20260913,2027-03-20 15:00:00,30,scheduled,Fulham,Liverpool,Fulham,Liverpool,FUL,LIV,,,,,,,,,2026
+20261005,2027-03-20 15:00:00,30,scheduled,Hull City,Chelsea,Hull City,Chelsea,HUL,CHE,,,,,,,,,2026
+20261107,2027-03-20 15:00:00,30,scheduled,Ipswich Town,Crystal Palace,Ipswich Town,Crystal Palace,IPS,CRY,,,,,,,,,2026
+20261415,2027-03-20 15:00:00,30,scheduled,Manchester City,Manchester United,Manchester City,Manchester United,MCI,MUN,,,,,,,,,2026
+20261612,2027-03-20 15:00:00,30,scheduled,Newcastle United,Leeds United,Newcastle United,Leeds United,NEW,LEE,,,,,,,,,2026
+20261701,2027-03-20 15:00:00,30,scheduled,Nottingham Forest,Aston Villa,Nottingham Forest,Aston Villa,NFO,AVL,,,,,,,,,2026
+20260104,2027-04-10 15:00:00,31,scheduled,Aston Villa,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,AVL,BHA,,,,,,,,,2026
+20260214,2027-04-10 15:00:00,31,scheduled,Bournemouth,Manchester City,Bournemouth,Manchester City,BOU,MCI,,,,,,,,,2026
+20260509,2027-04-10 15:00:00,31,scheduled,Chelsea,Fulham,Chelsea,Fulham,CHE,FUL,,,,,,,,,2026
+20260600,2027-04-10 15:00:00,31,scheduled,Coventry City,Arsenal,Coventry City,Arsenal,COV,ARS,,,,,,,,,2026
+20260708,2027-04-10 15:00:00,31,scheduled,Crystal Palace,Everton,Crystal Palace,Everton,CRY,EVE,,,,,,,,,2026
+20261217,2027-04-10 15:00:00,31,scheduled,Leeds United,Nottingham Forest,Leeds United,Nottingham Forest,LEE,NFO,,,,,,,,,2026
+20261316,2027-04-10 15:00:00,31,scheduled,Liverpool,Newcastle United,Liverpool,Newcastle United,LIV,NEW,,,,,,,,,2026
+20261510,2027-04-10 15:00:00,31,scheduled,Manchester United,Hull City,Manchester United,Hull City,MUN,HUL,,,,,,,,,2026
+20261811,2027-04-10 15:00:00,31,scheduled,Sunderland,Ipswich Town,Sunderland,Ipswich Town,SUN,IPS,,,,,,,,,2026
+20261903,2027-04-10 15:00:00,31,scheduled,Tottenham Hotspur,Brentford,Tottenham Hotspur,Brentford,TOT,BRE,,,,,,,,,2026
+20260001,2027-04-17 15:00:00,32,scheduled,Arsenal,Aston Villa,Arsenal,Aston Villa,ARS,AVL,,,,,,,,,2026
+20260312,2027-04-17 15:00:00,32,scheduled,Brentford,Leeds United,Brentford,Leeds United,BRE,LEE,,,,,,,,,2026
+20260405,2027-04-17 15:00:00,32,scheduled,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Chelsea,BHA,CHE,,,,,,,,,2026
+20260802,2027-04-17 15:00:00,32,scheduled,Everton,Bournemouth,Everton,Bournemouth,EVE,BOU,,,,,,,,,2026
+20260918,2027-04-17 15:00:00,32,scheduled,Fulham,Sunderland,Fulham,Sunderland,FUL,SUN,,,,,,,,,2026
+20261006,2027-04-17 15:00:00,32,scheduled,Hull City,Coventry City,Hull City,Coventry City,HUL,COV,,,,,,,,,2026
+20261115,2027-04-17 15:00:00,32,scheduled,Ipswich Town,Manchester United,Ipswich Town,Manchester United,IPS,MUN,,,,,,,,,2026
+20261407,2027-04-17 15:00:00,32,scheduled,Manchester City,Crystal Palace,Manchester City,Crystal Palace,MCI,CRY,,,,,,,,,2026
+20261619,2027-04-17 15:00:00,32,scheduled,Newcastle United,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,NEW,TOT,,,,,,,,,2026
+20261713,2027-04-17 15:00:00,32,scheduled,Nottingham Forest,Liverpool,Nottingham Forest,Liverpool,NFO,LIV,,,,,,,,,2026
+20260106,2027-04-24 15:00:00,33,scheduled,Aston Villa,Coventry City,Aston Villa,Coventry City,AVL,COV,,,,,,,,,2026
+20260200,2027-04-24 15:00:00,33,scheduled,Bournemouth,Arsenal,Bournemouth,Arsenal,BOU,ARS,,,,,,,,,2026
+20260309,2027-04-24 15:00:00,33,scheduled,Brentford,Fulham,Brentford,Fulham,BRE,FUL,,,,,,,,,2026
+20260514,2027-04-24 15:00:00,33,scheduled,Chelsea,Manchester City,Chelsea,Manchester City,CHE,MCI,,,,,,,,,2026
+20260804,2027-04-24 15:00:00,33,scheduled,Everton,Brighton & Hove Albion,Everton,Brighton & Hove Albion,EVE,BHA,,,,,,,,,2026
+20261213,2027-04-24 15:00:00,33,scheduled,Leeds United,Liverpool,Leeds United,Liverpool,LEE,LIV,,,,,,,,,2026
+20261507,2027-04-24 15:00:00,33,scheduled,Manchester United,Crystal Palace,Manchester United,Crystal Palace,MUN,CRY,,,,,,,,,2026
+20261611,2027-04-24 15:00:00,33,scheduled,Newcastle United,Ipswich Town,Newcastle United,Ipswich Town,NEW,IPS,,,,,,,,,2026
+20261718,2027-04-24 15:00:00,33,scheduled,Nottingham Forest,Sunderland,Nottingham Forest,Sunderland,NFO,SUN,,,,,,,,,2026
+20261910,2027-04-24 15:00:00,33,scheduled,Tottenham Hotspur,Hull City,Tottenham Hotspur,Hull City,TOT,HUL,,,,,,,,,2026
+20260019,2027-05-01 15:00:00,34,scheduled,Arsenal,Tottenham Hotspur,Arsenal,Tottenham Hotspur,ARS,TOT,,,,,,,,,2026
+20260417,2027-05-01 15:00:00,34,scheduled,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,BHA,NFO,,,,,,,,,2026
+20260615,2027-05-01 15:00:00,34,scheduled,Coventry City,Manchester United,Coventry City,Manchester United,COV,MUN,,,,,,,,,2026
+20260701,2027-05-01 15:00:00,34,scheduled,Crystal Palace,Aston Villa,Crystal Palace,Aston Villa,CRY,AVL,,,,,,,,,2026
+20260908,2027-05-01 15:00:00,34,scheduled,Fulham,Everton,Fulham,Everton,FUL,EVE,,,,,,,,,2026
+20261002,2027-05-01 15:00:00,34,scheduled,Hull City,Bournemouth,Hull City,Bournemouth,HUL,BOU,,,,,,,,,2026
+20261112,2027-05-01 15:00:00,34,scheduled,Ipswich Town,Leeds United,Ipswich Town,Leeds United,IPS,LEE,,,,,,,,,2026
+20261305,2027-05-01 15:00:00,34,scheduled,Liverpool,Chelsea,Liverpool,Chelsea,LIV,CHE,,,,,,,,,2026
+20261403,2027-05-01 15:00:00,34,scheduled,Manchester City,Brentford,Manchester City,Brentford,MCI,BRE,,,,,,,,,2026
+20261816,2027-05-01 15:00:00,34,scheduled,Sunderland,Newcastle United,Sunderland,Newcastle United,SUN,NEW,,,,,,,,,2026
+20260215,2027-05-08 15:00:00,35,scheduled,Bournemouth,Manchester United,Bournemouth,Manchester United,BOU,MUN,,,,,,,,,2026
+20260301,2027-05-08 15:00:00,35,scheduled,Brentford,Aston Villa,Brentford,Aston Villa,BRE,AVL,,,,,,,,,2026
+20260418,2027-05-08 15:00:00,35,scheduled,Brighton & Hove Albion,Sunderland,Brighton & Hove Albion,Sunderland,BHA,SUN,,,,,,,,,2026
+20260810,2027-05-08 15:00:00,35,scheduled,Everton,Hull City,Everton,Hull City,EVE,HUL,,,,,,,,,2026
+20260911,2027-05-08 15:00:00,35,scheduled,Fulham,Ipswich Town,Fulham,Ipswich Town,FUL,IPS,,,,,,,,,2026
+20261200,2027-05-08 15:00:00,35,scheduled,Leeds United,Arsenal,Leeds United,Arsenal,LEE,ARS,,,,,,,,,2026
+20261413,2027-05-08 15:00:00,35,scheduled,Manchester City,Liverpool,Manchester City,Liverpool,MCI,LIV,,,,,,,,,2026
+20261606,2027-05-08 15:00:00,35,scheduled,Newcastle United,Coventry City,Newcastle United,Coventry City,NEW,COV,,,,,,,,,2026
+20261707,2027-05-08 15:00:00,35,scheduled,Nottingham Forest,Crystal Palace,Nottingham Forest,Crystal Palace,NFO,CRY,,,,,,,,,2026
+20261905,2027-05-08 15:00:00,35,scheduled,Tottenham Hotspur,Chelsea,Tottenham Hotspur,Chelsea,TOT,CHE,,,,,,,,,2026
+20260017,2027-05-15 15:00:00,36,scheduled,Arsenal,Nottingham Forest,Arsenal,Nottingham Forest,ARS,NFO,,,,,,,,,2026
+20260116,2027-05-15 15:00:00,36,scheduled,Aston Villa,Newcastle United,Aston Villa,Newcastle United,AVL,NEW,,,,,,,,,2026
+20260508,2027-05-15 15:00:00,36,scheduled,Chelsea,Everton,Chelsea,Everton,CHE,EVE,,,,,,,,,2026
+20260619,2027-05-15 15:00:00,36,scheduled,Coventry City,Tottenham Hotspur,Coventry City,Tottenham Hotspur,COV,TOT,,,,,,,,,2026
+20260704,2027-05-15 15:00:00,36,scheduled,Crystal Palace,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,CRY,BHA,,,,,,,,,2026
+20261009,2027-05-15 15:00:00,36,scheduled,Hull City,Fulham,Hull City,Fulham,HUL,FUL,,,,,,,,,2026
+20261114,2027-05-15 15:00:00,36,scheduled,Ipswich Town,Manchester City,Ipswich Town,Manchester City,IPS,MCI,,,,,,,,,2026
+20261303,2027-05-15 15:00:00,36,scheduled,Liverpool,Brentford,Liverpool,Brentford,LIV,BRE,,,,,,,,,2026
+20261512,2027-05-15 15:00:00,36,scheduled,Manchester United,Leeds United,Manchester United,Leeds United,MUN,LEE,,,,,,,,,2026
+20261802,2027-05-15 15:00:00,36,scheduled,Sunderland,Bournemouth,Sunderland,Bournemouth,SUN,BOU,,,,,,,,,2026
+20260205,2027-05-23 15:00:00,37,scheduled,Bournemouth,Chelsea,Bournemouth,Chelsea,BOU,CHE,,,,,,,,,2026
+20260310,2027-05-23 15:00:00,37,scheduled,Brentford,Hull City,Brentford,Hull City,BRE,HUL,,,,,,,,,2026
+20260413,2027-05-23 15:00:00,37,scheduled,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,Liverpool,BHA,LIV,,,,,,,,,2026
+20260800,2027-05-23 15:00:00,37,scheduled,Everton,Arsenal,Everton,Arsenal,EVE,ARS,,,,,,,,,2026
+20260906,2027-05-23 15:00:00,37,scheduled,Fulham,Coventry City,Fulham,Coventry City,FUL,COV,,,,,,,,,2026
+20261218,2027-05-23 15:00:00,37,scheduled,Leeds United,Sunderland,Leeds United,Sunderland,LEE,SUN,,,,,,,,,2026
+20261401,2027-05-23 15:00:00,37,scheduled,Manchester City,Aston Villa,Manchester City,Aston Villa,MCI,AVL,,,,,,,,,2026
+20261607,2027-05-23 15:00:00,37,scheduled,Newcastle United,Crystal Palace,Newcastle United,Crystal Palace,NEW,CRY,,,,,,,,,2026
+20261711,2027-05-23 15:00:00,37,scheduled,Nottingham Forest,Ipswich Town,Nottingham Forest,Ipswich Town,NFO,IPS,,,,,,,,,2026
+20261915,2027-05-23 15:00:00,37,scheduled,Tottenham Hotspur,Manchester United,Tottenham Hotspur,Manchester United,TOT,MUN,,,,,,,,,2026
+20260004,2027-05-30 16:00:00,38,scheduled,Arsenal,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,ARS,BHA,,,,,,,,,2026
+20260119,2027-05-30 16:00:00,38,scheduled,Aston Villa,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,AVL,TOT,,,,,,,,,2026
+20260503,2027-05-30 16:00:00,38,scheduled,Chelsea,Brentford,Chelsea,Brentford,CHE,BRE,,,,,,,,,2026
+20260617,2027-05-30 16:00:00,38,scheduled,Coventry City,Nottingham Forest,Coventry City,Nottingham Forest,COV,NFO,,,,,,,,,2026
+20260712,2027-05-30 16:00:00,38,scheduled,Crystal Palace,Leeds United,Crystal Palace,Leeds United,CRY,LEE,,,,,,,,,2026
+20261016,2027-05-30 16:00:00,38,scheduled,Hull City,Newcastle United,Hull City,Newcastle United,HUL,NEW,,,,,,,,,2026
+20261108,2027-05-30 16:00:00,38,scheduled,Ipswich Town,Everton,Ipswich Town,Everton,IPS,EVE,,,,,,,,,2026
+20261302,2027-05-30 16:00:00,38,scheduled,Liverpool,Bournemouth,Liverpool,Bournemouth,LIV,BOU,,,,,,,,,2026
+20261509,2027-05-30 16:00:00,38,scheduled,Manchester United,Fulham,Manchester United,Fulham,MUN,FUL,,,,,,,,,2026
+20261814,2027-05-30 16:00:00,38,scheduled,Sunderland,Manchester City,Sunderland,Manchester City,SUN,MCI,,,,,,,,,2026

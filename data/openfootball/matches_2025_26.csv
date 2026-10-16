@@ -1,0 +1,381 @@
+match_id,date,matchweek,status,home_team,away_team,home_short_name,away_short_name,home_abbr,away_abbr,home_score,away_score,home_ht_score,away_ht_score,home_red_cards,away_red_cards,stadium,attendance,season
+20251102,2025-08-15 20:00:00,1,finished,Liverpool,Bournemouth,Liverpool,Bournemouth,LIV,BOU,4,2,1.0,0.0,,,,,2025
+20250114,2025-08-16 12:30:00,1,finished,Aston Villa,Newcastle United,Aston Villa,Newcastle United,AVL,NEW,0,0,,,,,,,2025
+20250409,2025-08-16 15:00:00,1,finished,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,Fulham,BHA,FUL,1,1,0.0,0.0,,,,,2025
+20251618,2025-08-16 15:00:00,1,finished,Sunderland,West Ham United,Sunderland,West Ham United,SUN,WHU,3,0,0.0,0.0,,,,,2025
+20251705,2025-08-16 15:00:00,1,finished,Tottenham Hotspur,Burnley,Tottenham Hotspur,Burnley,TOT,BUR,3,0,1.0,0.0,,,,,2025
+20251912,2025-08-16 17:30:00,1,finished,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,Manchester City,WOL,MCI,0,4,0.0,2.0,,,,,2025
+20250607,2025-08-17 14:00:00,1,finished,Chelsea,Crystal Palace,Chelsea,Crystal Palace,CHE,CRY,0,0,,,,,,,2025
+20251503,2025-08-17 14:00:00,1,finished,Nottingham Forest,Brentford,Nottingham Forest,Brentford,NFO,BRE,3,1,3.0,0.0,,,,,2025
+20251300,2025-08-17 16:30:00,1,finished,Manchester United,Arsenal,Manchester United,Arsenal,MUN,ARS,0,1,0.0,1.0,,,,,2025
+20251008,2025-08-18 20:00:00,1,finished,Leeds United,Everton,Leeds United,Everton,LEE,EVE,1,0,0.0,0.0,,,,,2025
+20251806,2025-08-22 20:00:00,2,finished,West Ham United,Chelsea,West Ham United,Chelsea,WHU,CHE,1,5,1.0,3.0,,,,,2025
+20251217,2025-08-23 12:30:00,2,finished,Manchester City,Tottenham Hotspur,Manchester City,Tottenham Hotspur,MCI,TOT,0,2,0.0,2.0,,,,,2025
+20250219,2025-08-23 15:00:00,2,finished,Bournemouth,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,BOU,WOL,1,0,1.0,0.0,,,,,2025
+20250301,2025-08-23 15:00:00,2,finished,Brentford,Aston Villa,Brentford,Aston Villa,BRE,AVL,1,0,1.0,0.0,,,,,2025
+20250516,2025-08-23 15:00:00,2,finished,Burnley,Sunderland,Burnley,Sunderland,BUR,SUN,2,0,0.0,0.0,,,,,2025
+20250010,2025-08-23 17:30:00,2,finished,Arsenal,Leeds United,Arsenal,Leeds United,ARS,LEE,5,0,2.0,0.0,,,,,2025
+20250715,2025-08-24 14:00:00,2,finished,Crystal Palace,Nottingham Forest,Crystal Palace,Nottingham Forest,CRY,NFO,1,1,1.0,0.0,,,,,2025
+20250804,2025-08-24 14:00:00,2,finished,Everton,Brighton & Hove Albion,Everton,Brighton & Hove Albion,EVE,BHA,2,0,1.0,0.0,,,,,2025
+20250913,2025-08-24 16:30:00,2,finished,Fulham,Manchester United,Fulham,Manchester United,FUL,MUN,1,1,0.0,0.0,,,,,2025
+20251411,2025-08-25 20:00:00,2,finished,Newcastle United,Liverpool,Newcastle United,Liverpool,NEW,LIV,2,3,0.0,1.0,,,,,2025
+20250609,2025-08-30 12:30:00,3,finished,Chelsea,Fulham,Chelsea,Fulham,CHE,FUL,2,0,1.0,0.0,,,,,2025
+20251305,2025-08-30 15:00:00,3,finished,Manchester United,Burnley,Manchester United,Burnley,MUN,BUR,3,2,1.0,0.0,,,,,2025
+20251603,2025-08-30 15:00:00,3,finished,Sunderland,Brentford,Sunderland,Brentford,SUN,BRE,2,1,0.0,0.0,,,,,2025
+20251702,2025-08-30 15:00:00,3,finished,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,Bournemouth,TOT,BOU,0,1,0.0,1.0,,,,,2025
+20251908,2025-08-30 15:00:00,3,finished,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,Everton,WOL,EVE,2,3,1.0,2.0,,,,,2025
+20251014,2025-08-30 17:30:00,3,finished,Leeds United,Newcastle United,Leeds United,Newcastle United,LEE,NEW,0,0,,,,,,,2025
+20250412,2025-08-31 14:00:00,3,finished,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,Manchester City,BHA,MCI,2,1,0.0,1.0,,,,,2025
+20251518,2025-08-31 14:00:00,3,finished,Nottingham Forest,West Ham United,Nottingham Forest,West Ham United,NFO,WHU,0,3,0.0,0.0,,,,,2025
+20251100,2025-08-31 16:30:00,3,finished,Liverpool,Arsenal,Liverpool,Arsenal,LIV,ARS,1,0,0.0,0.0,,,,,2025
+20250107,2025-08-31 19:00:00,3,finished,Aston Villa,Crystal Palace,Aston Villa,Crystal Palace,AVL,CRY,0,3,0.0,1.0,,,,,2025
+20250015,2025-09-13 12:30:00,4,finished,Arsenal,Nottingham Forest,Arsenal,Nottingham Forest,ARS,NFO,3,0,1.0,0.0,,,,,2025
+20250204,2025-09-13 15:00:00,4,finished,Bournemouth,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,BOU,BHA,2,1,1.0,0.0,,,,,2025
+20250716,2025-09-13 15:00:00,4,finished,Crystal Palace,Sunderland,Crystal Palace,Sunderland,CRY,SUN,0,0,,,,,,,2025
+20250801,2025-09-13 15:00:00,4,finished,Everton,Aston Villa,Everton,Aston Villa,EVE,AVL,0,0,,,,,,,2025
+20250910,2025-09-13 15:00:00,4,finished,Fulham,Leeds United,Fulham,Leeds United,FUL,LEE,1,0,0.0,0.0,,,,,2025
+20251419,2025-09-13 15:00:00,4,finished,Newcastle United,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,NEW,WOL,1,0,1.0,0.0,,,,,2025
+20251817,2025-09-13 17:30:00,4,finished,West Ham United,Tottenham Hotspur,West Ham United,Tottenham Hotspur,WHU,TOT,0,3,0.0,0.0,,,,,2025
+20250306,2025-09-13 20:00:00,4,finished,Brentford,Chelsea,Brentford,Chelsea,BRE,CHE,2,2,1.0,0.0,,,,,2025
+20250511,2025-09-14 14:00:00,4,finished,Burnley,Liverpool,Burnley,Liverpool,BUR,LIV,0,1,0.0,0.0,,,,,2025
+20251213,2025-09-14 16:30:00,4,finished,Manchester City,Manchester United,Manchester City,Manchester United,MCI,MUN,3,0,1.0,0.0,,,,,2025
+20251108,2025-09-20 12:30:00,5,finished,Liverpool,Everton,Liverpool,Everton,LIV,EVE,2,1,2.0,0.0,,,,,2025
+20250417,2025-09-20 15:00:00,5,finished,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,BHA,TOT,2,2,2.0,1.0,,,,,2025
+20250515,2025-09-20 15:00:00,5,finished,Burnley,Nottingham Forest,Burnley,Nottingham Forest,BUR,NFO,1,1,1.0,1.0,,,,,2025
+20251807,2025-09-20 15:00:00,5,finished,West Ham United,Crystal Palace,West Ham United,Crystal Palace,WHU,CRY,1,2,0.0,1.0,,,,,2025
+20251910,2025-09-20 15:00:00,5,finished,Wolverhampton Wanderers,Leeds United,Wolverhampton Wanderers,Leeds United,WOL,LEE,1,3,1.0,3.0,,,,,2025
+20251306,2025-09-20 17:30:00,5,finished,Manchester United,Chelsea,Manchester United,Chelsea,MUN,CHE,2,1,2.0,0.0,,,,,2025
+20250903,2025-09-20 20:00:00,5,finished,Fulham,Brentford,Fulham,Brentford,FUL,BRE,3,1,2.0,1.0,,,,,2025
+20250214,2025-09-21 14:00:00,5,finished,Bournemouth,Newcastle United,Bournemouth,Newcastle United,BOU,NEW,0,0,,,,,,,2025
+20251601,2025-09-21 14:00:00,5,finished,Sunderland,Aston Villa,Sunderland,Aston Villa,SUN,AVL,1,1,0.0,0.0,,,,,2025
+20250012,2025-09-21 16:30:00,5,finished,Arsenal,Manchester City,Arsenal,Manchester City,ARS,MCI,1,1,0.0,1.0,,,,,2025
+20250313,2025-09-27 12:30:00,6,finished,Brentford,Manchester United,Brentford,Manchester United,BRE,MUN,3,1,2.0,1.0,,,,,2025
+20250604,2025-09-27 15:00:00,6,finished,Chelsea,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,CHE,BHA,1,3,1.0,0.0,,,,,2025
+20250711,2025-09-27 15:00:00,6,finished,Crystal Palace,Liverpool,Crystal Palace,Liverpool,CRY,LIV,2,1,1.0,0.0,,,,,2025
+20251002,2025-09-27 15:00:00,6,finished,Leeds United,Bournemouth,Leeds United,Bournemouth,LEE,BOU,2,2,1.0,1.0,,,,,2025
+20251205,2025-09-27 15:00:00,6,finished,Manchester City,Burnley,Manchester City,Burnley,MCI,BUR,5,1,1.0,1.0,,,,,2025
+20251516,2025-09-27 17:30:00,6,finished,Nottingham Forest,Sunderland,Nottingham Forest,Sunderland,NFO,SUN,0,1,0.0,1.0,,,,,2025
+20251719,2025-09-27 20:00:00,6,finished,Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,TOT,WOL,1,1,0.0,0.0,,,,,2025
+20250109,2025-09-28 14:00:00,6,finished,Aston Villa,Fulham,Aston Villa,Fulham,AVL,FUL,3,1,1.0,1.0,,,,,2025
+20251400,2025-09-28 16:30:00,6,finished,Newcastle United,Arsenal,Newcastle United,Arsenal,NEW,ARS,1,2,1.0,0.0,,,,,2025
+20250818,2025-09-29 20:00:00,6,finished,Everton,West Ham United,Everton,West Ham United,EVE,WHU,1,1,1.0,0.0,,,,,2025
+20250209,2025-10-03 20:00:00,7,finished,Bournemouth,Fulham,Bournemouth,Fulham,BOU,FUL,3,1,0.0,0.0,,,,,2025
+20251017,2025-10-04 12:30:00,7,finished,Leeds United,Tottenham Hotspur,Leeds United,Tottenham Hotspur,LEE,TOT,1,2,1.0,1.0,,,,,2025
+20250018,2025-10-04 15:00:00,7,finished,Arsenal,West Ham United,Arsenal,West Ham United,ARS,WHU,2,0,1.0,0.0,,,,,2025
+20251316,2025-10-04 15:00:00,7,finished,Manchester United,Sunderland,Manchester United,Sunderland,MUN,SUN,2,0,2.0,0.0,,,,,2025
+20250611,2025-10-04 17:30:00,7,finished,Chelsea,Liverpool,Chelsea,Liverpool,CHE,LIV,2,1,1.0,0.0,,,,,2025
+20250105,2025-10-05 14:00:00,7,finished,Aston Villa,Burnley,Aston Villa,Burnley,AVL,BUR,2,1,1.0,0.0,,,,,2025
+20250807,2025-10-05 14:00:00,7,finished,Everton,Crystal Palace,Everton,Crystal Palace,EVE,CRY,2,1,0.0,1.0,,,,,2025
+20251415,2025-10-05 14:00:00,7,finished,Newcastle United,Nottingham Forest,Newcastle United,Nottingham Forest,NEW,NFO,2,0,0.0,0.0,,,,,2025
+20251904,2025-10-05 14:00:00,7,finished,Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,WOL,BHA,1,1,1.0,0.0,,,,,2025
+20250312,2025-10-05 16:30:00,7,finished,Brentford,Manchester City,Brentford,Manchester City,BRE,MCI,0,1,0.0,1.0,,,,,2025
+20251506,2025-10-18 12:30:00,8,finished,Nottingham Forest,Chelsea,Nottingham Forest,Chelsea,NFO,CHE,0,3,0.0,0.0,,,,,2025
+20250414,2025-10-18 15:00:00,8,finished,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,Newcastle United,BHA,NEW,2,1,1.0,0.0,,,,,2025
+20250510,2025-10-18 15:00:00,8,finished,Burnley,Leeds United,Burnley,Leeds United,BUR,LEE,2,0,1.0,0.0,,,,,2025
+20250702,2025-10-18 15:00:00,8,finished,Crystal Palace,Bournemouth,Crystal Palace,Bournemouth,CRY,BOU,3,3,0.0,2.0,,,,,2025
+20251208,2025-10-18 15:00:00,8,finished,Manchester City,Everton,Manchester City,Everton,MCI,EVE,2,0,0.0,0.0,,,,,2025
+20251619,2025-10-18 15:00:00,8,finished,Sunderland,Wolverhampton Wanderers,Sunderland,Wolverhampton Wanderers,SUN,WOL,2,0,1.0,0.0,,,,,2025
+20250900,2025-10-18 17:30:00,8,finished,Fulham,Arsenal,Fulham,Arsenal,FUL,ARS,0,1,0.0,0.0,,,,,2025
+20251701,2025-10-19 14:00:00,8,finished,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,Aston Villa,TOT,AVL,1,2,1.0,1.0,,,,,2025
+20251113,2025-10-19 16:30:00,8,finished,Liverpool,Manchester United,Liverpool,Manchester United,LIV,MUN,1,2,0.0,1.0,,,,,2025
+20251803,2025-10-20 20:00:00,8,finished,West Ham United,Brentford,West Ham United,Brentford,WHU,BRE,0,2,0.0,1.0,,,,,2025
+20251018,2025-10-24 20:00:00,9,finished,Leeds United,West Ham United,Leeds United,West Ham United,LEE,WHU,2,1,2.0,0.0,,,,,2025
+20250616,2025-10-25 15:00:00,9,finished,Chelsea,Sunderland,Chelsea,Sunderland,CHE,SUN,1,2,1.0,1.0,,,,,2025
+20251409,2025-10-25 15:00:00,9,finished,Newcastle United,Fulham,Newcastle United,Fulham,NEW,FUL,2,1,1.0,0.0,,,,,2025
+20251304,2025-10-25 17:30:00,9,finished,Manchester United,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,MUN,BHA,4,2,2.0,0.0,,,,,2025
+20250311,2025-10-25 20:00:00,9,finished,Brentford,Liverpool,Brentford,Liverpool,BRE,LIV,3,2,2.0,1.0,,,,,2025
+20250007,2025-10-26 14:00:00,9,finished,Arsenal,Crystal Palace,Arsenal,Crystal Palace,ARS,CRY,1,0,1.0,0.0,,,,,2025
+20250112,2025-10-26 14:00:00,9,finished,Aston Villa,Manchester City,Aston Villa,Manchester City,AVL,MCI,1,0,1.0,0.0,,,,,2025
+20250215,2025-10-26 14:00:00,9,finished,Bournemouth,Nottingham Forest,Bournemouth,Nottingham Forest,BOU,NFO,2,0,2.0,0.0,,,,,2025
+20251905,2025-10-26 14:00:00,9,finished,Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers,Burnley,WOL,BUR,2,3,2.0,2.0,,,,,2025
+20250817,2025-10-26 16:30:00,9,finished,Everton,Tottenham Hotspur,Everton,Tottenham Hotspur,EVE,TOT,0,3,0.0,2.0,,,,,2025
+20250410,2025-11-01 15:00:00,10,finished,Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,Leeds United,BHA,LEE,3,0,1.0,0.0,,,,,2025
+20250500,2025-11-01 15:00:00,10,finished,Burnley,Arsenal,Burnley,Arsenal,BUR,ARS,0,2,0.0,2.0,,,,,2025
+20250703,2025-11-01 15:00:00,10,finished,Crystal Palace,Brentford,Crystal Palace,Brentford,CRY,BRE,2,0,1.0,0.0,,,,,2025
+20250919,2025-11-01 15:00:00,10,finished,Fulham,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,FUL,WOL,3,0,1.0,0.0,,,,,2025
+20251513,2025-11-01 15:00:00,10,finished,Nottingham Forest,Manchester United,Nottingham Forest,Manchester United,NFO,MUN,2,2,0.0,1.0,,,,,2025
+20251706,2025-11-01 17:30:00,10,finished,Tottenham Hotspur,Chelsea,Tottenham Hotspur,Chelsea,TOT,CHE,0,1,0.0,1.0,,,,,2025
+20251101,2025-11-01 20:00:00,10,finished,Liverpool,Aston Villa,Liverpool,Aston Villa,LIV,AVL,2,0,1.0,0.0,,,,,2025
+20251814,2025-11-02 14:00:00,10,finished,West Ham United,Newcastle United,West Ham United,Newcastle United,WHU,NEW,3,1,2.0,1.0,,,,,2025
+20251202,2025-11-02 16:30:00,10,finished,Manchester City,Bournemouth,Manchester City,Bournemouth,MCI,BOU,3,1,2.0,1.0,,,,,2025
+20251608,2025-11-03 20:00:00,10,finished,Sunderland,Everton,Sunderland,Everton,SUN,EVE,1,1,0.0,1.0,,,,,2025
+20251713,2025-11-08 12:30:00,11,finished,Tottenham Hotspur,Manchester United,Tottenham Hotspur,Manchester United,TOT,MUN,2,2,0.0,1.0,,,,,2025
+20250809,2025-11-08 15:00:00,11,finished,Everton,Fulham,Everton,Fulham,EVE,FUL,2,0,1.0,0.0,,,,,2025
+20251805,2025-11-08 15:00:00,11,finished,West Ham United,Burnley,West Ham United,Burnley,WHU,BUR,3,2,1.0,1.0,,,,,2025
+20251600,2025-11-08 17:30:00,11,finished,Sunderland,Arsenal,Sunderland,Arsenal,SUN,ARS,2,2,1.0,0.0,,,,,2025
+20250619,2025-11-08 20:00:00,11,finished,Chelsea,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,CHE,WOL,3,0,0.0,0.0,,,,,2025
+20250102,2025-11-09 14:00:00,11,finished,Aston Villa,Bournemouth,Aston Villa,Bournemouth,AVL,BOU,4,0,2.0,0.0,,,,,2025
+20250314,2025-11-09 14:00:00,11,finished,Brentford,Newcastle United,Brentford,Newcastle United,BRE,NEW,3,1,0.0,1.0,,,,,2025
+20250704,2025-11-09 14:00:00,11,finished,Crystal Palace,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,CRY,BHA,0,0,,,,,,,2025
+20251510,2025-11-09 14:00:00,11,finished,Nottingham Forest,Leeds United,Nottingham Forest,Leeds United,NFO,LEE,3,1,1.0,1.0,,,,,2025
+20251211,2025-11-09 16:30:00,11,finished,Manchester City,Liverpool,Manchester City,Liverpool,MCI,LIV,3,0,2.0,0.0,,,,,2025
+20250506,2025-11-22 12:30:00,12,finished,Burnley,Chelsea,Burnley,Chelsea,BUR,CHE,0,2,0.0,1.0,,,,,2025
+20250218,2025-11-22 15:00:00,12,finished,Bournemouth,West Ham United,Bournemouth,West Ham United,BOU,WHU,2,2,0.0,2.0,,,,,2025
+20250403,2025-11-22 15:00:00,12,finished,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,Brentford,BHA,BRE,2,1,0.0,1.0,,,,,2025
+20250916,2025-11-22 15:00:00,12,finished,Fulham,Sunderland,Fulham,Sunderland,FUL,SUN,1,0,0.0,0.0,,,,,2025
+20251115,2025-11-22 15:00:00,12,finished,Liverpool,Nottingham Forest,Liverpool,Nottingham Forest,LIV,NFO,0,3,0.0,1.0,,,,,2025
+20251907,2025-11-22 15:00:00,12,finished,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,WOL,CRY,0,2,0.0,0.0,,,,,2025
+20251412,2025-11-22 17:30:00,12,finished,Newcastle United,Manchester City,Newcastle United,Manchester City,NEW,MCI,2,1,0.0,0.0,,,,,2025
+20251001,2025-11-23 14:00:00,12,finished,Leeds United,Aston Villa,Leeds United,Aston Villa,LEE,AVL,1,2,1.0,0.0,,,,,2025
+20250017,2025-11-23 16:30:00,12,finished,Arsenal,Tottenham Hotspur,Arsenal,Tottenham Hotspur,ARS,TOT,4,1,2.0,0.0,,,,,2025
+20251308,2025-11-24 20:00:00,12,finished,Manchester United,Everton,Manchester United,Everton,MUN,EVE,0,1,0.0,1.0,,,,,2025
+20250305,2025-11-29 15:00:00,13,finished,Brentford,Burnley,Brentford,Burnley,BRE,BUR,3,1,0.0,0.0,,,,,2025
+20251210,2025-11-29 15:00:00,13,finished,Manchester City,Leeds United,Manchester City,Leeds United,MCI,LEE,3,2,2.0,0.0,,,,,2025
+20251602,2025-11-29 15:00:00,13,finished,Sunderland,Bournemouth,Sunderland,Bournemouth,SUN,BOU,3,2,1.0,2.0,,,,,2025
+20250814,2025-11-29 17:30:00,13,finished,Everton,Newcastle United,Everton,Newcastle United,EVE,NEW,1,4,0.0,3.0,,,,,2025
+20251709,2025-11-29 20:00:00,13,finished,Tottenham Hotspur,Fulham,Tottenham Hotspur,Fulham,TOT,FUL,1,2,0.0,2.0,,,,,2025
+20250713,2025-11-30 12:00:00,13,finished,Crystal Palace,Manchester United,Crystal Palace,Manchester United,CRY,MUN,1,2,1.0,0.0,,,,,2025
+20250119,2025-11-30 14:05:00,13,finished,Aston Villa,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,AVL,WOL,1,0,0.0,0.0,,,,,2025
+20251504,2025-11-30 14:05:00,13,finished,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,NFO,BHA,0,2,0.0,1.0,,,,,2025
+20251811,2025-11-30 14:05:00,13,finished,West Ham United,Liverpool,West Ham United,Liverpool,WHU,LIV,0,2,0.0,0.0,,,,,2025
+20250600,2025-11-30 16:30:00,13,finished,Chelsea,Arsenal,Chelsea,Arsenal,CHE,ARS,1,1,0.0,0.0,,,,,2025
+20250208,2025-12-02 19:30:00,14,finished,Bournemouth,Everton,Bournemouth,Everton,BOU,EVE,0,1,0.0,0.0,,,,,2025
+20250912,2025-12-02 19:30:00,14,finished,Fulham,Manchester City,Fulham,Manchester City,FUL,MCI,4,5,1.0,3.0,,,,,2025
+20251417,2025-12-02 20:15:00,14,finished,Newcastle United,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,NEW,TOT,2,2,0.0,0.0,,,,,2025
+20250003,2025-12-03 19:30:00,14,finished,Arsenal,Brentford,Arsenal,Brentford,ARS,BRE,2,0,1.0,0.0,,,,,2025
+20250401,2025-12-03 19:30:00,14,finished,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,Aston Villa,BHA,AVL,3,4,2.0,2.0,,,,,2025
+20250507,2025-12-03 19:30:00,14,finished,Burnley,Crystal Palace,Burnley,Crystal Palace,BUR,CRY,0,1,0.0,1.0,,,,,2025
+20251915,2025-12-03 19:30:00,14,finished,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,WOL,NFO,0,1,0.0,0.0,,,,,2025
+20251006,2025-12-03 20:15:00,14,finished,Leeds United,Chelsea,Leeds United,Chelsea,LEE,CHE,3,1,2.0,0.0,,,,,2025
+20251116,2025-12-03 20:15:00,14,finished,Liverpool,Sunderland,Liverpool,Sunderland,LIV,SUN,1,1,0.0,0.0,,,,,2025
+20251318,2025-12-04 20:00:00,14,finished,Manchester United,West Ham United,Manchester United,West Ham United,MUN,WHU,1,1,0.0,0.0,,,,,2025
+20250100,2025-12-06 12:30:00,15,finished,Aston Villa,Arsenal,Aston Villa,Arsenal,AVL,ARS,2,1,1.0,0.0,,,,,2025
+20250206,2025-12-06 15:00:00,15,finished,Bournemouth,Chelsea,Bournemouth,Chelsea,BOU,CHE,0,0,,,,,,,2025
+20250815,2025-12-06 15:00:00,15,finished,Everton,Nottingham Forest,Everton,Nottingham Forest,EVE,NFO,3,0,2.0,0.0,,,,,2025
+20251216,2025-12-06 15:00:00,15,finished,Manchester City,Sunderland,Manchester City,Sunderland,MCI,SUN,3,0,2.0,0.0,,,,,2025
+20251405,2025-12-06 15:00:00,15,finished,Newcastle United,Burnley,Newcastle United,Burnley,NEW,BUR,2,1,2.0,0.0,,,,,2025
+20251703,2025-12-06 15:00:00,15,finished,Tottenham Hotspur,Brentford,Tottenham Hotspur,Brentford,TOT,BRE,2,0,2.0,0.0,,,,,2025
+20251011,2025-12-06 17:30:00,15,finished,Leeds United,Liverpool,Leeds United,Liverpool,LEE,LIV,3,3,0.0,0.0,,,,,2025
+20250418,2025-12-07 14:00:00,15,finished,Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,West Ham United,BHA,WHU,1,1,0.0,0.0,,,,,2025
+20250907,2025-12-07 16:30:00,15,finished,Fulham,Crystal Palace,Fulham,Crystal Palace,FUL,CRY,1,2,1.0,1.0,,,,,2025
+20251913,2025-12-08 20:00:00,15,finished,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,Manchester United,WOL,MUN,1,4,1.0,1.0,,,,,2025
+20250608,2025-12-13 15:00:00,16,finished,Chelsea,Everton,Chelsea,Everton,CHE,EVE,2,0,2.0,0.0,,,,,2025
+20251104,2025-12-13 15:00:00,16,finished,Liverpool,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,LIV,BHA,2,0,1.0,0.0,,,,,2025
+20250509,2025-12-13 17:30:00,16,finished,Burnley,Fulham,Burnley,Fulham,BUR,FUL,2,3,1.0,2.0,,,,,2025
+20250019,2025-12-13 20:00:00,16,finished,Arsenal,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,ARS,WOL,2,1,0.0,0.0,,,,,2025
+20250712,2025-12-14 14:00:00,16,finished,Crystal Palace,Manchester City,Crystal Palace,Manchester City,CRY,MCI,0,3,0.0,1.0,,,,,2025
+20251517,2025-12-14 14:00:00,16,finished,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,NFO,TOT,3,0,1.0,0.0,,,,,2025
+20251614,2025-12-14 14:00:00,16,finished,Sunderland,Newcastle United,Sunderland,Newcastle United,SUN,NEW,1,0,0.0,0.0,,,,,2025
+20251801,2025-12-14 14:00:00,16,finished,West Ham United,Aston Villa,West Ham United,Aston Villa,WHU,AVL,2,3,2.0,1.0,,,,,2025
+20250310,2025-12-14 16:30:00,16,finished,Brentford,Leeds United,Brentford,Leeds United,BRE,LEE,1,1,0.0,0.0,,,,,2025
+20251302,2025-12-15 20:00:00,16,finished,Manchester United,Bournemouth,Manchester United,Bournemouth,MUN,BOU,4,4,2.0,1.0,,,,,2025
+20251406,2025-12-20 12:30:00,17,finished,Newcastle United,Chelsea,Newcastle United,Chelsea,NEW,CHE,2,2,2.0,0.0,,,,,2025
+20250205,2025-12-20 15:00:00,17,finished,Bournemouth,Burnley,Bournemouth,Burnley,BOU,BUR,1,1,0.0,0.0,,,,,2025
+20250416,2025-12-20 15:00:00,17,finished,Brighton & Hove Albion,Sunderland,Brighton & Hove Albion,Sunderland,BHA,SUN,0,0,,,,,,,2025
+20251218,2025-12-20 15:00:00,17,finished,Manchester City,West Ham United,Manchester City,West Ham United,MCI,WHU,3,0,2.0,0.0,,,,,2025
+20251903,2025-12-20 15:00:00,17,finished,Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,Brentford,WOL,BRE,0,2,0.0,0.0,,,,,2025
+20251711,2025-12-20 17:30:00,17,finished,Tottenham Hotspur,Liverpool,Tottenham Hotspur,Liverpool,TOT,LIV,1,2,0.0,0.0,,,,,2025
+20250800,2025-12-20 20:00:00,17,finished,Everton,Arsenal,Everton,Arsenal,EVE,ARS,0,1,0.0,1.0,,,,,2025
+20251007,2025-12-20 20:00:00,17,finished,Leeds United,Crystal Palace,Leeds United,Crystal Palace,LEE,CRY,4,1,2.0,0.0,,,,,2025
+20250113,2025-12-21 16:30:00,17,finished,Aston Villa,Manchester United,Aston Villa,Manchester United,AVL,MUN,2,1,1.0,1.0,,,,,2025
+20250915,2025-12-22 20:00:00,17,finished,Fulham,Nottingham Forest,Fulham,Nottingham Forest,FUL,NFO,1,0,1.0,0.0,,,,,2025
+20251314,2025-12-26 20:00:00,18,finished,Manchester United,Newcastle United,Manchester United,Newcastle United,MUN,NEW,1,0,1.0,0.0,,,,,2025
+20251512,2025-12-27 12:30:00,18,finished,Nottingham Forest,Manchester City,Nottingham Forest,Manchester City,NFO,MCI,1,2,0.0,0.0,,,,,2025
+20250004,2025-12-27 15:00:00,18,finished,Arsenal,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,ARS,BHA,2,1,1.0,0.0,,,,,2025
+20250302,2025-12-27 15:00:00,18,finished,Brentford,Bournemouth,Brentford,Bournemouth,BRE,BOU,4,1,2.0,0.0,,,,,2025
+20250508,2025-12-27 15:00:00,18,finished,Burnley,Everton,Burnley,Everton,BUR,EVE,0,0,,,,,,,2025
+20251119,2025-12-27 15:00:00,18,finished,Liverpool,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,LIV,WOL,2,1,2.0,0.0,,,,,2025
+20251809,2025-12-27 15:00:00,18,finished,West Ham United,Fulham,West Ham United,Fulham,WHU,FUL,0,1,0.0,0.0,,,,,2025
+20250601,2025-12-27 17:30:00,18,finished,Chelsea,Aston Villa,Chelsea,Aston Villa,CHE,AVL,1,2,1.0,0.0,,,,,2025
+20251610,2025-12-28 14:00:00,18,finished,Sunderland,Leeds United,Sunderland,Leeds United,SUN,LEE,1,1,1.0,0.0,,,,,2025
+20250717,2025-12-28 16:30:00,18,finished,Crystal Palace,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,CRY,TOT,0,1,0.0,1.0,,,,,2025
+20250514,2025-12-30 19:30:00,19,finished,Burnley,Newcastle United,Burnley,Newcastle United,BUR,NEW,1,3,1.0,2.0,,,,,2025
+20250602,2025-12-30 19:30:00,19,finished,Chelsea,Bournemouth,Chelsea,Bournemouth,CHE,BOU,2,2,2.0,2.0,,,,,2025
+20251508,2025-12-30 19:30:00,19,finished,Nottingham Forest,Everton,Nottingham Forest,Everton,NFO,EVE,0,2,0.0,1.0,,,,,2025
+20251804,2025-12-30 19:30:00,19,finished,West Ham United,Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,WHU,BHA,2,2,2.0,1.0,,,,,2025
+20250001,2025-12-30 20:15:00,19,finished,Arsenal,Aston Villa,Arsenal,Aston Villa,ARS,AVL,4,1,0.0,0.0,,,,,2025
+20251319,2025-12-30 20:15:00,19,finished,Manchester United,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,MUN,WOL,1,1,1.0,1.0,,,,,2025
+20250709,2026-01-01 17:30:00,19,finished,Crystal Palace,Fulham,Crystal Palace,Fulham,CRY,FUL,1,1,1.0,0.0,,,,,2025
+20251110,2026-01-01 17:30:00,19,finished,Liverpool,Leeds United,Liverpool,Leeds United,LIV,LEE,0,0,,,,,,,2025
+20250317,2026-01-01 20:00:00,19,finished,Brentford,Tottenham Hotspur,Brentford,Tottenham Hotspur,BRE,TOT,0,0,,,,,,,2025
+20251612,2026-01-01 20:00:00,19,finished,Sunderland,Manchester City,Sunderland,Manchester City,SUN,MCI,0,0,,,,,,,2025
+20250115,2026-01-03 12:30:00,20,finished,Aston Villa,Nottingham Forest,Aston Villa,Nottingham Forest,AVL,NFO,3,1,1.0,0.0,,,,,2025
+20250405,2026-01-03 15:00:00,20,finished,Brighton & Hove Albion,Burnley,Brighton & Hove Albion,Burnley,BHA,BUR,2,0,1.0,0.0,,,,,2025
+20251918,2026-01-03 15:00:00,20,finished,Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,West Ham United,WOL,WHU,3,0,3.0,0.0,,,,,2025
+20250200,2026-01-03 17:30:00,20,finished,Bournemouth,Arsenal,Bournemouth,Arsenal,BOU,ARS,2,3,1.0,1.0,,,,,2025
+20251013,2026-01-04 12:30:00,20,finished,Leeds United,Manchester United,Leeds United,Manchester United,LEE,MUN,1,1,0.0,0.0,,,,,2025
+20250803,2026-01-04 15:00:00,20,finished,Everton,Brentford,Everton,Brentford,EVE,BRE,2,4,0.0,1.0,,,,,2025
+20251407,2026-01-04 15:00:00,20,finished,Newcastle United,Crystal Palace,Newcastle United,Crystal Palace,NEW,CRY,2,0,0.0,0.0,,,,,2025
+20251716,2026-01-04 15:00:00,20,finished,Tottenham Hotspur,Sunderland,Tottenham Hotspur,Sunderland,TOT,SUN,1,1,1.0,0.0,,,,,2025
+20250911,2026-01-04 15:15:00,20,finished,Fulham,Liverpool,Fulham,Liverpool,FUL,LIV,2,2,1.0,0.0,,,,,2025
+20251206,2026-01-04 17:30:00,20,finished,Manchester City,Chelsea,Manchester City,Chelsea,MCI,CHE,1,1,1.0,0.0,,,,,2025
+20251815,2026-01-06 20:00:00,21,finished,West Ham United,Nottingham Forest,West Ham United,Nottingham Forest,WHU,NFO,1,2,1.0,0.0,,,,,2025
+20250217,2026-01-07 19:30:00,21,finished,Bournemouth,Tottenham Hotspur,Bournemouth,Tottenham Hotspur,BOU,TOT,3,2,2.0,1.0,,,,,2025
+20250316,2026-01-07 19:30:00,21,finished,Brentford,Sunderland,Brentford,Sunderland,BRE,SUN,3,0,1.0,0.0,,,,,2025
+20250701,2026-01-07 19:30:00,21,finished,Crystal Palace,Aston Villa,Crystal Palace,Aston Villa,CRY,AVL,0,0,,,,,,,2025
+20250819,2026-01-07 19:30:00,21,finished,Everton,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,EVE,WOL,1,1,1.0,0.0,,,,,2025
+20250906,2026-01-07 19:30:00,21,finished,Fulham,Chelsea,Fulham,Chelsea,FUL,CHE,2,1,0.0,0.0,,,,,2025
+20251204,2026-01-07 19:30:00,21,finished,Manchester City,Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,MCI,BHA,1,1,1.0,0.0,,,,,2025
+20250513,2026-01-07 20:15:00,21,finished,Burnley,Manchester United,Burnley,Manchester United,BUR,MUN,2,2,1.0,0.0,,,,,2025
+20251410,2026-01-07 20:15:00,21,finished,Newcastle United,Leeds United,Newcastle United,Leeds United,NEW,LEE,4,3,1.0,2.0,,,,,2025
+20250011,2026-01-08 20:00:00,21,finished,Arsenal,Liverpool,Arsenal,Liverpool,ARS,LIV,0,0,,,,,,,2025
+20251312,2026-01-17 12:30:00,22,finished,Manchester United,Manchester City,Manchester United,Manchester City,MUN,MCI,2,0,0.0,0.0,,,,,2025
+20250603,2026-01-17 15:00:00,22,finished,Chelsea,Brentford,Chelsea,Brentford,CHE,BRE,2,0,1.0,0.0,,,,,2025
+20251009,2026-01-17 15:00:00,22,finished,Leeds United,Fulham,Leeds United,Fulham,LEE,FUL,1,0,0.0,0.0,,,,,2025
+20251105,2026-01-17 15:00:00,22,finished,Liverpool,Burnley,Liverpool,Burnley,LIV,BUR,1,1,1.0,0.0,,,,,2025
+20251607,2026-01-17 15:00:00,22,finished,Sunderland,Crystal Palace,Sunderland,Crystal Palace,SUN,CRY,2,1,1.0,1.0,,,,,2025
+20251718,2026-01-17 15:00:00,22,finished,Tottenham Hotspur,West Ham United,Tottenham Hotspur,West Ham United,TOT,WHU,1,2,0.0,1.0,,,,,2025
+20251500,2026-01-17 17:30:00,22,finished,Nottingham Forest,Arsenal,Nottingham Forest,Arsenal,NFO,ARS,0,0,,,,,,,2025
+20251914,2026-01-18 14:00:00,22,finished,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,Newcastle United,WOL,NEW,0,0,,,,,,,2025
+20250108,2026-01-18 16:30:00,22,finished,Aston Villa,Everton,Aston Villa,Everton,AVL,EVE,0,1,0.0,0.0,,,,,2025
+20250402,2026-01-19 20:00:00,22,finished,Brighton & Hove Albion,Bournemouth,Brighton & Hove Albion,Bournemouth,BHA,BOU,1,1,0.0,1.0,,,,,2025
+20251816,2026-01-24 12:30:00,23,finished,West Ham United,Sunderland,West Ham United,Sunderland,WHU,SUN,3,1,3.0,0.0,,,,,2025
+20250517,2026-01-24 15:00:00,23,finished,Burnley,Tottenham Hotspur,Burnley,Tottenham Hotspur,BUR,TOT,2,2,1.0,1.0,,,,,2025
+20250904,2026-01-24 15:00:00,23,finished,Fulham,Brighton & Hove Albion,Fulham,Brighton & Hove Albion,FUL,BHA,2,1,0.0,1.0,,,,,2025
+20251219,2026-01-24 15:00:00,23,finished,Manchester City,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,MCI,WOL,2,0,2.0,0.0,,,,,2025
+20250211,2026-01-24 17:30:00,23,finished,Bournemouth,Liverpool,Bournemouth,Liverpool,BOU,LIV,3,2,2.0,1.0,,,,,2025
+20250315,2026-01-25 14:00:00,23,finished,Brentford,Nottingham Forest,Brentford,Nottingham Forest,BRE,NFO,0,2,0.0,1.0,,,,,2025
+20250706,2026-01-25 14:00:00,23,finished,Crystal Palace,Chelsea,Crystal Palace,Chelsea,CRY,CHE,1,3,0.0,1.0,,,,,2025
+20251401,2026-01-25 14:00:00,23,finished,Newcastle United,Aston Villa,Newcastle United,Aston Villa,NEW,AVL,0,2,0.0,1.0,,,,,2025
+20250013,2026-01-25 16:30:00,23,finished,Arsenal,Manchester United,Arsenal,Manchester United,ARS,MUN,2,3,1.0,1.0,,,,,2025
+20250810,2026-01-26 20:00:00,23,finished,Everton,Leeds United,Everton,Leeds United,EVE,LEE,1,1,0.0,1.0,,,,,2025
+20250408,2026-01-31 15:00:00,24,finished,Brighton & Hove Albion,Everton,Brighton & Hove Albion,Everton,BHA,EVE,1,1,0.0,0.0,,,,,2025
+20251000,2026-01-31 15:00:00,24,finished,Leeds United,Arsenal,Leeds United,Arsenal,LEE,ARS,0,4,0.0,2.0,,,,,2025
+20251902,2026-01-31 15:00:00,24,finished,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Bournemouth,WOL,BOU,0,2,0.0,1.0,,,,,2025
+20250618,2026-01-31 17:30:00,24,finished,Chelsea,West Ham United,Chelsea,West Ham United,CHE,WHU,3,2,0.0,2.0,,,,,2025
+20251114,2026-01-31 20:00:00,24,finished,Liverpool,Newcastle United,Liverpool,Newcastle United,LIV,NEW,4,1,2.0,1.0,,,,,2025
+20250103,2026-02-01 14:00:00,24,finished,Aston Villa,Brentford,Aston Villa,Brentford,AVL,BRE,0,1,0.0,1.0,,,,,2025
+20251309,2026-02-01 14:00:00,24,finished,Manchester United,Fulham,Manchester United,Fulham,MUN,FUL,3,2,1.0,0.0,,,,,2025
+20251507,2026-02-01 14:00:00,24,finished,Nottingham Forest,Crystal Palace,Nottingham Forest,Crystal Palace,NFO,CRY,1,1,1.0,1.0,,,,,2025
+20251712,2026-02-01 16:30:00,24,finished,Tottenham Hotspur,Manchester City,Tottenham Hotspur,Manchester City,TOT,MCI,2,2,0.0,2.0,,,,,2025
+20251605,2026-02-02 20:00:00,24,finished,Sunderland,Burnley,Sunderland,Burnley,SUN,BUR,3,0,2.0,0.0,,,,,2025
+20251015,2026-02-06 20:00:00,25,finished,Leeds United,Nottingham Forest,Leeds United,Nottingham Forest,LEE,NFO,3,1,2.0,0.0,,,,,2025
+20251317,2026-02-07 12:30:00,25,finished,Manchester United,Tottenham Hotspur,Manchester United,Tottenham Hotspur,MUN,TOT,2,0,1.0,0.0,,,,,2025
+20250016,2026-02-07 15:00:00,25,finished,Arsenal,Sunderland,Arsenal,Sunderland,ARS,SUN,3,0,1.0,0.0,,,,,2025
+20250201,2026-02-07 15:00:00,25,finished,Bournemouth,Aston Villa,Bournemouth,Aston Villa,BOU,AVL,1,1,0.0,1.0,,,,,2025
+20250518,2026-02-07 15:00:00,25,finished,Burnley,West Ham United,Burnley,West Ham United,BUR,WHU,0,2,0.0,2.0,,,,,2025
+20250908,2026-02-07 15:00:00,25,finished,Fulham,Everton,Fulham,Everton,FUL,EVE,1,2,1.0,0.0,,,,,2025
+20251906,2026-02-07 15:00:00,25,finished,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,Chelsea,WOL,CHE,1,3,0.0,3.0,,,,,2025
+20251403,2026-02-07 17:30:00,25,finished,Newcastle United,Brentford,Newcastle United,Brentford,NEW,BRE,2,3,1.0,2.0,,,,,2025
+20250407,2026-02-08 14:00:00,25,finished,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,Crystal Palace,BHA,CRY,0,1,0.0,0.0,,,,,2025
+20251112,2026-02-08 16:30:00,25,finished,Liverpool,Manchester City,Liverpool,Manchester City,LIV,MCI,1,2,0.0,0.0,,,,,2025
+20250610,2026-02-10 19:30:00,26,finished,Chelsea,Leeds United,Chelsea,Leeds United,CHE,LEE,2,2,1.0,0.0,,,,,2025
+20250802,2026-02-10 19:30:00,26,finished,Everton,Bournemouth,Everton,Bournemouth,EVE,BOU,1,2,1.0,0.0,,,,,2025
+20251714,2026-02-10 19:30:00,26,finished,Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Newcastle United,TOT,NEW,1,2,0.0,1.0,,,,,2025
+20251813,2026-02-10 20:15:00,26,finished,West Ham United,Manchester United,West Ham United,Manchester United,WHU,MUN,1,1,0.0,0.0,,,,,2025
+20250104,2026-02-11 19:30:00,26,finished,Aston Villa,Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,AVL,BHA,1,0,0.0,0.0,,,,,2025
+20251209,2026-02-11 19:30:00,26,finished,Manchester City,Fulham,Manchester City,Fulham,MCI,FUL,3,0,3.0,0.0,,,,,2025
+20251519,2026-02-11 19:30:00,26,finished,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,NFO,WOL,0,0,,,,,,,2025
+20250705,2026-02-11 19:40:00,26,finished,Crystal Palace,Burnley,Crystal Palace,Burnley,CRY,BUR,2,3,2.0,3.0,,,,,2025
+20251611,2026-02-11 20:15:00,26,finished,Sunderland,Liverpool,Sunderland,Liverpool,SUN,LIV,0,1,0.0,0.0,,,,,2025
+20250300,2026-02-12 20:00:00,26,finished,Brentford,Arsenal,Brentford,Arsenal,BRE,ARS,1,1,0.0,0.0,,,,,2025
+20251900,2026-02-18 20:00:00,31,finished,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,Arsenal,WOL,ARS,2,2,0.0,1.0,,,,,2025
+20250110,2026-02-21 15:00:00,27,finished,Aston Villa,Leeds United,Aston Villa,Leeds United,AVL,LEE,1,1,0.0,1.0,,,,,2025
+20250304,2026-02-21 15:00:00,27,finished,Brentford,Brighton & Hove Albion,Brentford,Brighton & Hove Albion,BRE,BHA,0,2,0.0,2.0,,,,,2025
+20250605,2026-02-21 15:00:00,27,finished,Chelsea,Burnley,Chelsea,Burnley,CHE,BUR,1,1,1.0,0.0,,,,,2025
+20251802,2026-02-21 17:30:00,27,finished,West Ham United,Bournemouth,West Ham United,Bournemouth,WHU,BOU,0,0,,,,,,,2025
+20251214,2026-02-21 20:00:00,27,finished,Manchester City,Newcastle United,Manchester City,Newcastle United,MCI,NEW,2,1,2.0,1.0,,,,,2025
+20250719,2026-02-22 14:00:00,27,finished,Crystal Palace,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,CRY,WOL,1,0,0.0,0.0,,,,,2025
+20251511,2026-02-22 14:00:00,27,finished,Nottingham Forest,Liverpool,Nottingham Forest,Liverpool,NFO,LIV,0,1,0.0,0.0,,,,,2025
+20251609,2026-02-22 14:00:00,27,finished,Sunderland,Fulham,Sunderland,Fulham,SUN,FUL,1,3,0.0,0.0,,,,,2025
+20251700,2026-02-22 16:30:00,27,finished,Tottenham Hotspur,Arsenal,Tottenham Hotspur,Arsenal,TOT,ARS,1,4,1.0,1.0,,,,,2025
+20250813,2026-02-23 20:00:00,27,finished,Everton,Manchester United,Everton,Manchester United,EVE,MUN,0,1,0.0,0.0,,,,,2025
+20251901,2026-02-27 20:00:00,28,finished,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Aston Villa,WOL,AVL,2,0,0.0,0.0,,,,,2025
+20250216,2026-02-28 12:30:00,28,finished,Bournemouth,Sunderland,Bournemouth,Sunderland,BOU,SUN,1,1,0.0,1.0,,,,,2025
+20250503,2026-02-28 15:00:00,28,finished,Burnley,Brentford,Burnley,Brentford,BUR,BRE,3,4,1.0,3.0,,,,,2025
+20251118,2026-02-28 15:00:00,28,finished,Liverpool,West Ham United,Liverpool,West Ham United,LIV,WHU,5,2,3.0,0.0,,,,,2025
+20251408,2026-02-28 15:00:00,28,finished,Newcastle United,Everton,Newcastle United,Everton,NEW,EVE,2,3,1.0,2.0,,,,,2025
+20251012,2026-02-28 17:30:00,28,finished,Leeds United,Manchester City,Leeds United,Manchester City,LEE,MCI,0,1,0.0,1.0,,,,,2025
+20250415,2026-03-01 14:00:00,28,finished,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,BHA,NFO,2,1,2.0,1.0,,,,,2025
+20250917,2026-03-01 14:00:00,28,finished,Fulham,Tottenham Hotspur,Fulham,Tottenham Hotspur,FUL,TOT,2,1,2.0,0.0,,,,,2025
+20251307,2026-03-01 14:00:00,28,finished,Manchester United,Crystal Palace,Manchester United,Crystal Palace,MUN,CRY,2,1,0.0,1.0,,,,,2025
+20250006,2026-03-01 16:30:00,28,finished,Arsenal,Chelsea,Arsenal,Chelsea,ARS,CHE,2,1,1.0,1.0,,,,,2025
+20250203,2026-03-03 19:30:00,29,finished,Bournemouth,Brentford,Bournemouth,Brentford,BOU,BRE,0,0,,,,,,,2025
+20250805,2026-03-03 19:30:00,29,finished,Everton,Burnley,Everton,Burnley,EVE,BUR,2,0,1.0,0.0,,,,,2025
+20251016,2026-03-03 19:30:00,29,finished,Leeds United,Sunderland,Leeds United,Sunderland,LEE,SUN,0,1,0.0,0.0,,,,,2025
+20251911,2026-03-03 20:15:00,29,finished,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,Liverpool,WOL,LIV,2,1,0.0,0.0,,,,,2025
+20250106,2026-03-04 19:30:00,29,finished,Aston Villa,Chelsea,Aston Villa,Chelsea,AVL,CHE,1,4,1.0,2.0,,,,,2025
+20250400,2026-03-04 19:30:00,29,finished,Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,Arsenal,BHA,ARS,0,1,0.0,1.0,,,,,2025
+20250918,2026-03-04 19:30:00,29,finished,Fulham,West Ham United,Fulham,West Ham United,FUL,WHU,0,1,0.0,0.0,,,,,2025
+20251215,2026-03-04 19:30:00,29,finished,Manchester City,Nottingham Forest,Manchester City,Nottingham Forest,MCI,NFO,2,2,1.0,0.0,,,,,2025
+20251413,2026-03-04 20:15:00,29,finished,Newcastle United,Manchester United,Newcastle United,Manchester United,NEW,MUN,2,1,1.0,1.0,,,,,2025
+20251707,2026-03-05 20:00:00,29,finished,Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,Crystal Palace,TOT,CRY,1,3,1.0,3.0,,,,,2025
+20250502,2026-03-14 15:00:00,30,finished,Burnley,Bournemouth,Burnley,Bournemouth,BUR,BOU,0,0,,,,,,,2025
+20251604,2026-03-14 15:00:00,30,finished,Sunderland,Brighton & Hove Albion,Sunderland,Brighton & Hove Albion,SUN,BHA,0,1,0.0,0.0,,,,,2025
+20250008,2026-03-14 17:30:00,30,finished,Arsenal,Everton,Arsenal,Everton,ARS,EVE,2,0,0.0,0.0,,,,,2025
+20250614,2026-03-14 17:30:00,30,finished,Chelsea,Newcastle United,Chelsea,Newcastle United,CHE,NEW,0,1,0.0,1.0,,,,,2025
+20251812,2026-03-14 20:00:00,30,finished,West Ham United,Manchester City,West Ham United,Manchester City,WHU,MCI,1,1,1.0,1.0,,,,,2025
+20250710,2026-03-15 14:00:00,30,finished,Crystal Palace,Leeds United,Crystal Palace,Leeds United,CRY,LEE,0,0,,,,,,,2025
+20251301,2026-03-15 14:00:00,30,finished,Manchester United,Aston Villa,Manchester United,Aston Villa,MUN,AVL,3,1,0.0,0.0,,,,,2025
+20251509,2026-03-15 14:00:00,30,finished,Nottingham Forest,Fulham,Nottingham Forest,Fulham,NFO,FUL,0,0,,,,,,,2025
+20251117,2026-03-15 16:30:00,30,finished,Liverpool,Tottenham Hotspur,Liverpool,Tottenham Hotspur,LIV,TOT,1,1,1.0,0.0,,,,,2025
+20250319,2026-03-16 20:00:00,30,finished,Brentford,Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,BRE,WOL,2,2,2.0,1.0,,,,,2025
+20250213,2026-03-20 20:00:00,31,finished,Bournemouth,Manchester United,Bournemouth,Manchester United,BOU,MUN,2,2,0.0,0.0,,,,,2025
+20250411,2026-03-21 12:45:00,31,finished,Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,Liverpool,BHA,LIV,2,1,1.0,1.0,,,,,2025
+20250905,2026-03-21 15:00:00,31,finished,Fulham,Burnley,Fulham,Burnley,FUL,BUR,3,1,0.0,0.0,,,,,2025
+20250806,2026-03-21 17:30:00,31,finished,Everton,Chelsea,Everton,Chelsea,EVE,CHE,3,0,1.0,0.0,,,,,2025
+20251003,2026-03-21 20:00:00,31,finished,Leeds United,Brentford,Leeds United,Brentford,LEE,BRE,0,0,,,,,,,2025
+20251416,2026-03-22 12:00:00,31,finished,Newcastle United,Sunderland,Newcastle United,Sunderland,NEW,SUN,1,2,1.0,0.0,,,,,2025
+20250118,2026-03-22 14:15:00,31,finished,Aston Villa,West Ham United,Aston Villa,West Ham United,AVL,WHU,2,0,1.0,0.0,,,,,2025
+20251715,2026-03-22 14:15:00,31,finished,Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,Nottingham Forest,TOT,NFO,0,3,0.0,1.0,,,,,2025
+20251819,2026-04-10 20:00:00,32,finished,West Ham United,Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,WHU,WOL,4,0,1.0,0.0,,,,,2025
+20250002,2026-04-11 12:30:00,32,finished,Arsenal,Bournemouth,Arsenal,Bournemouth,ARS,BOU,1,2,1.0,1.0,,,,,2025
+20250308,2026-04-11 15:00:00,32,finished,Brentford,Everton,Brentford,Everton,BRE,EVE,2,2,1.0,1.0,,,,,2025
+20250504,2026-04-11 15:00:00,32,finished,Burnley,Brighton & Hove Albion,Burnley,Brighton & Hove Albion,BUR,BHA,0,2,0.0,1.0,,,,,2025
+20251109,2026-04-11 17:30:00,32,finished,Liverpool,Fulham,Liverpool,Fulham,LIV,FUL,2,0,2.0,0.0,,,,,2025
+20250714,2026-04-12 14:00:00,32,finished,Crystal Palace,Newcastle United,Crystal Palace,Newcastle United,CRY,NEW,2,1,0.0,1.0,,,,,2025
+20251501,2026-04-12 14:00:00,32,finished,Nottingham Forest,Aston Villa,Nottingham Forest,Aston Villa,NFO,AVL,1,1,1.0,1.0,,,,,2025
+20251617,2026-04-12 14:00:00,32,finished,Sunderland,Tottenham Hotspur,Sunderland,Tottenham Hotspur,SUN,TOT,1,0,0.0,0.0,,,,,2025
+20250612,2026-04-12 16:30:00,32,finished,Chelsea,Manchester City,Chelsea,Manchester City,CHE,MCI,0,3,0.0,0.0,,,,,2025
+20251310,2026-04-13 20:00:00,32,finished,Manchester United,Leeds United,Manchester United,Leeds United,MUN,LEE,1,2,0.0,2.0,,,,,2025
+20250309,2026-04-18 12:30:00,33,finished,Brentford,Fulham,Brentford,Fulham,BRE,FUL,0,0,,,,,,,2025
+20251019,2026-04-18 15:00:00,33,finished,Leeds United,Wolverhampton Wanderers,Leeds United,Wolverhampton Wanderers,LEE,WOL,3,0,2.0,0.0,,,,,2025
+20251402,2026-04-18 15:00:00,33,finished,Newcastle United,Bournemouth,Newcastle United,Bournemouth,NEW,BOU,1,2,0.0,1.0,,,,,2025
+20251704,2026-04-18 17:30:00,33,finished,Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,TOT,BHA,2,2,1.0,1.0,,,,,2025
+20250613,2026-04-18 20:00:00,33,finished,Chelsea,Manchester United,Chelsea,Manchester United,CHE,MUN,0,1,0.0,1.0,,,,,2025
+20250116,2026-04-19 14:00:00,33,finished,Aston Villa,Sunderland,Aston Villa,Sunderland,AVL,SUN,4,3,2.0,1.0,,,,,2025
+20250811,2026-04-19 14:00:00,33,finished,Everton,Liverpool,Everton,Liverpool,EVE,LIV,1,2,0.0,1.0,,,,,2025
+20251505,2026-04-19 14:00:00,33,finished,Nottingham Forest,Burnley,Nottingham Forest,Burnley,NFO,BUR,4,1,0.0,1.0,,,,,2025
+20251200,2026-04-19 16:30:00,33,finished,Manchester City,Arsenal,Manchester City,Arsenal,MCI,ARS,2,1,1.0,1.0,,,,,2025
+20250718,2026-04-20 20:00:00,33,finished,Crystal Palace,West Ham United,Crystal Palace,West Ham United,CRY,WHU,0,0,,,,,,,2025
+20250406,2026-04-21 20:00:00,34,finished,Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Chelsea,BHA,CHE,3,0,1.0,0.0,,,,,2025
+20250210,2026-04-22 20:00:00,34,finished,Bournemouth,Leeds United,Bournemouth,Leeds United,BOU,LEE,2,2,0.0,0.0,,,,,2025
+20250512,2026-04-22 20:00:00,34,finished,Burnley,Manchester City,Burnley,Manchester City,BUR,MCI,0,1,0.0,1.0,,,,,2025
+20251615,2026-04-24 20:00:00,34,finished,Sunderland,Nottingham Forest,Sunderland,Nottingham Forest,SUN,NFO,0,5,0.0,4.0,,,,,2025
+20250901,2026-04-25 12:30:00,34,finished,Fulham,Aston Villa,Fulham,Aston Villa,FUL,AVL,1,0,1.0,0.0,,,,,2025
+20251107,2026-04-25 15:00:00,34,finished,Liverpool,Crystal Palace,Liverpool,Crystal Palace,LIV,CRY,3,1,2.0,0.0,,,,,2025
+20251808,2026-04-25 15:00:00,34,finished,West Ham United,Everton,West Ham United,Everton,WHU,EVE,2,1,0.0,0.0,,,,,2025
+20251917,2026-04-25 15:00:00,34,finished,Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,WOL,TOT,0,1,0.0,0.0,,,,,2025
+20250014,2026-04-25 17:30:00,34,finished,Arsenal,Newcastle United,Arsenal,Newcastle United,ARS,NEW,1,0,1.0,0.0,,,,,2025
+20251303,2026-04-27 20:00:00,34,finished,Manchester United,Brentford,Manchester United,Brentford,MUN,BRE,2,1,2.0,0.0,,,,,2025
+20251005,2026-05-01 20:00:00,35,finished,Leeds United,Burnley,Leeds United,Burnley,LEE,BUR,3,1,1.0,0.0,,,,,2025
+20250318,2026-05-02 15:00:00,35,finished,Brentford,West Ham United,Brentford,West Ham United,BRE,WHU,3,0,1.0,0.0,,,,,2025
+20251404,2026-05-02 15:00:00,35,finished,Newcastle United,Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,NEW,BHA,3,1,2.0,0.0,,,,,2025
+20251916,2026-05-02 15:00:00,35,finished,Wolverhampton Wanderers,Sunderland,Wolverhampton Wanderers,Sunderland,WOL,SUN,1,1,0.0,1.0,,,,,2025
+20250009,2026-05-02 17:30:00,35,finished,Arsenal,Fulham,Arsenal,Fulham,ARS,FUL,3,0,3.0,0.0,,,,,2025
+20250207,2026-05-03 14:00:00,35,finished,Bournemouth,Crystal Palace,Bournemouth,Crystal Palace,BOU,CRY,3,0,2.0,0.0,,,,,2025
+20251311,2026-05-03 15:30:00,35,finished,Manchester United,Liverpool,Manchester United,Liverpool,MUN,LIV,3,2,2.0,0.0,,,,,2025
+20250117,2026-05-03 19:00:00,35,finished,Aston Villa,Tottenham Hotspur,Aston Villa,Tottenham Hotspur,AVL,TOT,1,2,0.0,2.0,,,,,2025
+20250615,2026-05-04 15:00:00,35,finished,Chelsea,Nottingham Forest,Chelsea,Nottingham Forest,CHE,NFO,1,3,0.0,2.0,,,,,2025
+20250812,2026-05-04 20:00:00,35,finished,Everton,Manchester City,Everton,Manchester City,EVE,MCI,3,3,0.0,1.0,,,,,2025
+20251106,2026-05-09 12:30:00,36,finished,Liverpool,Chelsea,Liverpool,Chelsea,LIV,CHE,1,1,1.0,1.0,,,,,2025
+20250419,2026-05-09 15:00:00,36,finished,Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,BHA,WOL,3,0,2.0,0.0,,,,,2025
+20250902,2026-05-09 15:00:00,36,finished,Fulham,Bournemouth,Fulham,Bournemouth,FUL,BOU,0,1,0.0,0.0,,,,,2025
+20251613,2026-05-09 15:00:00,36,finished,Sunderland,Manchester United,Sunderland,Manchester United,SUN,MUN,0,0,,,,,,,2025
+20251203,2026-05-09 17:30:00,36,finished,Manchester City,Brentford,Manchester City,Brentford,MCI,BRE,3,0,0.0,0.0,,,,,2025
+20250501,2026-05-10 14:00:00,36,finished,Burnley,Aston Villa,Burnley,Aston Villa,BUR,AVL,2,2,1.0,1.0,,,,,2025
+20250708,2026-05-10 14:00:00,36,finished,Crystal Palace,Everton,Crystal Palace,Everton,CRY,EVE,2,2,1.0,1.0,,,,,2025
+20251514,2026-05-10 14:00:00,36,finished,Nottingham Forest,Newcastle United,Nottingham Forest,Newcastle United,NFO,NEW,1,1,0.0,0.0,,,,,2025
+20251800,2026-05-10 16:30:00,36,finished,West Ham United,Arsenal,West Ham United,Arsenal,WHU,ARS,0,1,0.0,0.0,,,,,2025
+20251710,2026-05-11 20:00:00,36,finished,Tottenham Hotspur,Leeds United,Tottenham Hotspur,Leeds United,TOT,LEE,1,1,0.0,0.0,,,,,2025
+20251207,2026-05-13 20:00:00,31,finished,Manchester City,Crystal Palace,Manchester City,Crystal Palace,MCI,CRY,3,0,2.0,0.0,,,,,2025
+20250111,2026-05-15 20:00:00,37,finished,Aston Villa,Liverpool,Aston Villa,Liverpool,AVL,LIV,4,2,1.0,0.0,,,,,2025
+20251315,2026-05-17 12:30:00,37,finished,Manchester United,Nottingham Forest,Manchester United,Nottingham Forest,MUN,NFO,3,2,1.0,0.0,,,,,2025
+20250307,2026-05-17 15:00:00,37,finished,Brentford,Crystal Palace,Brentford,Crystal Palace,BRE,CRY,2,2,1.0,1.0,,,,,2025
+20250816,2026-05-17 15:00:00,37,finished,Everton,Sunderland,Everton,Sunderland,EVE,SUN,1,3,1.0,0.0,,,,,2025
+20251004,2026-05-17 15:00:00,37,finished,Leeds United,Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,LEE,BHA,1,0,0.0,0.0,,,,,2025
+20251909,2026-05-17 15:00:00,37,finished,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,Fulham,WOL,FUL,1,1,1.0,1.0,,,,,2025
+20251418,2026-05-17 17:30:00,37,finished,Newcastle United,West Ham United,Newcastle United,West Ham United,NEW,WHU,3,1,2.0,0.0,,,,,2025
+20250005,2026-05-18 20:00:00,37,finished,Arsenal,Burnley,Arsenal,Burnley,ARS,BUR,1,0,1.0,0.0,,,,,2025
+20250212,2026-05-19 19:30:00,37,finished,Bournemouth,Manchester City,Bournemouth,Manchester City,BOU,MCI,1,1,1.0,0.0,,,,,2025
+20250617,2026-05-19 20:15:00,37,finished,Chelsea,Tottenham Hotspur,Chelsea,Tottenham Hotspur,CHE,TOT,2,1,1.0,0.0,,,,,2025
+20250413,2026-05-24 16:00:00,38,finished,Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,Manchester United,BHA,MUN,0,3,0.0,2.0,,,,,2025
+20250519,2026-05-24 16:00:00,38,finished,Burnley,Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers,BUR,WOL,1,1,0.0,1.0,,,,,2025
+20250700,2026-05-24 16:00:00,38,finished,Crystal Palace,Arsenal,Crystal Palace,Arsenal,CRY,ARS,1,2,0.0,1.0,,,,,2025
+20250914,2026-05-24 16:00:00,38,finished,Fulham,Newcastle United,Fulham,Newcastle United,FUL,NEW,2,0,1.0,0.0,,,,,2025
+20251103,2026-05-24 16:00:00,38,finished,Liverpool,Brentford,Liverpool,Brentford,LIV,BRE,1,1,0.0,0.0,,,,,2025
+20251201,2026-05-24 16:00:00,38,finished,Manchester City,Aston Villa,Manchester City,Aston Villa,MCI,AVL,1,2,1.0,0.0,,,,,2025
+20251502,2026-05-24 16:00:00,38,finished,Nottingham Forest,Bournemouth,Nottingham Forest,Bournemouth,NFO,BOU,1,1,1.0,0.0,,,,,2025
+20251606,2026-05-24 16:00:00,38,finished,Sunderland,Chelsea,Sunderland,Chelsea,SUN,CHE,2,1,1.0,0.0,,,,,2025
+20251708,2026-05-24 16:00:00,38,finished,Tottenham Hotspur,Everton,Tottenham Hotspur,Everton,TOT,EVE,1,0,1.0,0.0,,,,,2025
+20251810,2026-05-24 16:00:00,38,finished,West Ham United,Leeds United,West Ham United,Leeds United,WHU,LEE,3,0,0.0,0.0,,,,,2025
