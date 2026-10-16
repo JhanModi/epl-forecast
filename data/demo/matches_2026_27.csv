@@ -1,0 +1,381 @@
+match_id,date,matchweek,status,home_team,away_team,home_short_name,away_short_name,home_abbr,away_abbr,home_score,away_score,home_ht_score,away_ht_score,home_red_cards,away_red_cards,stadium,attendance,season
+20260807,2026-08-08 12:30:00,1,finished,Fernhill Town,Eastwick City,Fernhill,Eastwick,FER,EAS,3.0,1.0,2.0,0.0,0.0,0.0,Fernhill Park,25230.0,2026
+20261014,2026-08-08 15:00:00,1,finished,Larkhill United,Redmarsh United,Larkhill,Redmarsh,LAR,RED,2.0,3.0,1.0,1.0,0.0,0.0,Larkhill Park,34609.0,2026
+20260902,2026-08-08 15:00:00,1,finished,Kestrel Park,Blackwater City,Kestrel Park,Blackwater,KES,BLA,1.0,1.0,0.0,1.0,0.0,0.0,Kestrel Park Park,26858.0,2026
+20260517,2026-08-08 15:00:00,1,finished,Coldharbour United,Upton Vale,Coldharbour,Upton Vale,COL,UPT,2.0,4.0,1.0,2.0,0.0,0.0,Coldharbour Park,34871.0,2026
+20261913,2026-08-08 15:00:00,1,finished,Yarrowdale Town,Queensbury Town,Yarrowdale,Queensbury,YAR,QUE,1.0,5.0,1.0,3.0,0.0,0.0,Yarrowdale Park,26819.0,2026
+20260603,2026-08-08 15:00:00,1,finished,Dunmore Athletic,Brackenford United,Dunmore,Brackenford,DUN,BRK,1.0,1.0,1.0,0.0,0.0,0.0,Dunmore Park,39036.0,2026
+20261116,2026-08-08 17:30:00,1,finished,Northcliffe City,Thornfield Albion,Northcliffe,Thornfield,NOR,THO,1.0,0.0,1.0,0.0,0.0,0.0,Northcliffe Park,43224.0,2026
+20261204,2026-08-09 14:00:00,1,finished,Oakhaven Rovers,Calder Vale,Oakhaven,Calder Vale,OAK,CAL,1.0,1.0,0.0,1.0,0.0,0.0,Oakhaven Park,24288.0,2026
+20260001,2026-08-09 16:30:00,1,finished,Amberley Forest,Ashbury Rovers,Amberley,Ashbury,AMB,ASH,0.0,2.0,0.0,1.0,0.0,0.0,Amberley Park,20040.0,2026
+20261815,2026-08-10 20:00:00,1,finished,Westmoor Wanderers,Stonebury City,Westmoor,Stonebury,WES,STO,0.0,1.0,0.0,0.0,0.0,0.0,Westmoor Park,21887.0,2026
+20261008,2026-08-15 12:30:00,2,finished,Larkhill United,Fernhill Town,Larkhill,Fernhill,LAR,FER,2.0,3.0,1.0,2.0,0.0,0.0,Larkhill Park,31625.0,2026
+20260702,2026-08-15 15:00:00,2,finished,Eastwick City,Blackwater City,Eastwick,Blackwater,EAS,BLA,3.0,1.0,1.0,0.0,1.0,0.0,Eastwick Park,39808.0,2026
+20260514,2026-08-15 15:00:00,2,finished,Coldharbour United,Redmarsh United,Coldharbour,Redmarsh,COL,RED,0.0,3.0,0.0,0.0,0.0,0.0,Coldharbour Park,26721.0,2026
+20260913,2026-08-15 15:00:00,2,finished,Kestrel Park,Queensbury Town,Kestrel Park,Queensbury,KES,QUE,0.0,1.0,0.0,0.0,0.0,0.0,Kestrel Park Park,37462.0,2026
+20260617,2026-08-15 15:00:00,2,finished,Dunmore Athletic,Upton Vale,Dunmore,Upton Vale,DUN,UPT,1.0,5.0,0.0,3.0,0.0,0.0,Dunmore Park,31947.0,2026
+20261916,2026-08-15 15:00:00,2,finished,Yarrowdale Town,Thornfield Albion,Yarrowdale,Thornfield,YAR,THO,2.0,1.0,1.0,0.0,0.0,0.0,Yarrowdale Park,20256.0,2026
+20261203,2026-08-15 17:30:00,2,finished,Oakhaven Rovers,Brackenford United,Oakhaven,Brackenford,OAK,BRK,2.0,4.0,0.0,1.0,0.0,1.0,Oakhaven Park,30241.0,2026
+20261101,2026-08-16 14:00:00,2,finished,Northcliffe City,Ashbury Rovers,Northcliffe,Ashbury,NOR,ASH,2.0,0.0,1.0,0.0,0.0,0.0,Northcliffe Park,30562.0,2026
+20261804,2026-08-16 16:30:00,2,finished,Westmoor Wanderers,Calder Vale,Westmoor,Calder Vale,WES,CAL,3.0,1.0,0.0,0.0,0.0,0.0,Westmoor Park,16032.0,2026
+20260015,2026-08-17 20:00:00,2,finished,Amberley Forest,Stonebury City,Amberley,Stonebury,AMB,STO,2.0,2.0,1.0,1.0,0.0,0.0,Amberley Park,17677.0,2026
+20260802,2026-08-22 12:30:00,3,finished,Fernhill Town,Blackwater City,Fernhill,Blackwater,FER,BLA,3.0,0.0,1.0,0.0,0.0,0.0,Fernhill Park,22435.0,2026
+20260510,2026-08-22 15:00:00,3,finished,Coldharbour United,Larkhill United,Coldharbour,Larkhill,COL,LAR,2.0,3.0,1.0,2.0,0.0,0.0,Coldharbour Park,21783.0,2026
+20260713,2026-08-22 15:00:00,3,finished,Eastwick City,Queensbury Town,Eastwick,Queensbury,EAS,QUE,2.0,2.0,1.0,2.0,0.0,0.0,Eastwick Park,43441.0,2026
+20260614,2026-08-22 15:00:00,3,finished,Dunmore Athletic,Redmarsh United,Dunmore,Redmarsh,DUN,RED,0.0,6.0,0.0,2.0,0.0,0.0,Dunmore Park,35463.0,2026
+20260916,2026-08-22 15:00:00,3,finished,Kestrel Park,Thornfield Albion,Kestrel Park,Thornfield,KES,THO,0.0,4.0,0.0,1.0,0.0,0.0,Kestrel Park Park,33712.0,2026
+20261217,2026-08-22 15:00:00,3,finished,Oakhaven Rovers,Upton Vale,Oakhaven,Upton Vale,OAK,UPT,2.0,3.0,1.0,2.0,0.0,0.0,Oakhaven Park,18439.0,2026
+20261901,2026-08-22 17:30:00,3,finished,Yarrowdale Town,Ashbury Rovers,Yarrowdale,Ashbury,YAR,ASH,0.0,2.0,0.0,1.0,0.0,0.0,Yarrowdale Park,26784.0,2026
+20261803,2026-08-23 14:00:00,3,finished,Westmoor Wanderers,Brackenford United,Westmoor,Brackenford,WES,BRK,2.0,0.0,0.0,0.0,0.0,0.0,Westmoor Park,32699.0,2026
+20261115,2026-08-23 16:30:00,3,finished,Northcliffe City,Stonebury City,Northcliffe,Stonebury,NOR,STO,4.0,1.0,2.0,0.0,1.0,1.0,Northcliffe Park,31412.0,2026
+20260004,2026-08-24 20:00:00,3,finished,Amberley Forest,Calder Vale,Amberley,Calder Vale,AMB,CAL,0.0,2.0,0.0,0.0,0.0,0.0,Amberley Park,23349.0,2026
+20260508,2026-09-05 12:30:00,4,finished,Coldharbour United,Fernhill Town,Coldharbour,Fernhill,COL,FER,1.0,3.0,1.0,2.0,0.0,0.0,Coldharbour Park,29899.0,2026
+20260213,2026-09-05 15:00:00,4,finished,Blackwater City,Queensbury Town,Blackwater,Queensbury,BLA,QUE,0.0,8.0,0.0,4.0,0.0,0.0,Blackwater Park,36762.0,2026
+20260610,2026-09-05 15:00:00,4,finished,Dunmore Athletic,Larkhill United,Dunmore,Larkhill,DUN,LAR,3.0,0.0,2.0,0.0,0.0,0.0,Dunmore Park,24101.0,2026
+20260716,2026-09-05 15:00:00,4,finished,Eastwick City,Thornfield Albion,Eastwick,Thornfield,EAS,THO,0.0,1.0,0.0,1.0,0.0,0.0,Eastwick Park,36821.0,2026
+20261214,2026-09-05 15:00:00,4,finished,Oakhaven Rovers,Redmarsh United,Oakhaven,Redmarsh,OAK,RED,2.0,0.0,1.0,0.0,0.0,0.0,Oakhaven Park,31009.0,2026
+20260901,2026-09-05 15:00:00,4,finished,Kestrel Park,Ashbury Rovers,Kestrel Park,Ashbury,KES,ASH,2.0,2.0,0.0,0.0,0.0,0.0,Kestrel Park Park,36133.0,2026
+20261817,2026-09-05 17:30:00,4,finished,Westmoor Wanderers,Upton Vale,Westmoor,Upton Vale,WES,UPT,2.0,4.0,2.0,2.0,1.0,0.0,Westmoor Park,30284.0,2026
+20261915,2026-09-06 14:00:00,4,finished,Yarrowdale Town,Stonebury City,Yarrowdale,Stonebury,YAR,STO,2.0,0.0,0.0,0.0,0.0,0.0,Yarrowdale Park,30185.0,2026
+20260003,2026-09-06 16:30:00,4,finished,Amberley Forest,Brackenford United,Amberley,Brackenford,AMB,BRK,0.0,3.0,0.0,2.0,0.0,0.0,Amberley Park,34862.0,2026
+20261104,2026-09-07 20:00:00,4,finished,Northcliffe City,Calder Vale,Northcliffe,Calder Vale,NOR,CAL,1.0,1.0,0.0,1.0,0.0,0.0,Northcliffe Park,24226.0,2026
+20260813,2026-09-12 12:30:00,5,finished,Fernhill Town,Queensbury Town,Fernhill,Queensbury,FER,QUE,3.0,0.0,0.0,0.0,0.0,1.0,Fernhill Park,24779.0,2026
+20260605,2026-09-12 15:00:00,5,finished,Dunmore Athletic,Coldharbour United,Dunmore,Coldharbour,DUN,COL,0.0,0.0,0.0,0.0,0.0,0.0,Dunmore Park,31112.0,2026
+20260216,2026-09-12 15:00:00,5,finished,Blackwater City,Thornfield Albion,Blackwater,Thornfield,BLA,THO,0.0,2.0,0.0,1.0,0.0,0.0,Blackwater Park,29669.0,2026
+20261210,2026-09-12 15:00:00,5,finished,Oakhaven Rovers,Larkhill United,Oakhaven,Larkhill,OAK,LAR,1.0,0.0,0.0,0.0,0.0,0.0,Oakhaven Park,32303.0,2026
+20260701,2026-09-12 15:00:00,5,finished,Eastwick City,Ashbury Rovers,Eastwick,Ashbury,EAS,ASH,0.0,0.0,0.0,0.0,0.0,0.0,Eastwick Park,41955.0,2026
+20261814,2026-09-12 15:00:00,5,finished,Westmoor Wanderers,Redmarsh United,Westmoor,Redmarsh,WES,RED,1.0,1.0,1.0,1.0,0.0,0.0,Westmoor Park,36228.0,2026
+20260915,2026-09-12 17:30:00,5,finished,Kestrel Park,Stonebury City,Kestrel Park,Stonebury,KES,STO,2.0,0.0,0.0,0.0,0.0,0.0,Kestrel Park Park,35679.0,2026
+20260017,2026-09-13 14:00:00,5,finished,Amberley Forest,Upton Vale,Amberley,Upton Vale,AMB,UPT,1.0,2.0,0.0,1.0,0.0,0.0,Amberley Park,38388.0,2026
+20261904,2026-09-13 16:30:00,5,finished,Yarrowdale Town,Calder Vale,Yarrowdale,Calder Vale,YAR,CAL,0.0,1.0,0.0,1.0,0.0,0.0,Yarrowdale Park,27204.0,2026
+20261103,2026-09-14 20:00:00,5,finished,Northcliffe City,Brackenford United,Northcliffe,Brackenford,NOR,BRK,1.0,1.0,0.0,1.0,0.0,0.0,Northcliffe Park,37402.0,2026
+20260608,2026-09-19 12:30:00,6,finished,Dunmore Athletic,Fernhill Town,Dunmore,Fernhill,DUN,FER,2.0,1.0,0.0,1.0,0.0,0.0,Dunmore Park,33831.0,2026
+20261316,2026-09-19 15:00:00,6,finished,Queensbury Town,Thornfield Albion,Queensbury,Thornfield,QUE,THO,4.0,2.0,3.0,1.0,0.0,0.0,Queensbury Park,31425.0,2026
+20261205,2026-09-19 15:00:00,6,finished,Oakhaven Rovers,Coldharbour United,Oakhaven,Coldharbour,OAK,COL,2.0,2.0,0.0,1.0,0.0,0.0,Oakhaven Park,21593.0,2026
+20260201,2026-09-19 15:00:00,6,finished,Blackwater City,Ashbury Rovers,Blackwater,Ashbury,BLA,ASH,0.0,0.0,0.0,0.0,0.0,0.0,Blackwater Park,33574.0,2026
+20261810,2026-09-19 15:00:00,6,finished,Westmoor Wanderers,Larkhill United,Westmoor,Larkhill,WES,LAR,0.0,0.0,0.0,0.0,0.0,0.0,Westmoor Park,18768.0,2026
+20260715,2026-09-19 15:00:00,6,finished,Eastwick City,Stonebury City,Eastwick,Stonebury,EAS,STO,1.0,0.0,1.0,0.0,0.0,0.0,Eastwick Park,40833.0,2026
+20260014,2026-09-19 17:30:00,6,finished,Amberley Forest,Redmarsh United,Amberley,Redmarsh,AMB,RED,0.0,1.0,0.0,0.0,0.0,0.0,Amberley Park,18898.0,2026
+20260904,2026-09-20 14:00:00,6,finished,Kestrel Park,Calder Vale,Kestrel Park,Calder Vale,KES,CAL,0.0,0.0,0.0,0.0,0.0,0.0,Kestrel Park Park,30098.0,2026
+20261117,2026-09-20 16:30:00,6,finished,Northcliffe City,Upton Vale,Northcliffe,Upton Vale,NOR,UPT,0.0,4.0,0.0,2.0,0.0,0.0,Northcliffe Park,29279.0,2026
+20261903,2026-09-21 20:00:00,6,finished,Yarrowdale Town,Brackenford United,Yarrowdale,Brackenford,YAR,BRK,0.0,0.0,0.0,0.0,0.0,0.0,Yarrowdale Park,20347.0,2026
+20260816,2026-09-26 12:30:00,7,finished,Fernhill Town,Thornfield Albion,Fernhill,Thornfield,FER,THO,4.0,0.0,1.0,0.0,0.0,0.0,Fernhill Park,32367.0,2026
+20261206,2026-09-26 15:00:00,7,finished,Oakhaven Rovers,Dunmore Athletic,Oakhaven,Dunmore,OAK,DUN,1.0,0.0,1.0,0.0,0.0,0.0,Oakhaven Park,34615.0,2026
+20261301,2026-09-26 15:00:00,7,finished,Queensbury Town,Ashbury Rovers,Queensbury,Ashbury,QUE,ASH,2.0,0.0,2.0,0.0,0.0,0.0,Queensbury Park,36346.0,2026
+20261805,2026-09-26 15:00:00,7,finished,Westmoor Wanderers,Coldharbour United,Westmoor,Coldharbour,WES,COL,1.0,1.0,1.0,1.0,0.0,0.0,Westmoor Park,25691.0,2026
+20260215,2026-09-26 15:00:00,7,finished,Blackwater City,Stonebury City,Blackwater,Stonebury,BLA,STO,1.0,1.0,1.0,1.0,0.0,0.0,Blackwater Park,29779.0,2026
+20260010,2026-09-26 15:00:00,7,finished,Amberley Forest,Larkhill United,Amberley,Larkhill,AMB,LAR,2.0,2.0,2.0,1.0,0.0,0.0,Amberley Park,23376.0,2026
+20260704,2026-09-26 17:30:00,7,finished,Eastwick City,Calder Vale,Eastwick,Calder Vale,EAS,CAL,0.0,0.0,0.0,0.0,0.0,0.0,Eastwick Park,24920.0,2026
+20261114,2026-09-27 14:00:00,7,finished,Northcliffe City,Redmarsh United,Northcliffe,Redmarsh,NOR,RED,2.0,1.0,0.0,1.0,0.0,0.0,Northcliffe Park,28372.0,2026
+20260903,2026-09-27 16:30:00,7,finished,Kestrel Park,Brackenford United,Kestrel Park,Brackenford,KES,BRK,4.0,3.0,0.0,1.0,0.0,0.0,Kestrel Park Park,12813.0,2026
+20261917,2026-09-28 20:00:00,7,finished,Yarrowdale Town,Upton Vale,Yarrowdale,Upton Vale,YAR,UPT,2.0,3.0,2.0,2.0,0.0,0.0,Yarrowdale Park,33712.0,2026
+20261208,2026-10-10 12:30:00,8,finished,Oakhaven Rovers,Fernhill Town,Oakhaven,Fernhill,OAK,FER,1.0,0.0,1.0,0.0,0.0,0.0,Oakhaven Park,38731.0,2026
+20261601,2026-10-10 15:00:00,8,finished,Thornfield Albion,Ashbury Rovers,Thornfield,Ashbury,THO,ASH,1.0,2.0,0.0,1.0,0.0,0.0,Thornfield Park,19708.0,2026
+20261806,2026-10-10 15:00:00,8,finished,Westmoor Wanderers,Dunmore Athletic,Westmoor,Dunmore,WES,DUN,4.0,2.0,3.0,1.0,0.0,0.0,Westmoor Park,25858.0,2026
+20261315,2026-10-10 15:00:00,8,finished,Queensbury Town,Stonebury City,Queensbury,Stonebury,QUE,STO,2.0,1.0,0.0,1.0,0.0,0.0,Queensbury Park,23964.0,2026
+20260005,2026-10-10 15:00:00,8,finished,Amberley Forest,Coldharbour United,Amberley,Coldharbour,AMB,COL,3.0,2.0,1.0,1.0,0.0,0.0,Amberley Park,29755.0,2026
+20260204,2026-10-10 15:00:00,8,finished,Blackwater City,Calder Vale,Blackwater,Calder Vale,BLA,CAL,0.0,3.0,0.0,1.0,0.0,0.0,Blackwater Park,28292.0,2026
+20261110,2026-10-10 17:30:00,8,finished,Northcliffe City,Larkhill United,Northcliffe,Larkhill,NOR,LAR,1.0,0.0,0.0,0.0,0.0,0.0,Northcliffe Park,32348.0,2026
+20260703,2026-10-11 14:00:00,8,scheduled,Eastwick City,Brackenford United,Eastwick,Brackenford,EAS,BRK,,,,,,,Eastwick Park,,2026
+20261914,2026-10-11 16:30:00,8,scheduled,Yarrowdale Town,Redmarsh United,Yarrowdale,Redmarsh,YAR,RED,,,,,,,Yarrowdale Park,,2026
+20260917,2026-10-12 20:00:00,8,scheduled,Kestrel Park,Upton Vale,Kestrel Park,Upton Vale,KES,UPT,,,,,,,Kestrel Park Park,,2026
+20260801,2026-10-17 12:30:00,9,scheduled,Fernhill Town,Ashbury Rovers,Fernhill,Ashbury,FER,ASH,,,,,,,Fernhill Park,,2026
+20261812,2026-10-17 15:00:00,9,scheduled,Westmoor Wanderers,Oakhaven Rovers,Westmoor,Oakhaven,WES,OAK,,,,,,,Westmoor Park,,2026
+20261615,2026-10-17 15:00:00,9,scheduled,Thornfield Albion,Stonebury City,Thornfield,Stonebury,THO,STO,,,,,,,Thornfield Park,,2026
+20260006,2026-10-17 15:00:00,9,scheduled,Amberley Forest,Dunmore Athletic,Amberley,Dunmore,AMB,DUN,,,,,,,Amberley Park,,2026
+20261304,2026-10-17 15:00:00,9,scheduled,Queensbury Town,Calder Vale,Queensbury,Calder Vale,QUE,CAL,,,,,,,Queensbury Park,,2026
+20261105,2026-10-17 15:00:00,9,scheduled,Northcliffe City,Coldharbour United,Northcliffe,Coldharbour,NOR,COL,,,,,,,Northcliffe Park,,2026
+20260203,2026-10-17 17:30:00,9,scheduled,Blackwater City,Brackenford United,Blackwater,Brackenford,BLA,BRK,,,,,,,Blackwater Park,,2026
+20261910,2026-10-18 14:00:00,9,scheduled,Yarrowdale Town,Larkhill United,Yarrowdale,Larkhill,YAR,LAR,,,,,,,Yarrowdale Park,,2026
+20260717,2026-10-18 16:30:00,9,scheduled,Eastwick City,Upton Vale,Eastwick,Upton Vale,EAS,UPT,,,,,,,Eastwick Park,,2026
+20260914,2026-10-19 20:00:00,9,scheduled,Kestrel Park,Redmarsh United,Kestrel Park,Redmarsh,KES,RED,,,,,,,Kestrel Park Park,,2026
+20261808,2026-10-24 12:30:00,10,scheduled,Westmoor Wanderers,Fernhill Town,Westmoor,Fernhill,WES,FER,,,,,,,Westmoor Park,,2026
+20260115,2026-10-24 15:00:00,10,scheduled,Ashbury Rovers,Stonebury City,Ashbury,Stonebury,ASH,STO,,,,,,,Ashbury Park,,2026
+20260012,2026-10-24 15:00:00,10,scheduled,Amberley Forest,Oakhaven Rovers,Amberley,Oakhaven,AMB,OAK,,,,,,,Amberley Park,,2026
+20261604,2026-10-24 15:00:00,10,scheduled,Thornfield Albion,Calder Vale,Thornfield,Calder Vale,THO,CAL,,,,,,,Thornfield Park,,2026
+20261106,2026-10-24 15:00:00,10,scheduled,Northcliffe City,Dunmore Athletic,Northcliffe,Dunmore,NOR,DUN,,,,,,,Northcliffe Park,,2026
+20261303,2026-10-24 15:00:00,10,scheduled,Queensbury Town,Brackenford United,Queensbury,Brackenford,QUE,BRK,,,,,,,Queensbury Park,,2026
+20261905,2026-10-24 17:30:00,10,scheduled,Yarrowdale Town,Coldharbour United,Yarrowdale,Coldharbour,YAR,COL,,,,,,,Yarrowdale Park,,2026
+20260217,2026-10-25 14:00:00,10,scheduled,Blackwater City,Upton Vale,Blackwater,Upton Vale,BLA,UPT,,,,,,,Blackwater Park,,2026
+20260910,2026-10-25 16:30:00,10,scheduled,Kestrel Park,Larkhill United,Kestrel Park,Larkhill,KES,LAR,,,,,,,Kestrel Park Park,,2026
+20260714,2026-10-26 20:00:00,10,scheduled,Eastwick City,Redmarsh United,Eastwick,Redmarsh,EAS,RED,,,,,,,Eastwick Park,,2026
+20260815,2026-10-31 12:30:00,11,scheduled,Fernhill Town,Stonebury City,Fernhill,Stonebury,FER,STO,,,,,,,Fernhill Park,,2026
+20260018,2026-10-31 15:00:00,11,scheduled,Amberley Forest,Westmoor Wanderers,Amberley,Westmoor,AMB,WES,,,,,,,Amberley Park,,2026
+20260104,2026-10-31 15:00:00,11,scheduled,Ashbury Rovers,Calder Vale,Ashbury,Calder Vale,ASH,CAL,,,,,,,Ashbury Park,,2026
+20261112,2026-10-31 15:00:00,11,scheduled,Northcliffe City,Oakhaven Rovers,Northcliffe,Oakhaven,NOR,OAK,,,,,,,Northcliffe Park,,2026
+20261603,2026-10-31 15:00:00,11,scheduled,Thornfield Albion,Brackenford United,Thornfield,Brackenford,THO,BRK,,,,,,,Thornfield Park,,2026
+20261906,2026-10-31 15:00:00,11,scheduled,Yarrowdale Town,Dunmore Athletic,Yarrowdale,Dunmore,YAR,DUN,,,,,,,Yarrowdale Park,,2026
+20261317,2026-10-31 17:30:00,11,scheduled,Queensbury Town,Upton Vale,Queensbury,Upton Vale,QUE,UPT,,,,,,,Queensbury Park,,2026
+20260905,2026-11-01 14:00:00,11,scheduled,Kestrel Park,Coldharbour United,Kestrel Park,Coldharbour,KES,COL,,,,,,,Kestrel Park Park,,2026
+20260214,2026-11-01 16:30:00,11,scheduled,Blackwater City,Redmarsh United,Blackwater,Redmarsh,BLA,RED,,,,,,,Blackwater Park,,2026
+20260710,2026-11-02 20:00:00,11,scheduled,Eastwick City,Larkhill United,Eastwick,Larkhill,EAS,LAR,,,,,,,Eastwick Park,,2026
+20260008,2026-11-14 12:30:00,12,scheduled,Amberley Forest,Fernhill Town,Amberley,Fernhill,AMB,FER,,,,,,,Amberley Park,,2026
+20261504,2026-11-14 15:00:00,12,scheduled,Stonebury City,Calder Vale,Stonebury,Calder Vale,STO,CAL,,,,,,,Stonebury Park,,2026
+20261118,2026-11-14 15:00:00,12,scheduled,Northcliffe City,Westmoor Wanderers,Northcliffe,Westmoor,NOR,WES,,,,,,,Northcliffe Park,,2026
+20260103,2026-11-14 15:00:00,12,scheduled,Ashbury Rovers,Brackenford United,Ashbury,Brackenford,ASH,BRK,,,,,,,Ashbury Park,,2026
+20261912,2026-11-14 15:00:00,12,scheduled,Yarrowdale Town,Oakhaven Rovers,Yarrowdale,Oakhaven,YAR,OAK,,,,,,,Yarrowdale Park,,2026
+20261617,2026-11-14 15:00:00,12,scheduled,Thornfield Albion,Upton Vale,Thornfield,Upton Vale,THO,UPT,,,,,,,Thornfield Park,,2026
+20260906,2026-11-14 17:30:00,12,scheduled,Kestrel Park,Dunmore Athletic,Kestrel Park,Dunmore,KES,DUN,,,,,,,Kestrel Park Park,,2026
+20261314,2026-11-15 14:00:00,12,scheduled,Queensbury Town,Redmarsh United,Queensbury,Redmarsh,QUE,RED,,,,,,,Queensbury Park,,2026
+20260705,2026-11-15 16:30:00,12,scheduled,Eastwick City,Coldharbour United,Eastwick,Coldharbour,EAS,COL,,,,,,,Eastwick Park,,2026
+20260210,2026-11-16 20:00:00,12,scheduled,Blackwater City,Larkhill United,Blackwater,Larkhill,BLA,LAR,,,,,,,Blackwater Park,,2026
+20260804,2026-11-21 12:30:00,13,scheduled,Fernhill Town,Calder Vale,Fernhill,Calder Vale,FER,CAL,,,,,,,Fernhill Park,,2026
+20261100,2026-11-21 15:00:00,13,scheduled,Northcliffe City,Amberley Forest,Northcliffe,Amberley,NOR,AMB,,,,,,,Northcliffe Park,,2026
+20261503,2026-11-21 15:00:00,13,scheduled,Stonebury City,Brackenford United,Stonebury,Brackenford,STO,BRK,,,,,,,Stonebury Park,,2026
+20261918,2026-11-21 15:00:00,13,scheduled,Yarrowdale Town,Westmoor Wanderers,Yarrowdale,Westmoor,YAR,WES,,,,,,,Yarrowdale Park,,2026
+20260117,2026-11-21 15:00:00,13,scheduled,Ashbury Rovers,Upton Vale,Ashbury,Upton Vale,ASH,UPT,,,,,,,Ashbury Park,,2026
+20260912,2026-11-21 15:00:00,13,scheduled,Kestrel Park,Oakhaven Rovers,Kestrel Park,Oakhaven,KES,OAK,,,,,,,Kestrel Park Park,,2026
+20261614,2026-11-21 17:30:00,13,scheduled,Thornfield Albion,Redmarsh United,Thornfield,Redmarsh,THO,RED,,,,,,,Thornfield Park,,2026
+20260706,2026-11-22 14:00:00,13,scheduled,Eastwick City,Dunmore Athletic,Eastwick,Dunmore,EAS,DUN,,,,,,,Eastwick Park,,2026
+20261310,2026-11-22 16:30:00,13,scheduled,Queensbury Town,Larkhill United,Queensbury,Larkhill,QUE,LAR,,,,,,,Queensbury Park,,2026
+20260205,2026-11-23 20:00:00,13,scheduled,Blackwater City,Coldharbour United,Blackwater,Coldharbour,BLA,COL,,,,,,,Blackwater Park,,2026
+20261108,2026-11-28 12:30:00,14,scheduled,Northcliffe City,Fernhill Town,Northcliffe,Fernhill,NOR,FER,,,,,,,Northcliffe Park,,2026
+20260403,2026-11-28 15:00:00,14,scheduled,Calder Vale,Brackenford United,Calder Vale,Brackenford,CAL,BRK,,,,,,,Calder Vale Park,,2026
+20261900,2026-11-28 15:00:00,14,scheduled,Yarrowdale Town,Amberley Forest,Yarrowdale,Amberley,YAR,AMB,,,,,,,Yarrowdale Park,,2026
+20261517,2026-11-28 15:00:00,14,scheduled,Stonebury City,Upton Vale,Stonebury,Upton Vale,STO,UPT,,,,,,,Stonebury Park,,2026
+20260918,2026-11-28 15:00:00,14,scheduled,Kestrel Park,Westmoor Wanderers,Kestrel Park,Westmoor,KES,WES,,,,,,,Kestrel Park Park,,2026
+20260114,2026-11-28 15:00:00,14,scheduled,Ashbury Rovers,Redmarsh United,Ashbury,Redmarsh,ASH,RED,,,,,,,Ashbury Park,,2026
+20260712,2026-11-28 17:30:00,14,scheduled,Eastwick City,Oakhaven Rovers,Eastwick,Oakhaven,EAS,OAK,,,,,,,Eastwick Park,,2026
+20261610,2026-11-29 14:00:00,14,scheduled,Thornfield Albion,Larkhill United,Thornfield,Larkhill,THO,LAR,,,,,,,Thornfield Park,,2026
+20260206,2026-11-29 16:30:00,14,scheduled,Blackwater City,Dunmore Athletic,Blackwater,Dunmore,BLA,DUN,,,,,,,Blackwater Park,,2026
+20261305,2026-11-30 20:00:00,14,scheduled,Queensbury Town,Coldharbour United,Queensbury,Coldharbour,QUE,COL,,,,,,,Queensbury Park,,2026
+20260803,2026-12-05 12:30:00,15,scheduled,Fernhill Town,Brackenford United,Fernhill,Brackenford,FER,BRK,,,,,,,Fernhill Park,,2026
+20261911,2026-12-05 15:00:00,15,scheduled,Yarrowdale Town,Northcliffe City,Yarrowdale,Northcliffe,YAR,NOR,,,,,,,Yarrowdale Park,,2026
+20260417,2026-12-05 15:00:00,15,scheduled,Calder Vale,Upton Vale,Calder Vale,Upton Vale,CAL,UPT,,,,,,,Calder Vale Park,,2026
+20260900,2026-12-05 15:00:00,15,scheduled,Kestrel Park,Amberley Forest,Kestrel Park,Amberley,KES,AMB,,,,,,,Kestrel Park Park,,2026
+20261514,2026-12-05 15:00:00,15,scheduled,Stonebury City,Redmarsh United,Stonebury,Redmarsh,STO,RED,,,,,,,Stonebury Park,,2026
+20260718,2026-12-05 15:00:00,15,scheduled,Eastwick City,Westmoor Wanderers,Eastwick,Westmoor,EAS,WES,,,,,,,Eastwick Park,,2026
+20260110,2026-12-05 17:30:00,15,scheduled,Ashbury Rovers,Larkhill United,Ashbury,Larkhill,ASH,LAR,,,,,,,Ashbury Park,,2026
+20260212,2026-12-06 14:00:00,15,scheduled,Blackwater City,Oakhaven Rovers,Blackwater,Oakhaven,BLA,OAK,,,,,,,Blackwater Park,,2026
+20261605,2026-12-06 16:30:00,15,scheduled,Thornfield Albion,Coldharbour United,Thornfield,Coldharbour,THO,COL,,,,,,,Thornfield Park,,2026
+20261306,2026-12-07 20:00:00,15,scheduled,Queensbury Town,Dunmore Athletic,Queensbury,Dunmore,QUE,DUN,,,,,,,Queensbury Park,,2026
+20261908,2026-12-12 12:30:00,16,scheduled,Yarrowdale Town,Fernhill Town,Yarrowdale,Fernhill,YAR,FER,,,,,,,Yarrowdale Park,,2026
+20260317,2026-12-12 15:00:00,16,scheduled,Brackenford United,Upton Vale,Brackenford,Upton Vale,BRK,UPT,,,,,,,Brackenford Park,,2026
+20260911,2026-12-12 15:00:00,16,scheduled,Kestrel Park,Northcliffe City,Kestrel Park,Northcliffe,KES,NOR,,,,,,,Kestrel Park Park,,2026
+20260414,2026-12-12 15:00:00,16,scheduled,Calder Vale,Redmarsh United,Calder Vale,Redmarsh,CAL,RED,,,,,,,Calder Vale Park,,2026
+20260700,2026-12-12 15:00:00,16,scheduled,Eastwick City,Amberley Forest,Eastwick,Amberley,EAS,AMB,,,,,,,Eastwick Park,,2026
+20261510,2026-12-12 15:00:00,16,scheduled,Stonebury City,Larkhill United,Stonebury,Larkhill,STO,LAR,,,,,,,Stonebury Park,,2026
+20260218,2026-12-12 17:30:00,16,scheduled,Blackwater City,Westmoor Wanderers,Blackwater,Westmoor,BLA,WES,,,,,,,Blackwater Park,,2026
+20260105,2026-12-13 14:00:00,16,scheduled,Ashbury Rovers,Coldharbour United,Ashbury,Coldharbour,ASH,COL,,,,,,,Ashbury Park,,2026
+20261312,2026-12-13 16:30:00,16,scheduled,Queensbury Town,Oakhaven Rovers,Queensbury,Oakhaven,QUE,OAK,,,,,,,Queensbury Park,,2026
+20261606,2026-12-14 20:00:00,16,scheduled,Thornfield Albion,Dunmore Athletic,Thornfield,Dunmore,THO,DUN,,,,,,,Thornfield Park,,2026
+20260817,2026-12-19 12:30:00,17,scheduled,Fernhill Town,Upton Vale,Fernhill,Upton Vale,FER,UPT,,,,,,,Fernhill Park,,2026
+20260919,2026-12-19 15:00:00,17,scheduled,Kestrel Park,Yarrowdale Town,Kestrel Park,Yarrowdale,KES,YAR,,,,,,,Kestrel Park Park,,2026
+20260314,2026-12-19 15:00:00,17,scheduled,Brackenford United,Redmarsh United,Brackenford,Redmarsh,BRK,RED,,,,,,,Brackenford Park,,2026
+20260711,2026-12-19 15:00:00,17,scheduled,Eastwick City,Northcliffe City,Eastwick,Northcliffe,EAS,NOR,,,,,,,Eastwick Park,,2026
+20260410,2026-12-19 15:00:00,17,scheduled,Calder Vale,Larkhill United,Calder Vale,Larkhill,CAL,LAR,,,,,,,Calder Vale Park,,2026
+20260200,2026-12-19 15:00:00,17,scheduled,Blackwater City,Amberley Forest,Blackwater,Amberley,BLA,AMB,,,,,,,Blackwater Park,,2026
+20261505,2026-12-19 17:30:00,17,scheduled,Stonebury City,Coldharbour United,Stonebury,Coldharbour,STO,COL,,,,,,,Stonebury Park,,2026
+20261318,2026-12-20 14:00:00,17,scheduled,Queensbury Town,Westmoor Wanderers,Queensbury,Westmoor,QUE,WES,,,,,,,Queensbury Park,,2026
+20260106,2026-12-20 16:30:00,17,scheduled,Ashbury Rovers,Dunmore Athletic,Ashbury,Dunmore,ASH,DUN,,,,,,,Ashbury Park,,2026
+20261612,2026-12-21 20:00:00,17,scheduled,Thornfield Albion,Oakhaven Rovers,Thornfield,Oakhaven,THO,OAK,,,,,,,Thornfield Park,,2026
+20260908,2026-12-26 12:30:00,18,scheduled,Kestrel Park,Fernhill Town,Kestrel Park,Fernhill,KES,FER,,,,,,,Kestrel Park Park,,2026
+20261714,2026-12-26 15:00:00,18,scheduled,Upton Vale,Redmarsh United,Upton Vale,Redmarsh,UPT,RED,,,,,,,Upton Vale Park,,2026
+20260719,2026-12-26 15:00:00,18,scheduled,Eastwick City,Yarrowdale Town,Eastwick,Yarrowdale,EAS,YAR,,,,,,,Eastwick Park,,2026
+20260310,2026-12-26 15:00:00,18,scheduled,Brackenford United,Larkhill United,Brackenford,Larkhill,BRK,LAR,,,,,,,Brackenford Park,,2026
+20260211,2026-12-26 15:00:00,18,scheduled,Blackwater City,Northcliffe City,Blackwater,Northcliffe,BLA,NOR,,,,,,,Blackwater Park,,2026
+20260405,2026-12-26 15:00:00,18,scheduled,Calder Vale,Coldharbour United,Calder Vale,Coldharbour,CAL,COL,,,,,,,Calder Vale Park,,2026
+20261300,2026-12-26 17:30:00,18,scheduled,Queensbury Town,Amberley Forest,Queensbury,Amberley,QUE,AMB,,,,,,,Queensbury Park,,2026
+20261506,2026-12-27 14:00:00,18,scheduled,Stonebury City,Dunmore Athletic,Stonebury,Dunmore,STO,DUN,,,,,,,Stonebury Park,,2026
+20261618,2026-12-27 16:30:00,18,scheduled,Thornfield Albion,Westmoor Wanderers,Thornfield,Westmoor,THO,WES,,,,,,,Thornfield Park,,2026
+20260112,2026-12-28 20:00:00,18,scheduled,Ashbury Rovers,Oakhaven Rovers,Ashbury,Oakhaven,ASH,OAK,,,,,,,Ashbury Park,,2026
+20260814,2027-01-02 12:30:00,19,scheduled,Fernhill Town,Redmarsh United,Fernhill,Redmarsh,FER,RED,,,,,,,Fernhill Park,,2026
+20260709,2027-01-02 15:00:00,19,scheduled,Eastwick City,Kestrel Park,Eastwick,Kestrel Park,EAS,KES,,,,,,,Eastwick Park,,2026
+20261710,2027-01-02 15:00:00,19,scheduled,Upton Vale,Larkhill United,Upton Vale,Larkhill,UPT,LAR,,,,,,,Upton Vale Park,,2026
+20260219,2027-01-02 15:00:00,19,scheduled,Blackwater City,Yarrowdale Town,Blackwater,Yarrowdale,BLA,YAR,,,,,,,Blackwater Park,,2026
+20260305,2027-01-02 15:00:00,19,scheduled,Brackenford United,Coldharbour United,Brackenford,Coldharbour,BRK,COL,,,,,,,Brackenford Park,,2026
+20261311,2027-01-02 15:00:00,19,scheduled,Queensbury Town,Northcliffe City,Queensbury,Northcliffe,QUE,NOR,,,,,,,Queensbury Park,,2026
+20260406,2027-01-02 17:30:00,19,scheduled,Calder Vale,Dunmore Athletic,Calder Vale,Dunmore,CAL,DUN,,,,,,,Calder Vale Park,,2026
+20261600,2027-01-03 14:00:00,19,scheduled,Thornfield Albion,Amberley Forest,Thornfield,Amberley,THO,AMB,,,,,,,Thornfield Park,,2026
+20261512,2027-01-03 16:30:00,19,scheduled,Stonebury City,Oakhaven Rovers,Stonebury,Oakhaven,STO,OAK,,,,,,,Stonebury Park,,2026
+20260118,2027-01-04 20:00:00,19,scheduled,Ashbury Rovers,Westmoor Wanderers,Ashbury,Westmoor,ASH,WES,,,,,,,Ashbury Park,,2026
+20260708,2027-01-09 12:30:00,20,scheduled,Eastwick City,Fernhill Town,Eastwick,Fernhill,EAS,FER,,,,,,,Eastwick Park,,2026
+20261410,2027-01-09 15:00:00,20,scheduled,Redmarsh United,Larkhill United,Redmarsh,Larkhill,RED,LAR,,,,,,,Redmarsh Park,,2026
+20260209,2027-01-09 15:00:00,20,scheduled,Blackwater City,Kestrel Park,Blackwater,Kestrel Park,BLA,KES,,,,,,,Blackwater Park,,2026
+20261705,2027-01-09 15:00:00,20,scheduled,Upton Vale,Coldharbour United,Upton Vale,Coldharbour,UPT,COL,,,,,,,Upton Vale Park,,2026
+20261319,2027-01-09 15:00:00,20,scheduled,Queensbury Town,Yarrowdale Town,Queensbury,Yarrowdale,QUE,YAR,,,,,,,Queensbury Park,,2026
+20260306,2027-01-09 15:00:00,20,scheduled,Brackenford United,Dunmore Athletic,Brackenford,Dunmore,BRK,DUN,,,,,,,Brackenford Park,,2026
+20261611,2027-01-09 17:30:00,20,scheduled,Thornfield Albion,Northcliffe City,Thornfield,Northcliffe,THO,NOR,,,,,,,Thornfield Park,,2026
+20260412,2027-01-10 14:00:00,20,scheduled,Calder Vale,Oakhaven Rovers,Calder Vale,Oakhaven,CAL,OAK,,,,,,,Calder Vale Park,,2026
+20260100,2027-01-10 16:30:00,20,scheduled,Ashbury Rovers,Amberley Forest,Ashbury,Amberley,ASH,AMB,,,,,,,Ashbury Park,,2026
+20261518,2027-01-11 20:00:00,20,scheduled,Stonebury City,Westmoor Wanderers,Stonebury,Westmoor,STO,WES,,,,,,,Stonebury Park,,2026
+20260810,2027-01-16 12:30:00,21,scheduled,Fernhill Town,Larkhill United,Fernhill,Larkhill,FER,LAR,,,,,,,Fernhill Park,,2026
+20260207,2027-01-16 15:00:00,21,scheduled,Blackwater City,Eastwick City,Blackwater,Eastwick,BLA,EAS,,,,,,,Blackwater Park,,2026
+20261405,2027-01-16 15:00:00,21,scheduled,Redmarsh United,Coldharbour United,Redmarsh,Coldharbour,RED,COL,,,,,,,Redmarsh Park,,2026
+20261309,2027-01-16 15:00:00,21,scheduled,Queensbury Town,Kestrel Park,Queensbury,Kestrel Park,QUE,KES,,,,,,,Queensbury Park,,2026
+20261706,2027-01-16 15:00:00,21,scheduled,Upton Vale,Dunmore Athletic,Upton Vale,Dunmore,UPT,DUN,,,,,,,Upton Vale Park,,2026
+20261619,2027-01-16 15:00:00,21,scheduled,Thornfield Albion,Yarrowdale Town,Thornfield,Yarrowdale,THO,YAR,,,,,,,Thornfield Park,,2026
+20260312,2027-01-16 17:30:00,21,scheduled,Brackenford United,Oakhaven Rovers,Brackenford,Oakhaven,BRK,OAK,,,,,,,Brackenford Park,,2026
+20260111,2027-01-17 14:00:00,21,scheduled,Ashbury Rovers,Northcliffe City,Ashbury,Northcliffe,ASH,NOR,,,,,,,Ashbury Park,,2026
+20260418,2027-01-17 16:30:00,21,scheduled,Calder Vale,Westmoor Wanderers,Calder Vale,Westmoor,CAL,WES,,,,,,,Calder Vale Park,,2026
+20261500,2027-01-18 20:00:00,21,scheduled,Stonebury City,Amberley Forest,Stonebury,Amberley,STO,AMB,,,,,,,Stonebury Park,,2026
+20260208,2027-01-23 12:30:00,22,scheduled,Blackwater City,Fernhill Town,Blackwater,Fernhill,BLA,FER,,,,,,,Blackwater Park,,2026
+20261005,2027-01-23 15:00:00,22,scheduled,Larkhill United,Coldharbour United,Larkhill,Coldharbour,LAR,COL,,,,,,,Larkhill Park,,2026
+20261307,2027-01-23 15:00:00,22,scheduled,Queensbury Town,Eastwick City,Queensbury,Eastwick,QUE,EAS,,,,,,,Queensbury Park,,2026
+20261406,2027-01-23 15:00:00,22,scheduled,Redmarsh United,Dunmore Athletic,Redmarsh,Dunmore,RED,DUN,,,,,,,Redmarsh Park,,2026
+20261609,2027-01-23 15:00:00,22,scheduled,Thornfield Albion,Kestrel Park,Thornfield,Kestrel Park,THO,KES,,,,,,,Thornfield Park,,2026
+20261712,2027-01-23 15:00:00,22,scheduled,Upton Vale,Oakhaven Rovers,Upton Vale,Oakhaven,UPT,OAK,,,,,,,Upton Vale Park,,2026
+20260119,2027-01-23 17:30:00,22,scheduled,Ashbury Rovers,Yarrowdale Town,Ashbury,Yarrowdale,ASH,YAR,,,,,,,Ashbury Park,,2026
+20260318,2027-01-24 14:00:00,22,scheduled,Brackenford United,Westmoor Wanderers,Brackenford,Westmoor,BRK,WES,,,,,,,Brackenford Park,,2026
+20261511,2027-01-24 16:30:00,22,scheduled,Stonebury City,Northcliffe City,Stonebury,Northcliffe,STO,NOR,,,,,,,Stonebury Park,,2026
+20260400,2027-01-25 20:00:00,22,scheduled,Calder Vale,Amberley Forest,Calder Vale,Amberley,CAL,AMB,,,,,,,Calder Vale Park,,2026
+20260805,2027-01-30 12:30:00,23,scheduled,Fernhill Town,Coldharbour United,Fernhill,Coldharbour,FER,COL,,,,,,,Fernhill Park,,2026
+20261302,2027-01-30 15:00:00,23,scheduled,Queensbury Town,Blackwater City,Queensbury,Blackwater,QUE,BLA,,,,,,,Queensbury Park,,2026
+20261006,2027-01-30 15:00:00,23,scheduled,Larkhill United,Dunmore Athletic,Larkhill,Dunmore,LAR,DUN,,,,,,,Larkhill Park,,2026
+20261607,2027-01-30 15:00:00,23,scheduled,Thornfield Albion,Eastwick City,Thornfield,Eastwick,THO,EAS,,,,,,,Thornfield Park,,2026
+20261412,2027-01-30 15:00:00,23,scheduled,Redmarsh United,Oakhaven Rovers,Redmarsh,Oakhaven,RED,OAK,,,,,,,Redmarsh Park,,2026
+20260109,2027-01-30 15:00:00,23,scheduled,Ashbury Rovers,Kestrel Park,Ashbury,Kestrel Park,ASH,KES,,,,,,,Ashbury Park,,2026
+20261718,2027-01-30 17:30:00,23,scheduled,Upton Vale,Westmoor Wanderers,Upton Vale,Westmoor,UPT,WES,,,,,,,Upton Vale Park,,2026
+20261519,2027-01-31 14:00:00,23,scheduled,Stonebury City,Yarrowdale Town,Stonebury,Yarrowdale,STO,YAR,,,,,,,Stonebury Park,,2026
+20260300,2027-01-31 16:30:00,23,scheduled,Brackenford United,Amberley Forest,Brackenford,Amberley,BRK,AMB,,,,,,,Brackenford Park,,2026
+20260411,2027-02-01 20:00:00,23,scheduled,Calder Vale,Northcliffe City,Calder Vale,Northcliffe,CAL,NOR,,,,,,,Calder Vale Park,,2026
+20261308,2027-02-06 12:30:00,24,scheduled,Queensbury Town,Fernhill Town,Queensbury,Fernhill,QUE,FER,,,,,,,Queensbury Park,,2026
+20260506,2027-02-06 15:00:00,24,scheduled,Coldharbour United,Dunmore Athletic,Coldharbour,Dunmore,COL,DUN,,,,,,,Coldharbour Park,,2026
+20261602,2027-02-06 15:00:00,24,scheduled,Thornfield Albion,Blackwater City,Thornfield,Blackwater,THO,BLA,,,,,,,Thornfield Park,,2026
+20261012,2027-02-06 15:00:00,24,scheduled,Larkhill United,Oakhaven Rovers,Larkhill,Oakhaven,LAR,OAK,,,,,,,Larkhill Park,,2026
+20260107,2027-02-06 15:00:00,24,scheduled,Ashbury Rovers,Eastwick City,Ashbury,Eastwick,ASH,EAS,,,,,,,Ashbury Park,,2026
+20261418,2027-02-06 15:00:00,24,scheduled,Redmarsh United,Westmoor Wanderers,Redmarsh,Westmoor,RED,WES,,,,,,,Redmarsh Park,,2026
+20261509,2027-02-06 17:30:00,24,scheduled,Stonebury City,Kestrel Park,Stonebury,Kestrel Park,STO,KES,,,,,,,Stonebury Park,,2026
+20261700,2027-02-07 14:00:00,24,scheduled,Upton Vale,Amberley Forest,Upton Vale,Amberley,UPT,AMB,,,,,,,Upton Vale Park,,2026
+20260419,2027-02-07 16:30:00,24,scheduled,Calder Vale,Yarrowdale Town,Calder Vale,Yarrowdale,CAL,YAR,,,,,,,Calder Vale Park,,2026
+20260311,2027-02-08 20:00:00,24,scheduled,Brackenford United,Northcliffe City,Brackenford,Northcliffe,BRK,NOR,,,,,,,Brackenford Park,,2026
+20260806,2027-02-13 12:30:00,25,scheduled,Fernhill Town,Dunmore Athletic,Fernhill,Dunmore,FER,DUN,,,,,,,Fernhill Park,,2026
+20261613,2027-02-13 15:00:00,25,scheduled,Thornfield Albion,Queensbury Town,Thornfield,Queensbury,THO,QUE,,,,,,,Thornfield Park,,2026
+20260512,2027-02-13 15:00:00,25,scheduled,Coldharbour United,Oakhaven Rovers,Coldharbour,Oakhaven,COL,OAK,,,,,,,Coldharbour Park,,2026
+20260102,2027-02-13 15:00:00,25,scheduled,Ashbury Rovers,Blackwater City,Ashbury,Blackwater,ASH,BLA,,,,,,,Ashbury Park,,2026
+20261018,2027-02-13 15:00:00,25,scheduled,Larkhill United,Westmoor Wanderers,Larkhill,Westmoor,LAR,WES,,,,,,,Larkhill Park,,2026
+20261507,2027-02-13 15:00:00,25,scheduled,Stonebury City,Eastwick City,Stonebury,Eastwick,STO,EAS,,,,,,,Stonebury Park,,2026
+20261400,2027-02-13 17:30:00,25,scheduled,Redmarsh United,Amberley Forest,Redmarsh,Amberley,RED,AMB,,,,,,,Redmarsh Park,,2026
+20260409,2027-02-14 14:00:00,25,scheduled,Calder Vale,Kestrel Park,Calder Vale,Kestrel Park,CAL,KES,,,,,,,Calder Vale Park,,2026
+20261711,2027-02-14 16:30:00,25,scheduled,Upton Vale,Northcliffe City,Upton Vale,Northcliffe,UPT,NOR,,,,,,,Upton Vale Park,,2026
+20260319,2027-02-15 20:00:00,25,scheduled,Brackenford United,Yarrowdale Town,Brackenford,Yarrowdale,BRK,YAR,,,,,,,Brackenford Park,,2026
+20261608,2027-02-20 12:30:00,26,scheduled,Thornfield Albion,Fernhill Town,Thornfield,Fernhill,THO,FER,,,,,,,Thornfield Park,,2026
+20260612,2027-02-20 15:00:00,26,scheduled,Dunmore Athletic,Oakhaven Rovers,Dunmore,Oakhaven,DUN,OAK,,,,,,,Dunmore Park,,2026
+20260113,2027-02-20 15:00:00,26,scheduled,Ashbury Rovers,Queensbury Town,Ashbury,Queensbury,ASH,QUE,,,,,,,Ashbury Park,,2026
+20260518,2027-02-20 15:00:00,26,scheduled,Coldharbour United,Westmoor Wanderers,Coldharbour,Westmoor,COL,WES,,,,,,,Coldharbour Park,,2026
+20261502,2027-02-20 15:00:00,26,scheduled,Stonebury City,Blackwater City,Stonebury,Blackwater,STO,BLA,,,,,,,Stonebury Park,,2026
+20261000,2027-02-20 15:00:00,26,scheduled,Larkhill United,Amberley Forest,Larkhill,Amberley,LAR,AMB,,,,,,,Larkhill Park,,2026
+20260407,2027-02-20 17:30:00,26,scheduled,Calder Vale,Eastwick City,Calder Vale,Eastwick,CAL,EAS,,,,,,,Calder Vale Park,,2026
+20261411,2027-02-21 14:00:00,26,scheduled,Redmarsh United,Northcliffe City,Redmarsh,Northcliffe,RED,NOR,,,,,,,Redmarsh Park,,2026
+20260309,2027-02-21 16:30:00,26,scheduled,Brackenford United,Kestrel Park,Brackenford,Kestrel Park,BRK,KES,,,,,,,Brackenford Park,,2026
+20261719,2027-02-22 20:00:00,26,scheduled,Upton Vale,Yarrowdale Town,Upton Vale,Yarrowdale,UPT,YAR,,,,,,,Upton Vale Park,,2026
+20260812,2027-02-27 12:30:00,27,scheduled,Fernhill Town,Oakhaven Rovers,Fernhill,Oakhaven,FER,OAK,,,,,,,Fernhill Park,,2026
+20260116,2027-02-27 15:00:00,27,scheduled,Ashbury Rovers,Thornfield Albion,Ashbury,Thornfield,ASH,THO,,,,,,,Ashbury Park,,2026
+20260618,2027-02-27 15:00:00,27,scheduled,Dunmore Athletic,Westmoor Wanderers,Dunmore,Westmoor,DUN,WES,,,,,,,Dunmore Park,,2026
+20261513,2027-02-27 15:00:00,27,scheduled,Stonebury City,Queensbury Town,Stonebury,Queensbury,STO,QUE,,,,,,,Stonebury Park,,2026
+20260500,2027-02-27 15:00:00,27,scheduled,Coldharbour United,Amberley Forest,Coldharbour,Amberley,COL,AMB,,,,,,,Coldharbour Park,,2026
+20260402,2027-02-27 15:00:00,27,scheduled,Calder Vale,Blackwater City,Calder Vale,Blackwater,CAL,BLA,,,,,,,Calder Vale Park,,2026
+20261011,2027-02-27 17:30:00,27,scheduled,Larkhill United,Northcliffe City,Larkhill,Northcliffe,LAR,NOR,,,,,,,Larkhill Park,,2026
+20260307,2027-02-28 14:00:00,27,scheduled,Brackenford United,Eastwick City,Brackenford,Eastwick,BRK,EAS,,,,,,,Brackenford Park,,2026
+20261419,2027-02-28 16:30:00,27,scheduled,Redmarsh United,Yarrowdale Town,Redmarsh,Yarrowdale,RED,YAR,,,,,,,Redmarsh Park,,2026
+20261709,2027-03-01 20:00:00,27,scheduled,Upton Vale,Kestrel Park,Upton Vale,Kestrel Park,UPT,KES,,,,,,,Upton Vale Park,,2026
+20260108,2027-03-06 12:30:00,28,scheduled,Ashbury Rovers,Fernhill Town,Ashbury,Fernhill,ASH,FER,,,,,,,Ashbury Park,,2026
+20261218,2027-03-06 15:00:00,28,scheduled,Oakhaven Rovers,Westmoor Wanderers,Oakhaven,Westmoor,OAK,WES,,,,,,,Oakhaven Park,,2026
+20261516,2027-03-06 15:00:00,28,scheduled,Stonebury City,Thornfield Albion,Stonebury,Thornfield,STO,THO,,,,,,,Stonebury Park,,2026
+20260600,2027-03-06 15:00:00,28,scheduled,Dunmore Athletic,Amberley Forest,Dunmore,Amberley,DUN,AMB,,,,,,,Dunmore Park,,2026
+20260413,2027-03-06 15:00:00,28,scheduled,Calder Vale,Queensbury Town,Calder Vale,Queensbury,CAL,QUE,,,,,,,Calder Vale Park,,2026
+20260511,2027-03-06 15:00:00,28,scheduled,Coldharbour United,Northcliffe City,Coldharbour,Northcliffe,COL,NOR,,,,,,,Coldharbour Park,,2026
+20260302,2027-03-06 17:30:00,28,scheduled,Brackenford United,Blackwater City,Brackenford,Blackwater,BRK,BLA,,,,,,,Brackenford Park,,2026
+20261019,2027-03-07 14:00:00,28,scheduled,Larkhill United,Yarrowdale Town,Larkhill,Yarrowdale,LAR,YAR,,,,,,,Larkhill Park,,2026
+20261707,2027-03-07 16:30:00,28,scheduled,Upton Vale,Eastwick City,Upton Vale,Eastwick,UPT,EAS,,,,,,,Upton Vale Park,,2026
+20261409,2027-03-08 20:00:00,28,scheduled,Redmarsh United,Kestrel Park,Redmarsh,Kestrel Park,RED,KES,,,,,,,Redmarsh Park,,2026
+20260818,2027-03-13 12:30:00,29,scheduled,Fernhill Town,Westmoor Wanderers,Fernhill,Westmoor,FER,WES,,,,,,,Fernhill Park,,2026
+20261501,2027-03-13 15:00:00,29,scheduled,Stonebury City,Ashbury Rovers,Stonebury,Ashbury,STO,ASH,,,,,,,Stonebury Park,,2026
+20261200,2027-03-13 15:00:00,29,scheduled,Oakhaven Rovers,Amberley Forest,Oakhaven,Amberley,OAK,AMB,,,,,,,Oakhaven Park,,2026
+20260416,2027-03-13 15:00:00,29,scheduled,Calder Vale,Thornfield Albion,Calder Vale,Thornfield,CAL,THO,,,,,,,Calder Vale Park,,2026
+20260611,2027-03-13 15:00:00,29,scheduled,Dunmore Athletic,Northcliffe City,Dunmore,Northcliffe,DUN,NOR,,,,,,,Dunmore Park,,2026
+20260313,2027-03-13 15:00:00,29,scheduled,Brackenford United,Queensbury Town,Brackenford,Queensbury,BRK,QUE,,,,,,,Brackenford Park,,2026
+20260519,2027-03-13 17:30:00,29,scheduled,Coldharbour United,Yarrowdale Town,Coldharbour,Yarrowdale,COL,YAR,,,,,,,Coldharbour Park,,2026
+20261702,2027-03-14 14:00:00,29,scheduled,Upton Vale,Blackwater City,Upton Vale,Blackwater,UPT,BLA,,,,,,,Upton Vale Park,,2026
+20261009,2027-03-14 16:30:00,29,scheduled,Larkhill United,Kestrel Park,Larkhill,Kestrel Park,LAR,KES,,,,,,,Larkhill Park,,2026
+20261407,2027-03-15 20:00:00,29,scheduled,Redmarsh United,Eastwick City,Redmarsh,Eastwick,RED,EAS,,,,,,,Redmarsh Park,,2026
+20261508,2027-03-27 12:30:00,30,scheduled,Stonebury City,Fernhill Town,Stonebury,Fernhill,STO,FER,,,,,,,Stonebury Park,,2026
+20261800,2027-03-27 15:00:00,30,scheduled,Westmoor Wanderers,Amberley Forest,Westmoor,Amberley,WES,AMB,,,,,,,Westmoor Park,,2026
+20260401,2027-03-27 15:00:00,30,scheduled,Calder Vale,Ashbury Rovers,Calder Vale,Ashbury,CAL,ASH,,,,,,,Calder Vale Park,,2026
+20261211,2027-03-27 15:00:00,30,scheduled,Oakhaven Rovers,Northcliffe City,Oakhaven,Northcliffe,OAK,NOR,,,,,,,Oakhaven Park,,2026
+20260316,2027-03-27 15:00:00,30,scheduled,Brackenford United,Thornfield Albion,Brackenford,Thornfield,BRK,THO,,,,,,,Brackenford Park,,2026
+20260619,2027-03-27 15:00:00,30,scheduled,Dunmore Athletic,Yarrowdale Town,Dunmore,Yarrowdale,DUN,YAR,,,,,,,Dunmore Park,,2026
+20261713,2027-03-27 17:30:00,30,scheduled,Upton Vale,Queensbury Town,Upton Vale,Queensbury,UPT,QUE,,,,,,,Upton Vale Park,,2026
+20260509,2027-03-28 14:00:00,30,scheduled,Coldharbour United,Kestrel Park,Coldharbour,Kestrel Park,COL,KES,,,,,,,Coldharbour Park,,2026
+20261402,2027-03-28 16:30:00,30,scheduled,Redmarsh United,Blackwater City,Redmarsh,Blackwater,RED,BLA,,,,,,,Redmarsh Park,,2026
+20261007,2027-03-29 20:00:00,30,scheduled,Larkhill United,Eastwick City,Larkhill,Eastwick,LAR,EAS,,,,,,,Larkhill Park,,2026
+20260800,2027-04-03 12:30:00,31,scheduled,Fernhill Town,Amberley Forest,Fernhill,Amberley,FER,AMB,,,,,,,Fernhill Park,,2026
+20260415,2027-04-03 15:00:00,31,scheduled,Calder Vale,Stonebury City,Calder Vale,Stonebury,CAL,STO,,,,,,,Calder Vale Park,,2026
+20261811,2027-04-03 15:00:00,31,scheduled,Westmoor Wanderers,Northcliffe City,Westmoor,Northcliffe,WES,NOR,,,,,,,Westmoor Park,,2026
+20260301,2027-04-03 15:00:00,31,scheduled,Brackenford United,Ashbury Rovers,Brackenford,Ashbury,BRK,ASH,,,,,,,Brackenford Park,,2026
+20261219,2027-04-03 15:00:00,31,scheduled,Oakhaven Rovers,Yarrowdale Town,Oakhaven,Yarrowdale,OAK,YAR,,,,,,,Oakhaven Park,,2026
+20261716,2027-04-03 15:00:00,31,scheduled,Upton Vale,Thornfield Albion,Upton Vale,Thornfield,UPT,THO,,,,,,,Upton Vale Park,,2026
+20260609,2027-04-03 17:30:00,31,scheduled,Dunmore Athletic,Kestrel Park,Dunmore,Kestrel Park,DUN,KES,,,,,,,Dunmore Park,,2026
+20261413,2027-04-04 14:00:00,31,scheduled,Redmarsh United,Queensbury Town,Redmarsh,Queensbury,RED,QUE,,,,,,,Redmarsh Park,,2026
+20260507,2027-04-04 16:30:00,31,scheduled,Coldharbour United,Eastwick City,Coldharbour,Eastwick,COL,EAS,,,,,,,Coldharbour Park,,2026
+20261002,2027-04-05 20:00:00,31,scheduled,Larkhill United,Blackwater City,Larkhill,Blackwater,LAR,BLA,,,,,,,Larkhill Park,,2026
+20260408,2027-04-10 12:30:00,32,scheduled,Calder Vale,Fernhill Town,Calder Vale,Fernhill,CAL,FER,,,,,,,Calder Vale Park,,2026
+20260011,2027-04-10 15:00:00,32,scheduled,Amberley Forest,Northcliffe City,Amberley,Northcliffe,AMB,NOR,,,,,,,Amberley Park,,2026
+20260315,2027-04-10 15:00:00,32,scheduled,Brackenford United,Stonebury City,Brackenford,Stonebury,BRK,STO,,,,,,,Brackenford Park,,2026
+20261819,2027-04-10 15:00:00,32,scheduled,Westmoor Wanderers,Yarrowdale Town,Westmoor,Yarrowdale,WES,YAR,,,,,,,Westmoor Park,,2026
+20261701,2027-04-10 15:00:00,32,scheduled,Upton Vale,Ashbury Rovers,Upton Vale,Ashbury,UPT,ASH,,,,,,,Upton Vale Park,,2026
+20261209,2027-04-10 15:00:00,32,scheduled,Oakhaven Rovers,Kestrel Park,Oakhaven,Kestrel Park,OAK,KES,,,,,,,Oakhaven Park,,2026
+20261416,2027-04-10 17:30:00,32,scheduled,Redmarsh United,Thornfield Albion,Redmarsh,Thornfield,RED,THO,,,,,,,Redmarsh Park,,2026
+20260607,2027-04-11 14:00:00,32,scheduled,Dunmore Athletic,Eastwick City,Dunmore,Eastwick,DUN,EAS,,,,,,,Dunmore Park,,2026
+20261013,2027-04-11 16:30:00,32,scheduled,Larkhill United,Queensbury Town,Larkhill,Queensbury,LAR,QUE,,,,,,,Larkhill Park,,2026
+20260502,2027-04-12 20:00:00,32,scheduled,Coldharbour United,Blackwater City,Coldharbour,Blackwater,COL,BLA,,,,,,,Coldharbour Park,,2026
+20260811,2027-04-17 12:30:00,33,scheduled,Fernhill Town,Northcliffe City,Fernhill,Northcliffe,FER,NOR,,,,,,,Fernhill Park,,2026
+20260304,2027-04-17 15:00:00,33,scheduled,Brackenford United,Calder Vale,Brackenford,Calder Vale,BRK,CAL,,,,,,,Brackenford Park,,2026
+20260019,2027-04-17 15:00:00,33,scheduled,Amberley Forest,Yarrowdale Town,Amberley,Yarrowdale,AMB,YAR,,,,,,,Amberley Park,,2026
+20261715,2027-04-17 15:00:00,33,scheduled,Upton Vale,Stonebury City,Upton Vale,Stonebury,UPT,STO,,,,,,,Upton Vale Park,,2026
+20261809,2027-04-17 15:00:00,33,scheduled,Westmoor Wanderers,Kestrel Park,Westmoor,Kestrel Park,WES,KES,,,,,,,Westmoor Park,,2026
+20261401,2027-04-17 15:00:00,33,scheduled,Redmarsh United,Ashbury Rovers,Redmarsh,Ashbury,RED,ASH,,,,,,,Redmarsh Park,,2026
+20261207,2027-04-17 17:30:00,33,scheduled,Oakhaven Rovers,Eastwick City,Oakhaven,Eastwick,OAK,EAS,,,,,,,Oakhaven Park,,2026
+20261016,2027-04-18 14:00:00,33,scheduled,Larkhill United,Thornfield Albion,Larkhill,Thornfield,LAR,THO,,,,,,,Larkhill Park,,2026
+20260602,2027-04-18 16:30:00,33,scheduled,Dunmore Athletic,Blackwater City,Dunmore,Blackwater,DUN,BLA,,,,,,,Dunmore Park,,2026
+20260513,2027-04-19 20:00:00,33,scheduled,Coldharbour United,Queensbury Town,Coldharbour,Queensbury,COL,QUE,,,,,,,Coldharbour Park,,2026
+20260308,2027-04-24 12:30:00,34,scheduled,Brackenford United,Fernhill Town,Brackenford,Fernhill,BRK,FER,,,,,,,Brackenford Park,,2026
+20261119,2027-04-24 15:00:00,34,scheduled,Northcliffe City,Yarrowdale Town,Northcliffe,Yarrowdale,NOR,YAR,,,,,,,Northcliffe Park,,2026
+20261704,2027-04-24 15:00:00,34,scheduled,Upton Vale,Calder Vale,Upton Vale,Calder Vale,UPT,CAL,,,,,,,Upton Vale Park,,2026
+20260009,2027-04-24 15:00:00,34,scheduled,Amberley Forest,Kestrel Park,Amberley,Kestrel Park,AMB,KES,,,,,,,Amberley Park,,2026
+20261415,2027-04-24 15:00:00,34,scheduled,Redmarsh United,Stonebury City,Redmarsh,Stonebury,RED,STO,,,,,,,Redmarsh Park,,2026
+20261807,2027-04-24 15:00:00,34,scheduled,Westmoor Wanderers,Eastwick City,Westmoor,Eastwick,WES,EAS,,,,,,,Westmoor Park,,2026
+20261001,2027-04-24 17:30:00,34,scheduled,Larkhill United,Ashbury Rovers,Larkhill,Ashbury,LAR,ASH,,,,,,,Larkhill Park,,2026
+20261202,2027-04-25 14:00:00,34,scheduled,Oakhaven Rovers,Blackwater City,Oakhaven,Blackwater,OAK,BLA,,,,,,,Oakhaven Park,,2026
+20260516,2027-04-25 16:30:00,34,scheduled,Coldharbour United,Thornfield Albion,Coldharbour,Thornfield,COL,THO,,,,,,,Coldharbour Park,,2026
+20260613,2027-04-26 20:00:00,34,scheduled,Dunmore Athletic,Queensbury Town,Dunmore,Queensbury,DUN,QUE,,,,,,,Dunmore Park,,2026
+20260819,2027-05-01 12:30:00,35,scheduled,Fernhill Town,Yarrowdale Town,Fernhill,Yarrowdale,FER,YAR,,,,,,,Fernhill Park,,2026
+20261703,2027-05-01 15:00:00,35,scheduled,Upton Vale,Brackenford United,Upton Vale,Brackenford,UPT,BRK,,,,,,,Upton Vale Park,,2026
+20261109,2027-05-01 15:00:00,35,scheduled,Northcliffe City,Kestrel Park,Northcliffe,Kestrel Park,NOR,KES,,,,,,,Northcliffe Park,,2026
+20261404,2027-05-01 15:00:00,35,scheduled,Redmarsh United,Calder Vale,Redmarsh,Calder Vale,RED,CAL,,,,,,,Redmarsh Park,,2026
+20260007,2027-05-01 15:00:00,35,scheduled,Amberley Forest,Eastwick City,Amberley,Eastwick,AMB,EAS,,,,,,,Amberley Park,,2026
+20261015,2027-05-01 15:00:00,35,scheduled,Larkhill United,Stonebury City,Larkhill,Stonebury,LAR,STO,,,,,,,Larkhill Park,,2026
+20261802,2027-05-01 17:30:00,35,scheduled,Westmoor Wanderers,Blackwater City,Westmoor,Blackwater,WES,BLA,,,,,,,Westmoor Park,,2026
+20260501,2027-05-02 14:00:00,35,scheduled,Coldharbour United,Ashbury Rovers,Coldharbour,Ashbury,COL,ASH,,,,,,,Coldharbour Park,,2026
+20261213,2027-05-02 16:30:00,35,scheduled,Oakhaven Rovers,Queensbury Town,Oakhaven,Queensbury,OAK,QUE,,,,,,,Oakhaven Park,,2026
+20260616,2027-05-03 20:00:00,35,scheduled,Dunmore Athletic,Thornfield Albion,Dunmore,Thornfield,DUN,THO,,,,,,,Dunmore Park,,2026
+20261708,2027-05-08 12:30:00,36,scheduled,Upton Vale,Fernhill Town,Upton Vale,Fernhill,UPT,FER,,,,,,,Upton Vale Park,,2026
+20261909,2027-05-08 15:00:00,36,scheduled,Yarrowdale Town,Kestrel Park,Yarrowdale,Kestrel Park,YAR,KES,,,,,,,Yarrowdale Park,,2026
+20261403,2027-05-08 15:00:00,36,scheduled,Redmarsh United,Brackenford United,Redmarsh,Brackenford,RED,BRK,,,,,,,Redmarsh Park,,2026
+20261107,2027-05-08 15:00:00,36,scheduled,Northcliffe City,Eastwick City,Northcliffe,Eastwick,NOR,EAS,,,,,,,Northcliffe Park,,2026
+20261004,2027-05-08 15:00:00,36,scheduled,Larkhill United,Calder Vale,Larkhill,Calder Vale,LAR,CAL,,,,,,,Larkhill Park,,2026
+20260002,2027-05-08 15:00:00,36,scheduled,Amberley Forest,Blackwater City,Amberley,Blackwater,AMB,BLA,,,,,,,Amberley Park,,2026
+20260515,2027-05-08 17:30:00,36,scheduled,Coldharbour United,Stonebury City,Coldharbour,Stonebury,COL,STO,,,,,,,Coldharbour Park,,2026
+20261813,2027-05-09 14:00:00,36,scheduled,Westmoor Wanderers,Queensbury Town,Westmoor,Queensbury,WES,QUE,,,,,,,Westmoor Park,,2026
+20260601,2027-05-09 16:30:00,36,scheduled,Dunmore Athletic,Ashbury Rovers,Dunmore,Ashbury,DUN,ASH,,,,,,,Dunmore Park,,2026
+20261216,2027-05-10 20:00:00,36,scheduled,Oakhaven Rovers,Thornfield Albion,Oakhaven,Thornfield,OAK,THO,,,,,,,Oakhaven Park,,2026
+20260809,2027-05-15 12:30:00,37,scheduled,Fernhill Town,Kestrel Park,Fernhill,Kestrel Park,FER,KES,,,,,,,Fernhill Park,,2026
+20261417,2027-05-15 15:00:00,37,scheduled,Redmarsh United,Upton Vale,Redmarsh,Upton Vale,RED,UPT,,,,,,,Redmarsh Park,,2026
+20261907,2027-05-15 15:00:00,37,scheduled,Yarrowdale Town,Eastwick City,Yarrowdale,Eastwick,YAR,EAS,,,,,,,Yarrowdale Park,,2026
+20261003,2027-05-15 15:00:00,37,scheduled,Larkhill United,Brackenford United,Larkhill,Brackenford,LAR,BRK,,,,,,,Larkhill Park,,2026
+20261102,2027-05-15 15:00:00,37,scheduled,Northcliffe City,Blackwater City,Northcliffe,Blackwater,NOR,BLA,,,,,,,Northcliffe Park,,2026
+20260504,2027-05-15 15:00:00,37,scheduled,Coldharbour United,Calder Vale,Coldharbour,Calder Vale,COL,CAL,,,,,,,Coldharbour Park,,2026
+20260013,2027-05-15 17:30:00,37,scheduled,Amberley Forest,Queensbury Town,Amberley,Queensbury,AMB,QUE,,,,,,,Amberley Park,,2026
+20260615,2027-05-16 14:00:00,37,scheduled,Dunmore Athletic,Stonebury City,Dunmore,Stonebury,DUN,STO,,,,,,,Dunmore Park,,2026
+20261816,2027-05-16 16:30:00,37,scheduled,Westmoor Wanderers,Thornfield Albion,Westmoor,Thornfield,WES,THO,,,,,,,Westmoor Park,,2026
+20261201,2027-05-17 20:00:00,37,scheduled,Oakhaven Rovers,Ashbury Rovers,Oakhaven,Ashbury,OAK,ASH,,,,,,,Oakhaven Park,,2026
+20261408,2027-05-22 12:30:00,38,scheduled,Redmarsh United,Fernhill Town,Redmarsh,Fernhill,RED,FER,,,,,,,Redmarsh Park,,2026
+20260907,2027-05-22 15:00:00,38,scheduled,Kestrel Park,Eastwick City,Kestrel Park,Eastwick,KES,EAS,,,,,,,Kestrel Park Park,,2026
+20261017,2027-05-22 15:00:00,38,scheduled,Larkhill United,Upton Vale,Larkhill,Upton Vale,LAR,UPT,,,,,,,Larkhill Park,,2026
+20261902,2027-05-22 15:00:00,38,scheduled,Yarrowdale Town,Blackwater City,Yarrowdale,Blackwater,YAR,BLA,,,,,,,Yarrowdale Park,,2026
+20260503,2027-05-22 15:00:00,38,scheduled,Coldharbour United,Brackenford United,Coldharbour,Brackenford,COL,BRK,,,,,,,Coldharbour Park,,2026
+20261113,2027-05-22 15:00:00,38,scheduled,Northcliffe City,Queensbury Town,Northcliffe,Queensbury,NOR,QUE,,,,,,,Northcliffe Park,,2026
+20260604,2027-05-22 17:30:00,38,scheduled,Dunmore Athletic,Calder Vale,Dunmore,Calder Vale,DUN,CAL,,,,,,,Dunmore Park,,2026
+20260016,2027-05-23 14:00:00,38,scheduled,Amberley Forest,Thornfield Albion,Amberley,Thornfield,AMB,THO,,,,,,,Amberley Park,,2026
+20261215,2027-05-23 16:30:00,38,scheduled,Oakhaven Rovers,Stonebury City,Oakhaven,Stonebury,OAK,STO,,,,,,,Oakhaven Park,,2026
+20261801,2027-05-24 20:00:00,38,scheduled,Westmoor Wanderers,Ashbury Rovers,Westmoor,Ashbury,WES,ASH,,,,,,,Westmoor Park,,2026

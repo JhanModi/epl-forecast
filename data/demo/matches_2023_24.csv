@@ -1,0 +1,381 @@
+match_id,date,matchweek,status,home_team,away_team,home_short_name,away_short_name,home_abbr,away_abbr,home_score,away_score,home_ht_score,away_ht_score,home_red_cards,away_red_cards,stadium,attendance,season
+20231518,2023-08-12 12:30:00,1,finished,Queensbury Town,Thornfield Albion,Queensbury,Thornfield,QUE,THO,4,1,2,0,1,0,Queensbury Park,38616,2023
+20230317,2023-08-12 15:00:00,1,finished,Dunmore Athletic,Stonebury City,Dunmore,Stonebury,DUN,STO,1,2,0,0,0,0,Dunmore Park,35317,2023
+20231600,2023-08-12 15:00:00,1,finished,Redmarsh United,Ashbury Rovers,Redmarsh,Ashbury,RED,ASH,3,2,1,0,0,0,Redmarsh Park,22274,2023
+20230506,2023-08-12 15:00:00,1,finished,Fernhill Town,Glenbridge Wanderers,Fernhill,Glenbridge,FER,GLE,5,0,1,0,0,0,Fernhill Park,22914,2023
+20231213,2023-08-12 15:00:00,1,finished,Northcliffe City,Oakhaven Rovers,Northcliffe,Oakhaven,NOR,OAK,2,0,1,0,0,0,Northcliffe Park,34951,2023
+20230107,2023-08-12 15:00:00,1,finished,Brackenford United,Harrowmere Albion,Brackenford,Harrowmere,BRK,HAR,2,1,0,0,0,0,Brackenford Park,22353,2023
+20231408,2023-08-12 17:30:00,1,finished,Pemberton Athletic,Ironvale Forest,Pemberton,Ironvale,PEM,IRO,3,2,2,0,0,0,Pemberton Park,28923,2023
+20231019,2023-08-13 14:00:00,1,finished,Larkhill United,Upton Vale,Larkhill,Upton Vale,LAR,UPT,1,1,1,0,0,0,Larkhill Park,22381,2023
+20230409,2023-08-13 16:30:00,1,finished,Eastwick City,Kestrel Park,Eastwick,Kestrel Park,EAS,KES,1,1,0,1,0,0,Eastwick Park,28473,2023
+20231102,2023-08-14 20:00:00,1,finished,Marlow Heath,Calder Vale,Marlow Heath,Calder Vale,MAR,CAL,0,1,0,1,0,0,Marlow Heath Park,36089,2023
+20230315,2023-08-19 12:30:00,2,finished,Dunmore Athletic,Queensbury Town,Dunmore,Queensbury,DUN,QUE,1,2,0,2,0,0,Dunmore Park,35721,2023
+20231800,2023-08-19 15:00:00,2,finished,Thornfield Albion,Ashbury Rovers,Thornfield,Ashbury,THO,ASH,0,2,0,1,0,0,Thornfield Park,43464,2023
+20230517,2023-08-19 15:00:00,2,finished,Fernhill Town,Stonebury City,Fernhill,Stonebury,FER,STO,2,1,0,0,0,0,Fernhill Park,35246,2023
+20231613,2023-08-19 15:00:00,2,finished,Redmarsh United,Oakhaven Rovers,Redmarsh,Oakhaven,RED,OAK,2,1,0,1,0,0,Redmarsh Park,24279,2023
+20230106,2023-08-19 15:00:00,2,finished,Brackenford United,Glenbridge Wanderers,Brackenford,Glenbridge,BRK,GLE,3,0,2,0,0,0,Brackenford Park,32398,2023
+20231208,2023-08-19 15:00:00,2,finished,Northcliffe City,Ironvale Forest,Northcliffe,Ironvale,NOR,IRO,5,2,2,1,0,1,Northcliffe Park,21310,2023
+20231007,2023-08-19 17:30:00,2,finished,Larkhill United,Harrowmere Albion,Larkhill,Harrowmere,LAR,HAR,1,0,0,0,0,0,Larkhill Park,40475,2023
+20231409,2023-08-20 14:00:00,2,finished,Pemberton Athletic,Kestrel Park,Pemberton,Kestrel Park,PEM,KES,1,2,0,2,0,1,Pemberton Park,33055,2023
+20231119,2023-08-20 16:30:00,2,finished,Marlow Heath,Upton Vale,Marlow Heath,Upton Vale,MAR,UPT,2,2,0,1,0,0,Marlow Heath Park,36404,2023
+20230402,2023-08-21 20:00:00,2,finished,Eastwick City,Calder Vale,Eastwick,Calder Vale,EAS,CAL,1,4,1,2,0,0,Eastwick Park,29011,2023
+20231500,2023-08-26 12:30:00,3,finished,Queensbury Town,Ashbury Rovers,Queensbury,Ashbury,QUE,ASH,1,3,0,1,0,0,Queensbury Park,27476,2023
+20230503,2023-08-26 15:00:00,3,finished,Fernhill Town,Dunmore Athletic,Fernhill,Dunmore,FER,DUN,1,1,0,1,0,0,Fernhill Park,33917,2023
+20231813,2023-08-26 15:00:00,3,finished,Thornfield Albion,Oakhaven Rovers,Thornfield,Oakhaven,THO,OAK,2,0,2,0,0,0,Thornfield Park,22410,2023
+20230117,2023-08-26 15:00:00,3,finished,Brackenford United,Stonebury City,Brackenford,Stonebury,BRK,STO,2,0,2,0,0,0,Brackenford Park,38883,2023
+20231608,2023-08-26 15:00:00,3,finished,Redmarsh United,Ironvale Forest,Redmarsh,Ironvale,RED,IRO,4,0,3,0,0,0,Redmarsh Park,29071,2023
+20231006,2023-08-26 15:00:00,3,finished,Larkhill United,Glenbridge Wanderers,Larkhill,Glenbridge,LAR,GLE,1,2,0,0,0,0,Larkhill Park,19746,2023
+20231209,2023-08-26 17:30:00,3,finished,Northcliffe City,Kestrel Park,Northcliffe,Kestrel Park,NOR,KES,5,0,2,0,1,0,Northcliffe Park,33699,2023
+20231107,2023-08-27 14:00:00,3,finished,Marlow Heath,Harrowmere Albion,Marlow Heath,Harrowmere,MAR,HAR,1,3,1,1,0,0,Marlow Heath Park,31036,2023
+20231402,2023-08-27 16:30:00,3,finished,Pemberton Athletic,Calder Vale,Pemberton,Calder Vale,PEM,CAL,0,2,0,0,0,0,Pemberton Park,38601,2023
+20230419,2023-08-28 20:00:00,3,finished,Eastwick City,Upton Vale,Eastwick,Upton Vale,EAS,UPT,0,4,0,2,0,0,Eastwick Park,29522,2023
+20230515,2023-09-09 12:30:00,4,finished,Fernhill Town,Queensbury Town,Fernhill,Queensbury,FER,QUE,1,3,0,1,0,1,Fernhill Park,33754,2023
+20230013,2023-09-09 15:00:00,4,finished,Ashbury Rovers,Oakhaven Rovers,Ashbury,Oakhaven,ASH,OAK,3,1,1,0,0,0,Ashbury Park,28617,2023
+20230103,2023-09-09 15:00:00,4,finished,Brackenford United,Dunmore Athletic,Brackenford,Dunmore,BRK,DUN,2,1,0,1,0,0,Brackenford Park,28252,2023
+20231808,2023-09-09 15:00:00,4,finished,Thornfield Albion,Ironvale Forest,Thornfield,Ironvale,THO,IRO,4,0,1,0,0,0,Thornfield Park,36193,2023
+20231017,2023-09-09 15:00:00,4,finished,Larkhill United,Stonebury City,Larkhill,Stonebury,LAR,STO,0,1,0,0,0,0,Larkhill Park,36448,2023
+20231609,2023-09-09 15:00:00,4,finished,Redmarsh United,Kestrel Park,Redmarsh,Kestrel Park,RED,KES,4,1,3,1,0,0,Redmarsh Park,27421,2023
+20231106,2023-09-09 17:30:00,4,finished,Marlow Heath,Glenbridge Wanderers,Marlow Heath,Glenbridge,MAR,GLE,2,0,1,0,0,0,Marlow Heath Park,26032,2023
+20231202,2023-09-10 14:00:00,4,finished,Northcliffe City,Calder Vale,Northcliffe,Calder Vale,NOR,CAL,2,1,0,1,0,0,Northcliffe Park,20579,2023
+20230407,2023-09-10 16:30:00,4,finished,Eastwick City,Harrowmere Albion,Eastwick,Harrowmere,EAS,HAR,1,2,0,1,0,0,Eastwick Park,27222,2023
+20231419,2023-09-11 20:00:00,4,finished,Pemberton Athletic,Upton Vale,Pemberton,Upton Vale,PEM,UPT,0,1,0,1,0,0,Pemberton Park,32780,2023
+20231513,2023-09-16 12:30:00,5,finished,Queensbury Town,Oakhaven Rovers,Queensbury,Oakhaven,QUE,OAK,1,0,0,0,0,0,Queensbury Park,25345,2023
+20230105,2023-09-16 15:00:00,5,finished,Brackenford United,Fernhill Town,Brackenford,Fernhill,BRK,FER,2,1,1,0,0,0,Brackenford Park,42176,2023
+20230008,2023-09-16 15:00:00,5,finished,Ashbury Rovers,Ironvale Forest,Ashbury,Ironvale,ASH,IRO,6,1,4,0,0,0,Ashbury Park,30088,2023
+20231003,2023-09-16 15:00:00,5,finished,Larkhill United,Dunmore Athletic,Larkhill,Dunmore,LAR,DUN,0,2,0,0,0,0,Larkhill Park,32909,2023
+20231809,2023-09-16 15:00:00,5,finished,Thornfield Albion,Kestrel Park,Thornfield,Kestrel Park,THO,KES,4,1,2,0,0,0,Thornfield Park,28425,2023
+20231117,2023-09-16 15:00:00,5,finished,Marlow Heath,Stonebury City,Marlow Heath,Stonebury,MAR,STO,1,0,0,0,0,0,Marlow Heath Park,25992,2023
+20231602,2023-09-16 17:30:00,5,finished,Redmarsh United,Calder Vale,Redmarsh,Calder Vale,RED,CAL,1,2,0,1,0,0,Redmarsh Park,23751,2023
+20230406,2023-09-17 14:00:00,5,finished,Eastwick City,Glenbridge Wanderers,Eastwick,Glenbridge,EAS,GLE,4,2,1,0,0,0,Eastwick Park,28270,2023
+20231219,2023-09-17 16:30:00,5,finished,Northcliffe City,Upton Vale,Northcliffe,Upton Vale,NOR,UPT,0,3,0,1,0,0,Northcliffe Park,30398,2023
+20231407,2023-09-18 20:00:00,5,finished,Pemberton Athletic,Harrowmere Albion,Pemberton,Harrowmere,PEM,HAR,4,2,0,1,1,0,Pemberton Park,36915,2023
+20230115,2023-09-23 12:30:00,6,finished,Brackenford United,Queensbury Town,Brackenford,Queensbury,BRK,QUE,2,1,1,0,0,0,Brackenford Park,26283,2023
+20231308,2023-09-23 15:00:00,6,finished,Oakhaven Rovers,Ironvale Forest,Oakhaven,Ironvale,OAK,IRO,1,2,0,2,0,0,Oakhaven Park,38587,2023
+20231005,2023-09-23 15:00:00,6,finished,Larkhill United,Fernhill Town,Larkhill,Fernhill,LAR,FER,0,0,0,0,1,0,Larkhill Park,29688,2023
+20230009,2023-09-23 15:00:00,6,finished,Ashbury Rovers,Kestrel Park,Ashbury,Kestrel Park,ASH,KES,0,1,0,0,0,0,Ashbury Park,31474,2023
+20231103,2023-09-23 15:00:00,6,finished,Marlow Heath,Dunmore Athletic,Marlow Heath,Dunmore,MAR,DUN,3,5,2,3,0,0,Marlow Heath Park,27116,2023
+20231802,2023-09-23 15:00:00,6,finished,Thornfield Albion,Calder Vale,Thornfield,Calder Vale,THO,CAL,1,0,1,0,0,0,Thornfield Park,23067,2023
+20230417,2023-09-23 17:30:00,6,finished,Eastwick City,Stonebury City,Eastwick,Stonebury,EAS,STO,2,2,2,2,0,0,Eastwick Park,41026,2023
+20231619,2023-09-24 14:00:00,6,finished,Redmarsh United,Upton Vale,Redmarsh,Upton Vale,RED,UPT,2,1,1,1,0,0,Redmarsh Park,27186,2023
+20231406,2023-09-24 16:30:00,6,finished,Pemberton Athletic,Glenbridge Wanderers,Pemberton,Glenbridge,PEM,GLE,3,0,2,0,1,0,Pemberton Park,32798,2023
+20231207,2023-09-25 20:00:00,6,finished,Northcliffe City,Harrowmere Albion,Northcliffe,Harrowmere,NOR,HAR,0,1,0,1,0,0,Northcliffe Park,38125,2023
+20231508,2023-09-30 12:30:00,7,finished,Queensbury Town,Ironvale Forest,Queensbury,Ironvale,QUE,IRO,1,2,1,1,0,1,Queensbury Park,32908,2023
+20231001,2023-09-30 15:00:00,7,finished,Larkhill United,Brackenford United,Larkhill,Brackenford,LAR,BRK,1,1,0,1,0,0,Larkhill Park,41245,2023
+20231309,2023-09-30 15:00:00,7,finished,Oakhaven Rovers,Kestrel Park,Oakhaven,Kestrel Park,OAK,KES,3,0,2,0,0,0,Oakhaven Park,34340,2023
+20231105,2023-09-30 15:00:00,7,finished,Marlow Heath,Fernhill Town,Marlow Heath,Fernhill,MAR,FER,2,3,0,2,0,0,Marlow Heath Park,27339,2023
+20230002,2023-09-30 15:00:00,7,finished,Ashbury Rovers,Calder Vale,Ashbury,Calder Vale,ASH,CAL,3,2,2,1,0,0,Ashbury Park,33042,2023
+20230403,2023-09-30 15:00:00,7,finished,Eastwick City,Dunmore Athletic,Eastwick,Dunmore,EAS,DUN,0,1,0,0,0,0,Eastwick Park,25728,2023
+20231819,2023-09-30 17:30:00,7,finished,Thornfield Albion,Upton Vale,Thornfield,Upton Vale,THO,UPT,0,2,0,0,0,0,Thornfield Park,30014,2023
+20231417,2023-10-01 14:00:00,7,finished,Pemberton Athletic,Stonebury City,Pemberton,Stonebury,PEM,STO,2,6,0,3,0,0,Pemberton Park,35464,2023
+20231607,2023-10-01 16:30:00,7,finished,Redmarsh United,Harrowmere Albion,Redmarsh,Harrowmere,RED,HAR,5,0,4,0,0,0,Redmarsh Park,34954,2023
+20231206,2023-10-02 20:00:00,7,finished,Northcliffe City,Glenbridge Wanderers,Northcliffe,Glenbridge,NOR,GLE,4,0,2,0,1,0,Northcliffe Park,30535,2023
+20231015,2023-10-14 12:30:00,8,finished,Larkhill United,Queensbury Town,Larkhill,Queensbury,LAR,QUE,2,0,0,0,0,0,Larkhill Park,26919,2023
+20230809,2023-10-14 15:00:00,8,finished,Ironvale Forest,Kestrel Park,Ironvale,Kestrel Park,IRO,KES,1,6,1,3,0,0,Ironvale Park,41059,2023
+20231101,2023-10-14 15:00:00,8,finished,Marlow Heath,Brackenford United,Marlow Heath,Brackenford,MAR,BRK,1,4,1,2,1,0,Marlow Heath Park,35101,2023
+20231302,2023-10-14 15:00:00,8,finished,Oakhaven Rovers,Calder Vale,Oakhaven,Calder Vale,OAK,CAL,1,1,1,0,0,0,Oakhaven Park,33103,2023
+20230405,2023-10-14 15:00:00,8,finished,Eastwick City,Fernhill Town,Eastwick,Fernhill,EAS,FER,2,0,1,0,0,0,Eastwick Park,31450,2023
+20230019,2023-10-14 15:00:00,8,finished,Ashbury Rovers,Upton Vale,Ashbury,Upton Vale,ASH,UPT,0,2,0,2,0,0,Ashbury Park,22426,2023
+20231403,2023-10-14 17:30:00,8,finished,Pemberton Athletic,Dunmore Athletic,Pemberton,Dunmore,PEM,DUN,0,1,0,0,0,0,Pemberton Park,44019,2023
+20231807,2023-10-15 14:00:00,8,finished,Thornfield Albion,Harrowmere Albion,Thornfield,Harrowmere,THO,HAR,1,1,1,0,0,1,Thornfield Park,35407,2023
+20231217,2023-10-15 16:30:00,8,finished,Northcliffe City,Stonebury City,Northcliffe,Stonebury,NOR,STO,4,1,3,1,1,0,Northcliffe Park,23571,2023
+20231606,2023-10-16 20:00:00,8,finished,Redmarsh United,Glenbridge Wanderers,Redmarsh,Glenbridge,RED,GLE,7,0,2,0,0,0,Redmarsh Park,34398,2023
+20231509,2023-10-21 12:30:00,9,finished,Queensbury Town,Kestrel Park,Queensbury,Kestrel Park,QUE,KES,2,3,1,2,0,0,Queensbury Park,34304,2023
+20231110,2023-10-21 15:00:00,9,finished,Marlow Heath,Larkhill United,Marlow Heath,Larkhill,MAR,LAR,2,2,2,0,0,0,Marlow Heath Park,19585,2023
+20230802,2023-10-21 15:00:00,9,finished,Ironvale Forest,Calder Vale,Ironvale,Calder Vale,IRO,CAL,0,1,0,1,0,0,Ironvale Park,13976,2023
+20230401,2023-10-21 15:00:00,9,finished,Eastwick City,Brackenford United,Eastwick,Brackenford,EAS,BRK,2,3,0,0,0,0,Eastwick Park,25313,2023
+20231319,2023-10-21 15:00:00,9,finished,Oakhaven Rovers,Upton Vale,Oakhaven,Upton Vale,OAK,UPT,1,2,1,1,0,0,Oakhaven Park,36377,2023
+20231405,2023-10-21 15:00:00,9,finished,Pemberton Athletic,Fernhill Town,Pemberton,Fernhill,PEM,FER,3,5,0,5,0,0,Pemberton Park,31866,2023
+20230007,2023-10-21 17:30:00,9,finished,Ashbury Rovers,Harrowmere Albion,Ashbury,Harrowmere,ASH,HAR,3,0,2,0,0,1,Ashbury Park,33097,2023
+20231203,2023-10-22 14:00:00,9,finished,Northcliffe City,Dunmore Athletic,Northcliffe,Dunmore,NOR,DUN,3,3,1,1,0,0,Northcliffe Park,30271,2023
+20231806,2023-10-22 16:30:00,9,finished,Thornfield Albion,Glenbridge Wanderers,Thornfield,Glenbridge,THO,GLE,7,0,5,0,0,1,Thornfield Park,27407,2023
+20231617,2023-10-23 20:00:00,9,finished,Redmarsh United,Stonebury City,Redmarsh,Stonebury,RED,STO,1,1,0,1,0,0,Redmarsh Park,30751,2023
+20231115,2023-10-28 12:30:00,10,finished,Marlow Heath,Queensbury Town,Marlow Heath,Queensbury,MAR,QUE,0,4,0,1,0,0,Marlow Heath Park,30609,2023
+20230902,2023-10-28 15:00:00,10,finished,Kestrel Park,Calder Vale,Kestrel Park,Calder Vale,KES,CAL,1,4,0,1,1,0,Kestrel Park Park,30689,2023
+20230410,2023-10-28 15:00:00,10,finished,Eastwick City,Larkhill United,Eastwick,Larkhill,EAS,LAR,0,0,0,0,0,0,Eastwick Park,32874,2023
+20230819,2023-10-28 15:00:00,10,finished,Ironvale Forest,Upton Vale,Ironvale,Upton Vale,IRO,UPT,1,8,1,4,0,0,Ironvale Park,20802,2023
+20231401,2023-10-28 15:00:00,10,finished,Pemberton Athletic,Brackenford United,Pemberton,Brackenford,PEM,BRK,1,2,0,2,0,0,Pemberton Park,32729,2023
+20231307,2023-10-28 15:00:00,10,finished,Oakhaven Rovers,Harrowmere Albion,Oakhaven,Harrowmere,OAK,HAR,5,1,2,1,0,0,Oakhaven Park,25164,2023
+20231205,2023-10-28 17:30:00,10,finished,Northcliffe City,Fernhill Town,Northcliffe,Fernhill,NOR,FER,3,0,1,0,0,0,Northcliffe Park,24480,2023
+20230006,2023-10-29 14:00:00,10,finished,Ashbury Rovers,Glenbridge Wanderers,Ashbury,Glenbridge,ASH,GLE,5,2,2,0,0,0,Ashbury Park,33161,2023
+20231603,2023-10-29 16:30:00,10,finished,Redmarsh United,Dunmore Athletic,Redmarsh,Dunmore,RED,DUN,4,0,1,0,0,0,Redmarsh Park,34997,2023
+20231817,2023-10-30 20:00:00,10,finished,Thornfield Albion,Stonebury City,Thornfield,Stonebury,THO,STO,2,0,1,0,0,0,Thornfield Park,26070,2023
+20231502,2023-11-04 12:30:00,11,finished,Queensbury Town,Calder Vale,Queensbury,Calder Vale,QUE,CAL,0,3,0,3,0,1,Queensbury Park,29952,2023
+20230411,2023-11-04 15:00:00,11,finished,Eastwick City,Marlow Heath,Eastwick,Marlow Heath,EAS,MAR,3,3,2,3,0,0,Eastwick Park,29644,2023
+20230919,2023-11-04 15:00:00,11,finished,Kestrel Park,Upton Vale,Kestrel Park,Upton Vale,KES,UPT,1,4,1,1,0,0,Kestrel Park Park,22950,2023
+20231410,2023-11-04 15:00:00,11,finished,Pemberton Athletic,Larkhill United,Pemberton,Larkhill,PEM,LAR,1,5,0,3,0,0,Pemberton Park,29601,2023
+20230807,2023-11-04 15:00:00,11,finished,Ironvale Forest,Harrowmere Albion,Ironvale,Harrowmere,IRO,HAR,0,2,0,0,0,0,Ironvale Park,43055,2023
+20231201,2023-11-04 15:00:00,11,finished,Northcliffe City,Brackenford United,Northcliffe,Brackenford,NOR,BRK,0,2,0,0,0,0,Northcliffe Park,28256,2023
+20231306,2023-11-04 17:30:00,11,finished,Oakhaven Rovers,Glenbridge Wanderers,Oakhaven,Glenbridge,OAK,GLE,3,1,1,0,0,0,Oakhaven Park,27488,2023
+20231605,2023-11-05 14:00:00,11,finished,Redmarsh United,Fernhill Town,Redmarsh,Fernhill,RED,FER,4,2,0,1,0,0,Redmarsh Park,27928,2023
+20230017,2023-11-05 16:30:00,11,finished,Ashbury Rovers,Stonebury City,Ashbury,Stonebury,ASH,STO,1,3,1,2,0,0,Ashbury Park,37901,2023
+20231803,2023-11-06 20:00:00,11,finished,Thornfield Albion,Dunmore Athletic,Thornfield,Dunmore,THO,DUN,2,2,2,2,0,0,Thornfield Park,37665,2023
+20230415,2023-11-18 12:30:00,12,finished,Eastwick City,Queensbury Town,Eastwick,Queensbury,EAS,QUE,1,1,0,1,0,0,Eastwick Park,39832,2023
+20230219,2023-11-18 15:00:00,12,finished,Calder Vale,Upton Vale,Calder Vale,Upton Vale,CAL,UPT,0,2,0,1,0,0,Calder Vale Park,15136,2023
+20231411,2023-11-18 15:00:00,12,finished,Pemberton Athletic,Marlow Heath,Pemberton,Marlow Heath,PEM,MAR,1,1,0,0,0,0,Pemberton Park,34416,2023
+20230907,2023-11-18 15:00:00,12,finished,Kestrel Park,Harrowmere Albion,Kestrel Park,Harrowmere,KES,HAR,2,1,2,1,0,0,Kestrel Park Park,40495,2023
+20231210,2023-11-18 15:00:00,12,finished,Northcliffe City,Larkhill United,Northcliffe,Larkhill,NOR,LAR,3,0,2,0,0,0,Northcliffe Park,36269,2023
+20230806,2023-11-18 15:00:00,12,finished,Ironvale Forest,Glenbridge Wanderers,Ironvale,Glenbridge,IRO,GLE,1,0,0,0,0,0,Ironvale Park,25735,2023
+20231601,2023-11-18 17:30:00,12,finished,Redmarsh United,Brackenford United,Redmarsh,Brackenford,RED,BRK,1,1,1,0,0,0,Redmarsh Park,18981,2023
+20231317,2023-11-19 14:00:00,12,finished,Oakhaven Rovers,Stonebury City,Oakhaven,Stonebury,OAK,STO,0,0,0,0,0,0,Oakhaven Park,31511,2023
+20231805,2023-11-19 16:30:00,12,finished,Thornfield Albion,Fernhill Town,Thornfield,Fernhill,THO,FER,1,2,1,2,0,0,Thornfield Park,22728,2023
+20230003,2023-11-20 20:00:00,12,finished,Ashbury Rovers,Dunmore Athletic,Ashbury,Dunmore,ASH,DUN,3,0,2,0,0,0,Ashbury Park,29584,2023
+20231519,2023-11-25 12:30:00,13,finished,Queensbury Town,Upton Vale,Queensbury,Upton Vale,QUE,UPT,3,1,1,1,1,0,Queensbury Park,20182,2023
+20231404,2023-11-25 15:00:00,13,finished,Pemberton Athletic,Eastwick City,Pemberton,Eastwick,PEM,EAS,1,3,0,0,0,0,Pemberton Park,27613,2023
+20230207,2023-11-25 15:00:00,13,finished,Calder Vale,Harrowmere Albion,Calder Vale,Harrowmere,CAL,HAR,2,3,2,3,0,0,Calder Vale Park,32237,2023
+20231211,2023-11-25 15:00:00,13,finished,Northcliffe City,Marlow Heath,Northcliffe,Marlow Heath,NOR,MAR,3,2,1,1,0,0,Northcliffe Park,33407,2023
+20230906,2023-11-25 15:00:00,13,finished,Kestrel Park,Glenbridge Wanderers,Kestrel Park,Glenbridge,KES,GLE,2,0,1,0,0,0,Kestrel Park Park,34772,2023
+20231610,2023-11-25 15:00:00,13,finished,Redmarsh United,Larkhill United,Redmarsh,Larkhill,RED,LAR,2,1,1,0,0,0,Redmarsh Park,33507,2023
+20230817,2023-11-25 17:30:00,13,finished,Ironvale Forest,Stonebury City,Ironvale,Stonebury,IRO,STO,1,1,1,1,0,0,Ironvale Park,32881,2023
+20231801,2023-11-26 14:00:00,13,finished,Thornfield Albion,Brackenford United,Thornfield,Brackenford,THO,BRK,1,1,0,0,1,0,Thornfield Park,48563,2023
+20231303,2023-11-26 16:30:00,13,finished,Oakhaven Rovers,Dunmore Athletic,Oakhaven,Dunmore,OAK,DUN,2,0,0,0,0,0,Oakhaven Park,31035,2023
+20230005,2023-11-27 20:00:00,13,finished,Ashbury Rovers,Fernhill Town,Ashbury,Fernhill,ASH,FER,0,0,0,0,1,0,Ashbury Park,22595,2023
+20231415,2023-12-02 12:30:00,14,finished,Pemberton Athletic,Queensbury Town,Pemberton,Queensbury,PEM,QUE,1,3,1,1,0,0,Pemberton Park,36060,2023
+20231907,2023-12-02 15:00:00,14,finished,Upton Vale,Harrowmere Albion,Upton Vale,Harrowmere,UPT,HAR,1,1,0,1,0,0,Upton Vale Park,23926,2023
+20231204,2023-12-02 15:00:00,14,finished,Northcliffe City,Eastwick City,Northcliffe,Eastwick,NOR,EAS,3,0,0,0,0,0,Northcliffe Park,27443,2023
+20230206,2023-12-02 15:00:00,14,finished,Calder Vale,Glenbridge Wanderers,Calder Vale,Glenbridge,CAL,GLE,6,1,1,0,0,0,Calder Vale Park,36408,2023
+20231611,2023-12-02 15:00:00,14,finished,Redmarsh United,Marlow Heath,Redmarsh,Marlow Heath,RED,MAR,3,1,1,0,0,1,Redmarsh Park,22780,2023
+20230917,2023-12-02 15:00:00,14,finished,Kestrel Park,Stonebury City,Kestrel Park,Stonebury,KES,STO,1,2,0,2,0,0,Kestrel Park Park,24324,2023
+20231810,2023-12-02 17:30:00,14,finished,Thornfield Albion,Larkhill United,Thornfield,Larkhill,THO,LAR,2,2,2,1,0,0,Thornfield Park,41456,2023
+20230803,2023-12-03 14:00:00,14,finished,Ironvale Forest,Dunmore Athletic,Ironvale,Dunmore,IRO,DUN,2,2,0,1,0,0,Ironvale Park,23688,2023
+20230001,2023-12-03 16:30:00,14,finished,Ashbury Rovers,Brackenford United,Ashbury,Brackenford,ASH,BRK,2,1,1,1,0,0,Ashbury Park,36364,2023
+20231305,2023-12-04 20:00:00,14,finished,Oakhaven Rovers,Fernhill Town,Oakhaven,Fernhill,OAK,FER,2,1,1,1,0,1,Oakhaven Park,22935,2023
+20231507,2023-12-09 12:30:00,15,finished,Queensbury Town,Harrowmere Albion,Queensbury,Harrowmere,QUE,HAR,2,1,0,1,0,0,Queensbury Park,26581,2023
+20231214,2023-12-09 15:00:00,15,finished,Northcliffe City,Pemberton Athletic,Northcliffe,Pemberton,NOR,PEM,2,1,1,0,0,0,Northcliffe Park,35221,2023
+20231906,2023-12-09 15:00:00,15,finished,Upton Vale,Glenbridge Wanderers,Upton Vale,Glenbridge,UPT,GLE,7,0,5,0,0,0,Upton Vale Park,31558,2023
+20231604,2023-12-09 15:00:00,15,finished,Redmarsh United,Eastwick City,Redmarsh,Eastwick,RED,EAS,1,0,0,0,0,0,Redmarsh Park,25437,2023
+20230217,2023-12-09 15:00:00,15,finished,Calder Vale,Stonebury City,Calder Vale,Stonebury,CAL,STO,3,2,0,1,0,0,Calder Vale Park,27417,2023
+20231811,2023-12-09 15:00:00,15,finished,Thornfield Albion,Marlow Heath,Thornfield,Marlow Heath,THO,MAR,1,0,0,0,0,0,Thornfield Park,28375,2023
+20230903,2023-12-09 17:30:00,15,finished,Kestrel Park,Dunmore Athletic,Kestrel Park,Dunmore,KES,DUN,2,1,1,1,0,0,Kestrel Park Park,29831,2023
+20230010,2023-12-10 14:00:00,15,finished,Ashbury Rovers,Larkhill United,Ashbury,Larkhill,ASH,LAR,3,0,1,0,0,1,Ashbury Park,29905,2023
+20230805,2023-12-10 16:30:00,15,finished,Ironvale Forest,Fernhill Town,Ironvale,Fernhill,IRO,FER,3,1,0,0,0,0,Ironvale Park,24599,2023
+20231301,2023-12-11 20:00:00,15,finished,Oakhaven Rovers,Brackenford United,Oakhaven,Brackenford,OAK,BRK,2,0,0,0,0,0,Oakhaven Park,31228,2023
+20231215,2023-12-16 12:30:00,16,finished,Northcliffe City,Queensbury Town,Northcliffe,Queensbury,NOR,QUE,0,1,0,0,0,0,Northcliffe Park,19914,2023
+20230706,2023-12-16 15:00:00,16,finished,Harrowmere Albion,Glenbridge Wanderers,Harrowmere,Glenbridge,HAR,GLE,3,1,2,1,0,0,Harrowmere Park,31951,2023
+20231614,2023-12-16 15:00:00,16,finished,Redmarsh United,Pemberton Athletic,Redmarsh,Pemberton,RED,PEM,3,1,2,1,0,0,Redmarsh Park,29991,2023
+20231917,2023-12-16 15:00:00,16,finished,Upton Vale,Stonebury City,Upton Vale,Stonebury,UPT,STO,4,0,3,0,0,0,Upton Vale Park,33524,2023
+20231804,2023-12-16 15:00:00,16,finished,Thornfield Albion,Eastwick City,Thornfield,Eastwick,THO,EAS,1,2,0,1,0,0,Thornfield Park,33058,2023
+20230203,2023-12-16 15:00:00,16,finished,Calder Vale,Dunmore Athletic,Calder Vale,Dunmore,CAL,DUN,3,1,1,0,0,0,Calder Vale Park,21639,2023
+20230011,2023-12-16 17:30:00,16,finished,Ashbury Rovers,Marlow Heath,Ashbury,Marlow Heath,ASH,MAR,2,3,1,1,0,0,Ashbury Park,30177,2023
+20230905,2023-12-17 14:00:00,16,finished,Kestrel Park,Fernhill Town,Kestrel Park,Fernhill,KES,FER,1,0,1,0,0,0,Kestrel Park Park,33417,2023
+20231310,2023-12-17 16:30:00,16,finished,Oakhaven Rovers,Larkhill United,Oakhaven,Larkhill,OAK,LAR,2,0,1,0,1,0,Oakhaven Park,37277,2023
+20230801,2023-12-18 20:00:00,16,finished,Ironvale Forest,Brackenford United,Ironvale,Brackenford,IRO,BRK,0,3,0,1,0,1,Ironvale Park,30063,2023
+20231506,2023-12-23 12:30:00,17,finished,Queensbury Town,Glenbridge Wanderers,Queensbury,Glenbridge,QUE,GLE,8,0,1,0,0,0,Queensbury Park,34404,2023
+20231612,2023-12-23 15:00:00,17,finished,Redmarsh United,Northcliffe City,Redmarsh,Northcliffe,RED,NOR,0,3,0,3,0,0,Redmarsh Park,23769,2023
+20230717,2023-12-23 15:00:00,17,finished,Harrowmere Albion,Stonebury City,Harrowmere,Stonebury,HAR,STO,1,4,1,0,0,0,Harrowmere Park,37861,2023
+20231814,2023-12-23 15:00:00,17,finished,Thornfield Albion,Pemberton Athletic,Thornfield,Pemberton,THO,PEM,3,0,0,0,0,0,Thornfield Park,27934,2023
+20231903,2023-12-23 15:00:00,17,finished,Upton Vale,Dunmore Athletic,Upton Vale,Dunmore,UPT,DUN,6,1,0,0,0,0,Upton Vale Park,39307,2023
+20230004,2023-12-23 15:00:00,17,finished,Ashbury Rovers,Eastwick City,Ashbury,Eastwick,ASH,EAS,2,0,1,0,0,1,Ashbury Park,29873,2023
+20230205,2023-12-23 17:30:00,17,finished,Calder Vale,Fernhill Town,Calder Vale,Fernhill,CAL,FER,3,0,1,0,0,0,Calder Vale Park,31605,2023
+20231311,2023-12-24 14:00:00,17,finished,Oakhaven Rovers,Marlow Heath,Oakhaven,Marlow Heath,OAK,MAR,2,2,1,0,0,0,Oakhaven Park,24477,2023
+20230901,2023-12-24 16:30:00,17,finished,Kestrel Park,Brackenford United,Kestrel Park,Brackenford,KES,BRK,2,1,2,1,0,0,Kestrel Park Park,28735,2023
+20230810,2023-12-25 20:00:00,17,finished,Ironvale Forest,Larkhill United,Ironvale,Larkhill,IRO,LAR,2,3,1,2,0,0,Ironvale Park,34243,2023
+20231615,2023-12-30 12:30:00,18,finished,Redmarsh United,Queensbury Town,Redmarsh,Queensbury,RED,QUE,2,1,2,0,0,0,Redmarsh Park,32336,2023
+20230617,2023-12-30 15:00:00,18,finished,Glenbridge Wanderers,Stonebury City,Glenbridge,Stonebury,GLE,STO,2,3,2,1,0,0,Glenbridge Park,31262,2023
+20231812,2023-12-30 15:00:00,18,finished,Thornfield Albion,Northcliffe City,Thornfield,Northcliffe,THO,NOR,4,2,1,0,0,0,Thornfield Park,38975,2023
+20230703,2023-12-30 15:00:00,18,finished,Harrowmere Albion,Dunmore Athletic,Harrowmere,Dunmore,HAR,DUN,2,0,2,0,0,0,Harrowmere Park,44202,2023
+20230014,2023-12-30 15:00:00,18,finished,Ashbury Rovers,Pemberton Athletic,Ashbury,Pemberton,ASH,PEM,0,1,0,0,0,0,Ashbury Park,27389,2023
+20231905,2023-12-30 15:00:00,18,finished,Upton Vale,Fernhill Town,Upton Vale,Fernhill,UPT,FER,3,1,1,0,0,0,Upton Vale Park,34008,2023
+20231304,2023-12-30 17:30:00,18,finished,Oakhaven Rovers,Eastwick City,Oakhaven,Eastwick,OAK,EAS,1,1,1,0,0,0,Oakhaven Park,31891,2023
+20230201,2023-12-31 14:00:00,18,finished,Calder Vale,Brackenford United,Calder Vale,Brackenford,CAL,BRK,2,2,0,1,0,0,Calder Vale Park,24399,2023
+20230811,2023-12-31 16:30:00,18,finished,Ironvale Forest,Marlow Heath,Ironvale,Marlow Heath,IRO,MAR,2,0,0,0,0,0,Ironvale Park,24673,2023
+20230910,2024-01-01 20:00:00,18,finished,Kestrel Park,Larkhill United,Kestrel Park,Larkhill,KES,LAR,2,1,2,1,0,0,Kestrel Park Park,38597,2023
+20231517,2024-01-06 12:30:00,19,finished,Queensbury Town,Stonebury City,Queensbury,Stonebury,QUE,STO,3,2,1,2,0,0,Queensbury Park,34808,2023
+20231816,2024-01-06 15:00:00,19,finished,Thornfield Albion,Redmarsh United,Thornfield,Redmarsh,THO,RED,3,2,1,0,0,0,Thornfield Park,38600,2023
+20230603,2024-01-06 15:00:00,19,finished,Glenbridge Wanderers,Dunmore Athletic,Glenbridge,Dunmore,GLE,DUN,1,0,0,0,0,0,Glenbridge Park,37764,2023
+20230012,2024-01-06 15:00:00,19,finished,Ashbury Rovers,Northcliffe City,Ashbury,Northcliffe,ASH,NOR,3,3,1,3,0,0,Ashbury Park,35061,2023
+20230705,2024-01-06 15:00:00,19,finished,Harrowmere Albion,Fernhill Town,Harrowmere,Fernhill,HAR,FER,3,2,1,2,0,0,Harrowmere Park,32476,2023
+20231314,2024-01-06 15:00:00,19,finished,Oakhaven Rovers,Pemberton Athletic,Oakhaven,Pemberton,OAK,PEM,2,1,1,0,0,0,Oakhaven Park,25135,2023
+20231901,2024-01-06 17:30:00,19,finished,Upton Vale,Brackenford United,Upton Vale,Brackenford,UPT,BRK,2,1,0,0,1,1,Upton Vale Park,30056,2023
+20230804,2024-01-07 14:00:00,19,finished,Ironvale Forest,Eastwick City,Ironvale,Eastwick,IRO,EAS,1,1,1,0,0,0,Ironvale Park,21648,2023
+20230210,2024-01-07 16:30:00,19,finished,Calder Vale,Larkhill United,Calder Vale,Larkhill,CAL,LAR,2,1,1,0,0,0,Calder Vale Park,23416,2023
+20230911,2024-01-08 20:00:00,19,finished,Kestrel Park,Marlow Heath,Kestrel Park,Marlow Heath,KES,MAR,3,1,1,1,0,0,Kestrel Park Park,34846,2023
+20231815,2024-01-13 12:30:00,20,finished,Thornfield Albion,Queensbury Town,Thornfield,Queensbury,THO,QUE,0,0,0,0,0,0,Thornfield Park,30192,2023
+20231703,2024-01-13 15:00:00,20,finished,Stonebury City,Dunmore Athletic,Stonebury,Dunmore,STO,DUN,4,1,0,1,0,0,Stonebury Park,36037,2023
+20230016,2024-01-13 15:00:00,20,finished,Ashbury Rovers,Redmarsh United,Ashbury,Redmarsh,ASH,RED,3,1,1,1,0,1,Ashbury Park,47446,2023
+20230605,2024-01-13 15:00:00,20,finished,Glenbridge Wanderers,Fernhill Town,Glenbridge,Fernhill,GLE,FER,1,3,0,2,0,0,Glenbridge Park,32143,2023
+20231312,2024-01-13 15:00:00,20,finished,Oakhaven Rovers,Northcliffe City,Oakhaven,Northcliffe,OAK,NOR,1,1,1,0,0,0,Oakhaven Park,28058,2023
+20230701,2024-01-13 15:00:00,20,finished,Harrowmere Albion,Brackenford United,Harrowmere,Brackenford,HAR,BRK,1,2,1,0,0,0,Harrowmere Park,39348,2023
+20230814,2024-01-13 17:30:00,20,finished,Ironvale Forest,Pemberton Athletic,Ironvale,Pemberton,IRO,PEM,3,4,2,2,0,0,Ironvale Park,41512,2023
+20231910,2024-01-14 14:00:00,20,finished,Upton Vale,Larkhill United,Upton Vale,Larkhill,UPT,LAR,6,1,3,1,0,1,Upton Vale Park,31920,2023
+20230904,2024-01-14 16:30:00,20,finished,Kestrel Park,Eastwick City,Kestrel Park,Eastwick,KES,EAS,0,6,0,1,0,0,Kestrel Park Park,31532,2023
+20230211,2024-01-15 20:00:00,20,finished,Calder Vale,Marlow Heath,Calder Vale,Marlow Heath,CAL,MAR,3,0,1,0,0,0,Calder Vale Park,30936,2023
+20231503,2024-01-20 12:30:00,21,finished,Queensbury Town,Dunmore Athletic,Queensbury,Dunmore,QUE,DUN,6,1,1,0,1,0,Queensbury Park,30356,2023
+20230018,2024-01-20 15:00:00,21,finished,Ashbury Rovers,Thornfield Albion,Ashbury,Thornfield,ASH,THO,0,2,0,2,0,0,Ashbury Park,26980,2023
+20231705,2024-01-20 15:00:00,21,finished,Stonebury City,Fernhill Town,Stonebury,Fernhill,STO,FER,5,2,2,1,1,0,Stonebury Park,32958,2023
+20231316,2024-01-20 15:00:00,21,finished,Oakhaven Rovers,Redmarsh United,Oakhaven,Redmarsh,OAK,RED,0,2,0,1,0,0,Oakhaven Park,28050,2023
+20230601,2024-01-20 15:00:00,21,finished,Glenbridge Wanderers,Brackenford United,Glenbridge,Brackenford,GLE,BRK,0,4,0,1,0,0,Glenbridge Park,38369,2023
+20230812,2024-01-20 15:00:00,21,finished,Ironvale Forest,Northcliffe City,Ironvale,Northcliffe,IRO,NOR,1,3,1,2,0,0,Ironvale Park,31895,2023
+20230710,2024-01-20 17:30:00,21,finished,Harrowmere Albion,Larkhill United,Harrowmere,Larkhill,HAR,LAR,1,0,1,0,0,0,Harrowmere Park,19530,2023
+20230914,2024-01-21 14:00:00,21,finished,Kestrel Park,Pemberton Athletic,Kestrel Park,Pemberton,KES,PEM,1,1,1,0,0,0,Kestrel Park Park,29667,2023
+20231911,2024-01-21 16:30:00,21,finished,Upton Vale,Marlow Heath,Upton Vale,Marlow Heath,UPT,MAR,4,2,2,0,0,0,Upton Vale Park,30949,2023
+20230204,2024-01-22 20:00:00,21,finished,Calder Vale,Eastwick City,Calder Vale,Eastwick,CAL,EAS,2,0,1,0,0,0,Calder Vale Park,42013,2023
+20230015,2024-01-27 12:30:00,22,finished,Ashbury Rovers,Queensbury Town,Ashbury,Queensbury,ASH,QUE,2,1,2,0,0,0,Ashbury Park,39822,2023
+20230305,2024-01-27 15:00:00,22,finished,Dunmore Athletic,Fernhill Town,Dunmore,Fernhill,DUN,FER,1,2,0,1,0,0,Dunmore Park,28353,2023
+20231318,2024-01-27 15:00:00,22,finished,Oakhaven Rovers,Thornfield Albion,Oakhaven,Thornfield,OAK,THO,3,3,2,2,0,0,Oakhaven Park,31413,2023
+20231701,2024-01-27 15:00:00,22,finished,Stonebury City,Brackenford United,Stonebury,Brackenford,STO,BRK,0,1,0,1,0,0,Stonebury Park,28915,2023
+20230816,2024-01-27 15:00:00,22,finished,Ironvale Forest,Redmarsh United,Ironvale,Redmarsh,IRO,RED,0,5,0,4,0,0,Ironvale Park,29398,2023
+20230610,2024-01-27 15:00:00,22,finished,Glenbridge Wanderers,Larkhill United,Glenbridge,Larkhill,GLE,LAR,2,2,0,0,0,0,Glenbridge Park,24052,2023
+20230912,2024-01-27 17:30:00,22,finished,Kestrel Park,Northcliffe City,Kestrel Park,Northcliffe,KES,NOR,2,1,1,1,0,0,Kestrel Park Park,29093,2023
+20230711,2024-01-28 14:00:00,22,finished,Harrowmere Albion,Marlow Heath,Harrowmere,Marlow Heath,HAR,MAR,2,1,2,1,0,0,Harrowmere Park,28535,2023
+20230214,2024-01-28 16:30:00,22,finished,Calder Vale,Pemberton Athletic,Calder Vale,Pemberton,CAL,PEM,0,1,0,0,0,0,Calder Vale Park,27840,2023
+20231904,2024-01-29 20:00:00,22,finished,Upton Vale,Eastwick City,Upton Vale,Eastwick,UPT,EAS,5,1,2,1,0,0,Upton Vale Park,22306,2023
+20231505,2024-02-03 12:30:00,23,finished,Queensbury Town,Fernhill Town,Queensbury,Fernhill,QUE,FER,3,2,0,0,0,0,Queensbury Park,37315,2023
+20231300,2024-02-03 15:00:00,23,finished,Oakhaven Rovers,Ashbury Rovers,Oakhaven,Ashbury,OAK,ASH,2,3,1,0,0,0,Oakhaven Park,37421,2023
+20230301,2024-02-03 15:00:00,23,finished,Dunmore Athletic,Brackenford United,Dunmore,Brackenford,DUN,BRK,0,0,0,0,0,0,Dunmore Park,18705,2023
+20230818,2024-02-03 15:00:00,23,finished,Ironvale Forest,Thornfield Albion,Ironvale,Thornfield,IRO,THO,1,1,0,0,0,0,Ironvale Park,29028,2023
+20231710,2024-02-03 15:00:00,23,finished,Stonebury City,Larkhill United,Stonebury,Larkhill,STO,LAR,2,1,0,0,0,0,Stonebury Park,25446,2023
+20230916,2024-02-03 15:00:00,23,finished,Kestrel Park,Redmarsh United,Kestrel Park,Redmarsh,KES,RED,2,3,0,1,0,0,Kestrel Park Park,32104,2023
+20230611,2024-02-03 17:30:00,23,finished,Glenbridge Wanderers,Marlow Heath,Glenbridge,Marlow Heath,GLE,MAR,1,2,0,1,0,0,Glenbridge Park,35517,2023
+20230212,2024-02-04 14:00:00,23,finished,Calder Vale,Northcliffe City,Calder Vale,Northcliffe,CAL,NOR,1,1,0,0,0,0,Calder Vale Park,31337,2023
+20230704,2024-02-04 16:30:00,23,finished,Harrowmere Albion,Eastwick City,Harrowmere,Eastwick,HAR,EAS,1,3,0,1,0,0,Harrowmere Park,33995,2023
+20231914,2024-02-05 20:00:00,23,finished,Upton Vale,Pemberton Athletic,Upton Vale,Pemberton,UPT,PEM,6,1,3,0,0,0,Upton Vale Park,30695,2023
+20231315,2024-02-10 12:30:00,24,finished,Oakhaven Rovers,Queensbury Town,Oakhaven,Queensbury,OAK,QUE,1,2,0,1,0,0,Oakhaven Park,23962,2023
+20230501,2024-02-10 15:00:00,24,finished,Fernhill Town,Brackenford United,Fernhill,Brackenford,FER,BRK,1,1,0,1,0,0,Fernhill Park,35913,2023
+20230800,2024-02-10 15:00:00,24,finished,Ironvale Forest,Ashbury Rovers,Ironvale,Ashbury,IRO,ASH,1,1,0,1,0,0,Ironvale Park,38914,2023
+20230310,2024-02-10 15:00:00,24,finished,Dunmore Athletic,Larkhill United,Dunmore,Larkhill,DUN,LAR,1,4,0,1,0,0,Dunmore Park,33558,2023
+20230918,2024-02-10 15:00:00,24,finished,Kestrel Park,Thornfield Albion,Kestrel Park,Thornfield,KES,THO,1,1,0,1,0,0,Kestrel Park Park,25542,2023
+20231711,2024-02-10 15:00:00,24,finished,Stonebury City,Marlow Heath,Stonebury,Marlow Heath,STO,MAR,1,0,0,0,0,0,Stonebury Park,30819,2023
+20230216,2024-02-10 17:30:00,24,finished,Calder Vale,Redmarsh United,Calder Vale,Redmarsh,CAL,RED,3,1,3,0,0,0,Calder Vale Park,24280,2023
+20230604,2024-02-11 14:00:00,24,finished,Glenbridge Wanderers,Eastwick City,Glenbridge,Eastwick,GLE,EAS,0,2,0,1,0,0,Glenbridge Park,35672,2023
+20231912,2024-02-11 16:30:00,24,finished,Upton Vale,Northcliffe City,Upton Vale,Northcliffe,UPT,NOR,0,1,0,1,0,0,Upton Vale Park,38764,2023
+20230714,2024-02-12 20:00:00,24,finished,Harrowmere Albion,Pemberton Athletic,Harrowmere,Pemberton,HAR,PEM,6,2,3,1,0,0,Harrowmere Park,38621,2023
+20231501,2024-02-17 12:30:00,25,finished,Queensbury Town,Brackenford United,Queensbury,Brackenford,QUE,BRK,0,1,0,0,0,0,Queensbury Park,25529,2023
+20230813,2024-02-17 15:00:00,25,finished,Ironvale Forest,Oakhaven Rovers,Ironvale,Oakhaven,IRO,OAK,1,2,0,1,0,0,Ironvale Park,25514,2023
+20230510,2024-02-17 15:00:00,25,finished,Fernhill Town,Larkhill United,Fernhill,Larkhill,FER,LAR,1,2,1,2,0,0,Fernhill Park,27000,2023
+20230900,2024-02-17 15:00:00,25,finished,Kestrel Park,Ashbury Rovers,Kestrel Park,Ashbury,KES,ASH,3,3,1,2,0,0,Kestrel Park Park,30508,2023
+20230311,2024-02-17 15:00:00,25,finished,Dunmore Athletic,Marlow Heath,Dunmore,Marlow Heath,DUN,MAR,2,2,1,1,0,0,Dunmore Park,37768,2023
+20230218,2024-02-17 15:00:00,25,finished,Calder Vale,Thornfield Albion,Calder Vale,Thornfield,CAL,THO,0,0,0,0,1,0,Calder Vale Park,28137,2023
+20231704,2024-02-17 17:30:00,25,finished,Stonebury City,Eastwick City,Stonebury,Eastwick,STO,EAS,1,3,0,3,0,0,Stonebury Park,20118,2023
+20231916,2024-02-18 14:00:00,25,finished,Upton Vale,Redmarsh United,Upton Vale,Redmarsh,UPT,RED,2,1,0,0,0,1,Upton Vale Park,27766,2023
+20230614,2024-02-18 16:30:00,25,finished,Glenbridge Wanderers,Pemberton Athletic,Glenbridge,Pemberton,GLE,PEM,3,0,1,0,0,0,Glenbridge Park,27638,2023
+20230712,2024-02-19 20:00:00,25,finished,Harrowmere Albion,Northcliffe City,Harrowmere,Northcliffe,HAR,NOR,0,1,0,1,0,0,Harrowmere Park,37224,2023
+20230815,2024-02-24 12:30:00,26,finished,Ironvale Forest,Queensbury Town,Ironvale,Queensbury,IRO,QUE,3,1,3,1,0,0,Ironvale Park,35916,2023
+20230110,2024-02-24 15:00:00,26,finished,Brackenford United,Larkhill United,Brackenford,Larkhill,BRK,LAR,2,0,2,0,0,0,Brackenford Park,28200,2023
+20230913,2024-02-24 15:00:00,26,finished,Kestrel Park,Oakhaven Rovers,Kestrel Park,Oakhaven,KES,OAK,4,1,3,1,0,0,Kestrel Park Park,37324,2023
+20230511,2024-02-24 15:00:00,26,finished,Fernhill Town,Marlow Heath,Fernhill,Marlow Heath,FER,MAR,4,0,1,0,0,0,Fernhill Park,27708,2023
+20230200,2024-02-24 15:00:00,26,finished,Calder Vale,Ashbury Rovers,Calder Vale,Ashbury,CAL,ASH,2,0,1,0,0,0,Calder Vale Park,25763,2023
+20230304,2024-02-24 15:00:00,26,finished,Dunmore Athletic,Eastwick City,Dunmore,Eastwick,DUN,EAS,1,3,0,3,0,0,Dunmore Park,16857,2023
+20231918,2024-02-24 17:30:00,26,finished,Upton Vale,Thornfield Albion,Upton Vale,Thornfield,UPT,THO,3,0,2,0,0,0,Upton Vale Park,23411,2023
+20231714,2024-02-25 14:00:00,26,finished,Stonebury City,Pemberton Athletic,Stonebury,Pemberton,STO,PEM,1,1,0,0,0,0,Stonebury Park,48059,2023
+20230716,2024-02-25 16:30:00,26,finished,Harrowmere Albion,Redmarsh United,Harrowmere,Redmarsh,HAR,RED,0,0,0,0,0,0,Harrowmere Park,28427,2023
+20230612,2024-02-26 20:00:00,26,finished,Glenbridge Wanderers,Northcliffe City,Glenbridge,Northcliffe,GLE,NOR,2,3,2,0,0,0,Glenbridge Park,32050,2023
+20231510,2024-03-02 12:30:00,27,finished,Queensbury Town,Larkhill United,Queensbury,Larkhill,QUE,LAR,0,1,0,0,0,0,Queensbury Park,29624,2023
+20230908,2024-03-02 15:00:00,27,finished,Kestrel Park,Ironvale Forest,Kestrel Park,Ironvale,KES,IRO,2,1,0,0,0,0,Kestrel Park Park,29811,2023
+20230111,2024-03-02 15:00:00,27,finished,Brackenford United,Marlow Heath,Brackenford,Marlow Heath,BRK,MAR,2,0,1,0,0,0,Brackenford Park,22770,2023
+20230213,2024-03-02 15:00:00,27,finished,Calder Vale,Oakhaven Rovers,Calder Vale,Oakhaven,CAL,OAK,0,0,0,0,0,0,Calder Vale Park,26361,2023
+20230504,2024-03-02 15:00:00,27,finished,Fernhill Town,Eastwick City,Fernhill,Eastwick,FER,EAS,0,1,0,1,0,0,Fernhill Park,37096,2023
+20231900,2024-03-02 15:00:00,27,finished,Upton Vale,Ashbury Rovers,Upton Vale,Ashbury,UPT,ASH,1,0,1,0,0,0,Upton Vale Park,29850,2023
+20230314,2024-03-02 17:30:00,27,finished,Dunmore Athletic,Pemberton Athletic,Dunmore,Pemberton,DUN,PEM,2,2,1,1,0,0,Dunmore Park,36208,2023
+20230718,2024-03-03 14:00:00,27,finished,Harrowmere Albion,Thornfield Albion,Harrowmere,Thornfield,HAR,THO,0,6,0,3,0,1,Harrowmere Park,30575,2023
+20231712,2024-03-03 16:30:00,27,finished,Stonebury City,Northcliffe City,Stonebury,Northcliffe,STO,NOR,1,1,1,1,0,0,Stonebury Park,34444,2023
+20230616,2024-03-04 20:00:00,27,finished,Glenbridge Wanderers,Redmarsh United,Glenbridge,Redmarsh,GLE,RED,0,4,0,1,0,0,Glenbridge Park,38221,2023
+20230915,2024-03-09 12:30:00,28,finished,Kestrel Park,Queensbury Town,Kestrel Park,Queensbury,KES,QUE,1,2,0,0,0,0,Kestrel Park Park,33719,2023
+20231011,2024-03-09 15:00:00,28,finished,Larkhill United,Marlow Heath,Larkhill,Marlow Heath,LAR,MAR,0,0,0,0,1,0,Larkhill Park,38776,2023
+20230208,2024-03-09 15:00:00,28,finished,Calder Vale,Ironvale Forest,Calder Vale,Ironvale,CAL,IRO,8,2,3,1,0,0,Calder Vale Park,35600,2023
+20230104,2024-03-09 15:00:00,28,finished,Brackenford United,Eastwick City,Brackenford,Eastwick,BRK,EAS,2,3,2,1,0,0,Brackenford Park,30713,2023
+20231913,2024-03-09 15:00:00,28,finished,Upton Vale,Oakhaven Rovers,Upton Vale,Oakhaven,UPT,OAK,3,4,2,2,0,0,Upton Vale Park,23606,2023
+20230514,2024-03-09 15:00:00,28,finished,Fernhill Town,Pemberton Athletic,Fernhill,Pemberton,FER,PEM,4,3,2,1,0,0,Fernhill Park,17182,2023
+20230700,2024-03-09 17:30:00,28,finished,Harrowmere Albion,Ashbury Rovers,Harrowmere,Ashbury,HAR,ASH,3,0,2,0,0,0,Harrowmere Park,32629,2023
+20230312,2024-03-10 14:00:00,28,finished,Dunmore Athletic,Northcliffe City,Dunmore,Northcliffe,DUN,NOR,0,3,0,2,0,0,Dunmore Park,33605,2023
+20230618,2024-03-10 16:30:00,28,finished,Glenbridge Wanderers,Thornfield Albion,Glenbridge,Thornfield,GLE,THO,1,0,1,0,0,0,Glenbridge Park,19695,2023
+20231716,2024-03-11 20:00:00,28,finished,Stonebury City,Redmarsh United,Stonebury,Redmarsh,STO,RED,0,1,0,1,0,1,Stonebury Park,24100,2023
+20231511,2024-03-16 12:30:00,29,finished,Queensbury Town,Marlow Heath,Queensbury,Marlow Heath,QUE,MAR,4,1,1,1,1,0,Queensbury Park,31754,2023
+20230209,2024-03-16 15:00:00,29,finished,Calder Vale,Kestrel Park,Calder Vale,Kestrel Park,CAL,KES,1,1,1,0,0,0,Calder Vale Park,25364,2023
+20231004,2024-03-16 15:00:00,29,finished,Larkhill United,Eastwick City,Larkhill,Eastwick,LAR,EAS,4,0,2,0,0,0,Larkhill Park,21302,2023
+20231908,2024-03-16 15:00:00,29,finished,Upton Vale,Ironvale Forest,Upton Vale,Ironvale,UPT,IRO,5,1,2,1,0,0,Upton Vale Park,30184,2023
+20230114,2024-03-16 15:00:00,29,finished,Brackenford United,Pemberton Athletic,Brackenford,Pemberton,BRK,PEM,2,1,0,0,0,0,Brackenford Park,27451,2023
+20230713,2024-03-16 15:00:00,29,finished,Harrowmere Albion,Oakhaven Rovers,Harrowmere,Oakhaven,HAR,OAK,1,1,0,0,0,0,Harrowmere Park,26321,2023
+20230512,2024-03-16 17:30:00,29,finished,Fernhill Town,Northcliffe City,Fernhill,Northcliffe,FER,NOR,3,5,1,1,0,0,Fernhill Park,34338,2023
+20230600,2024-03-17 14:00:00,29,finished,Glenbridge Wanderers,Ashbury Rovers,Glenbridge,Ashbury,GLE,ASH,0,4,0,2,0,0,Glenbridge Park,22902,2023
+20230316,2024-03-17 16:30:00,29,finished,Dunmore Athletic,Redmarsh United,Dunmore,Redmarsh,DUN,RED,1,5,0,3,0,0,Dunmore Park,26467,2023
+20231718,2024-03-18 20:00:00,29,finished,Stonebury City,Thornfield Albion,Stonebury,Thornfield,STO,THO,0,2,0,0,0,0,Stonebury Park,30393,2023
+20230215,2024-03-30 12:30:00,30,finished,Calder Vale,Queensbury Town,Calder Vale,Queensbury,CAL,QUE,0,0,0,0,0,0,Calder Vale Park,36936,2023
+20231104,2024-03-30 15:00:00,30,finished,Marlow Heath,Eastwick City,Marlow Heath,Eastwick,MAR,EAS,1,0,0,0,0,0,Marlow Heath Park,28631,2023
+20231909,2024-03-30 15:00:00,30,finished,Upton Vale,Kestrel Park,Upton Vale,Kestrel Park,UPT,KES,2,1,1,0,0,0,Upton Vale Park,26241,2023
+20231014,2024-03-30 15:00:00,30,finished,Larkhill United,Pemberton Athletic,Larkhill,Pemberton,LAR,PEM,3,0,3,0,0,0,Larkhill Park,38011,2023
+20230708,2024-03-30 15:00:00,30,finished,Harrowmere Albion,Ironvale Forest,Harrowmere,Ironvale,HAR,IRO,3,1,1,0,0,0,Harrowmere Park,36478,2023
+20230112,2024-03-30 15:00:00,30,finished,Brackenford United,Northcliffe City,Brackenford,Northcliffe,BRK,NOR,1,4,1,3,0,0,Brackenford Park,33660,2023
+20230613,2024-03-30 17:30:00,30,finished,Glenbridge Wanderers,Oakhaven Rovers,Glenbridge,Oakhaven,GLE,OAK,2,0,1,0,0,0,Glenbridge Park,29195,2023
+20230516,2024-03-31 14:00:00,30,finished,Fernhill Town,Redmarsh United,Fernhill,Redmarsh,FER,RED,0,2,0,1,0,0,Fernhill Park,38723,2023
+20231700,2024-03-31 16:30:00,30,finished,Stonebury City,Ashbury Rovers,Stonebury,Ashbury,STO,ASH,5,2,3,1,0,0,Stonebury Park,28761,2023
+20230318,2024-04-01 20:00:00,30,finished,Dunmore Athletic,Thornfield Albion,Dunmore,Thornfield,DUN,THO,2,0,0,0,0,0,Dunmore Park,42782,2023
+20231504,2024-04-06 12:30:00,31,finished,Queensbury Town,Eastwick City,Queensbury,Eastwick,QUE,EAS,1,0,0,0,0,0,Queensbury Park,34279,2023
+20231902,2024-04-06 15:00:00,31,finished,Upton Vale,Calder Vale,Upton Vale,Calder Vale,UPT,CAL,0,1,0,1,0,0,Upton Vale Park,32207,2023
+20231114,2024-04-06 15:00:00,31,finished,Marlow Heath,Pemberton Athletic,Marlow Heath,Pemberton,MAR,PEM,1,3,0,1,0,0,Marlow Heath Park,34920,2023
+20230709,2024-04-06 15:00:00,31,finished,Harrowmere Albion,Kestrel Park,Harrowmere,Kestrel Park,HAR,KES,1,1,0,0,0,0,Harrowmere Park,21456,2023
+20231012,2024-04-06 15:00:00,31,finished,Larkhill United,Northcliffe City,Larkhill,Northcliffe,LAR,NOR,0,2,0,2,0,0,Larkhill Park,29036,2023
+20230608,2024-04-06 15:00:00,31,finished,Glenbridge Wanderers,Ironvale Forest,Glenbridge,Ironvale,GLE,IRO,1,1,1,0,0,0,Glenbridge Park,23274,2023
+20230116,2024-04-06 17:30:00,31,finished,Brackenford United,Redmarsh United,Brackenford,Redmarsh,BRK,RED,1,3,0,2,0,0,Brackenford Park,31965,2023
+20231713,2024-04-07 14:00:00,31,finished,Stonebury City,Oakhaven Rovers,Stonebury,Oakhaven,STO,OAK,4,1,2,1,1,0,Stonebury Park,27197,2023
+20230518,2024-04-07 16:30:00,31,finished,Fernhill Town,Thornfield Albion,Fernhill,Thornfield,FER,THO,0,3,0,2,0,0,Fernhill Park,24738,2023
+20230300,2024-04-08 20:00:00,31,finished,Dunmore Athletic,Ashbury Rovers,Dunmore,Ashbury,DUN,ASH,0,3,0,2,0,0,Dunmore Park,33973,2023
+20231915,2024-04-13 12:30:00,32,finished,Upton Vale,Queensbury Town,Upton Vale,Queensbury,UPT,QUE,2,3,1,1,0,0,Upton Vale Park,36660,2023
+20230414,2024-04-13 15:00:00,32,finished,Eastwick City,Pemberton Athletic,Eastwick,Pemberton,EAS,PEM,4,0,0,0,0,0,Eastwick Park,34400,2023
+20230702,2024-04-13 15:00:00,32,finished,Harrowmere Albion,Calder Vale,Harrowmere,Calder Vale,HAR,CAL,0,3,0,3,0,0,Harrowmere Park,32730,2023
+20231112,2024-04-13 15:00:00,32,finished,Marlow Heath,Northcliffe City,Marlow Heath,Northcliffe,MAR,NOR,0,3,0,0,0,1,Marlow Heath Park,33181,2023
+20230609,2024-04-13 15:00:00,32,finished,Glenbridge Wanderers,Kestrel Park,Glenbridge,Kestrel Park,GLE,KES,0,0,0,0,0,0,Glenbridge Park,26670,2023
+20231016,2024-04-13 15:00:00,32,finished,Larkhill United,Redmarsh United,Larkhill,Redmarsh,LAR,RED,2,2,0,0,0,0,Larkhill Park,21338,2023
+20231708,2024-04-13 17:30:00,32,finished,Stonebury City,Ironvale Forest,Stonebury,Ironvale,STO,IRO,1,2,1,0,0,0,Stonebury Park,37205,2023
+20230118,2024-04-14 14:00:00,32,finished,Brackenford United,Thornfield Albion,Brackenford,Thornfield,BRK,THO,1,2,1,1,0,0,Brackenford Park,34051,2023
+20230313,2024-04-14 16:30:00,32,finished,Dunmore Athletic,Oakhaven Rovers,Dunmore,Oakhaven,DUN,OAK,1,4,0,1,0,0,Dunmore Park,26540,2023
+20230500,2024-04-15 20:00:00,32,finished,Fernhill Town,Ashbury Rovers,Fernhill,Ashbury,FER,ASH,0,1,0,0,0,0,Fernhill Park,30627,2023
+20231514,2024-04-20 12:30:00,33,finished,Queensbury Town,Pemberton Athletic,Queensbury,Pemberton,QUE,PEM,4,2,1,1,0,0,Queensbury Park,32241,2023
+20230719,2024-04-20 15:00:00,33,finished,Harrowmere Albion,Upton Vale,Harrowmere,Upton Vale,HAR,UPT,1,2,1,1,0,0,Harrowmere Park,24023,2023
+20230412,2024-04-20 15:00:00,33,finished,Eastwick City,Northcliffe City,Eastwick,Northcliffe,EAS,NOR,0,2,0,0,0,0,Eastwick Park,21227,2023
+20230602,2024-04-20 15:00:00,33,finished,Glenbridge Wanderers,Calder Vale,Glenbridge,Calder Vale,GLE,CAL,0,3,0,0,0,1,Glenbridge Park,21115,2023
+20231116,2024-04-20 15:00:00,33,finished,Marlow Heath,Redmarsh United,Marlow Heath,Redmarsh,MAR,RED,1,2,0,0,0,0,Marlow Heath Park,22080,2023
+20231709,2024-04-20 15:00:00,33,finished,Stonebury City,Kestrel Park,Stonebury,Kestrel Park,STO,KES,1,0,1,0,0,0,Stonebury Park,36652,2023
+20231018,2024-04-20 17:30:00,33,finished,Larkhill United,Thornfield Albion,Larkhill,Thornfield,LAR,THO,1,3,0,1,0,0,Larkhill Park,26267,2023
+20230308,2024-04-21 14:00:00,33,finished,Dunmore Athletic,Ironvale Forest,Dunmore,Ironvale,DUN,IRO,2,1,1,0,0,0,Dunmore Park,24816,2023
+20230100,2024-04-21 16:30:00,33,finished,Brackenford United,Ashbury Rovers,Brackenford,Ashbury,BRK,ASH,2,8,0,2,0,0,Brackenford Park,32101,2023
+20230513,2024-04-22 20:00:00,33,finished,Fernhill Town,Oakhaven Rovers,Fernhill,Oakhaven,FER,OAK,1,2,0,0,0,0,Fernhill Park,27322,2023
+20230715,2024-04-27 12:30:00,34,finished,Harrowmere Albion,Queensbury Town,Harrowmere,Queensbury,HAR,QUE,1,2,1,0,0,0,Harrowmere Park,30379,2023
+20231412,2024-04-27 15:00:00,34,finished,Pemberton Athletic,Northcliffe City,Pemberton,Northcliffe,PEM,NOR,0,1,0,0,0,0,Pemberton Park,31414,2023
+20230619,2024-04-27 15:00:00,34,finished,Glenbridge Wanderers,Upton Vale,Glenbridge,Upton Vale,GLE,UPT,1,5,0,1,0,0,Glenbridge Park,22774,2023
+20230416,2024-04-27 15:00:00,34,finished,Eastwick City,Redmarsh United,Eastwick,Redmarsh,EAS,RED,2,1,0,0,0,0,Eastwick Park,28492,2023
+20231702,2024-04-27 15:00:00,34,finished,Stonebury City,Calder Vale,Stonebury,Calder Vale,STO,CAL,1,1,1,0,0,0,Stonebury Park,31684,2023
+20231118,2024-04-27 15:00:00,34,finished,Marlow Heath,Thornfield Albion,Marlow Heath,Thornfield,MAR,THO,1,0,0,0,0,1,Marlow Heath Park,23922,2023
+20230309,2024-04-27 17:30:00,34,finished,Dunmore Athletic,Kestrel Park,Dunmore,Kestrel Park,DUN,KES,2,2,0,1,0,0,Dunmore Park,31459,2023
+20231000,2024-04-28 14:00:00,34,finished,Larkhill United,Ashbury Rovers,Larkhill,Ashbury,LAR,ASH,1,1,0,1,0,0,Larkhill Park,32396,2023
+20230508,2024-04-28 16:30:00,34,finished,Fernhill Town,Ironvale Forest,Fernhill,Ironvale,FER,IRO,0,0,0,0,1,0,Fernhill Park,30450,2023
+20230113,2024-04-29 20:00:00,34,finished,Brackenford United,Oakhaven Rovers,Brackenford,Oakhaven,BRK,OAK,1,1,1,0,0,0,Brackenford Park,29130,2023
+20231512,2024-05-04 12:30:00,35,finished,Queensbury Town,Northcliffe City,Queensbury,Northcliffe,QUE,NOR,1,1,0,1,0,0,Queensbury Park,33720,2023
+20230607,2024-05-04 15:00:00,35,finished,Glenbridge Wanderers,Harrowmere Albion,Glenbridge,Harrowmere,GLE,HAR,1,2,1,1,0,0,Glenbridge Park,23299,2023
+20231416,2024-05-04 15:00:00,35,finished,Pemberton Athletic,Redmarsh United,Pemberton,Redmarsh,PEM,RED,3,4,0,3,0,1,Pemberton Park,34364,2023
+20231719,2024-05-04 15:00:00,35,finished,Stonebury City,Upton Vale,Stonebury,Upton Vale,STO,UPT,3,1,0,0,0,0,Stonebury Park,21906,2023
+20230418,2024-05-04 15:00:00,35,finished,Eastwick City,Thornfield Albion,Eastwick,Thornfield,EAS,THO,0,1,0,1,0,0,Eastwick Park,28342,2023
+20230302,2024-05-04 15:00:00,35,finished,Dunmore Athletic,Calder Vale,Dunmore,Calder Vale,DUN,CAL,1,4,0,1,0,0,Dunmore Park,45824,2023
+20231100,2024-05-04 17:30:00,35,finished,Marlow Heath,Ashbury Rovers,Marlow Heath,Ashbury,MAR,ASH,3,0,2,0,0,0,Marlow Heath Park,29300,2023
+20230509,2024-05-05 14:00:00,35,finished,Fernhill Town,Kestrel Park,Fernhill,Kestrel Park,FER,KES,0,0,0,0,0,0,Fernhill Park,26187,2023
+20231013,2024-05-05 16:30:00,35,finished,Larkhill United,Oakhaven Rovers,Larkhill,Oakhaven,LAR,OAK,1,2,1,1,0,0,Larkhill Park,36155,2023
+20230108,2024-05-06 20:00:00,35,finished,Brackenford United,Ironvale Forest,Brackenford,Ironvale,BRK,IRO,1,0,0,0,0,0,Brackenford Park,27464,2023
+20230615,2024-05-11 12:30:00,36,finished,Glenbridge Wanderers,Queensbury Town,Glenbridge,Queensbury,GLE,QUE,0,5,0,1,0,0,Glenbridge Park,31423,2023
+20231216,2024-05-11 15:00:00,36,finished,Northcliffe City,Redmarsh United,Northcliffe,Redmarsh,NOR,RED,1,0,0,0,0,0,Northcliffe Park,26956,2023
+20231707,2024-05-11 15:00:00,36,finished,Stonebury City,Harrowmere Albion,Stonebury,Harrowmere,STO,HAR,3,2,1,1,0,0,Stonebury Park,17785,2023
+20231418,2024-05-11 15:00:00,36,finished,Pemberton Athletic,Thornfield Albion,Pemberton,Thornfield,PEM,THO,3,2,0,0,0,0,Pemberton Park,19446,2023
+20230319,2024-05-11 15:00:00,36,finished,Dunmore Athletic,Upton Vale,Dunmore,Upton Vale,DUN,UPT,1,1,0,1,0,0,Dunmore Park,29512,2023
+20230400,2024-05-11 15:00:00,36,finished,Eastwick City,Ashbury Rovers,Eastwick,Ashbury,EAS,ASH,3,0,2,0,0,1,Eastwick Park,34845,2023
+20230502,2024-05-11 17:30:00,36,finished,Fernhill Town,Calder Vale,Fernhill,Calder Vale,FER,CAL,1,2,0,2,0,0,Fernhill Park,29487,2023
+20231113,2024-05-12 14:00:00,36,finished,Marlow Heath,Oakhaven Rovers,Marlow Heath,Oakhaven,MAR,OAK,1,1,0,0,0,0,Marlow Heath Park,18178,2023
+20230109,2024-05-12 16:30:00,36,finished,Brackenford United,Kestrel Park,Brackenford,Kestrel Park,BRK,KES,1,1,0,1,0,0,Brackenford Park,42609,2023
+20231008,2024-05-13 20:00:00,36,finished,Larkhill United,Ironvale Forest,Larkhill,Ironvale,LAR,IRO,2,4,2,1,0,0,Larkhill Park,26038,2023
+20231516,2024-05-18 12:30:00,37,finished,Queensbury Town,Redmarsh United,Queensbury,Redmarsh,QUE,RED,1,2,1,2,0,0,Queensbury Park,32193,2023
+20231706,2024-05-18 15:00:00,37,finished,Stonebury City,Glenbridge Wanderers,Stonebury,Glenbridge,STO,GLE,4,0,0,0,0,0,Stonebury Park,33067,2023
+20231218,2024-05-18 15:00:00,37,finished,Northcliffe City,Thornfield Albion,Northcliffe,Thornfield,NOR,THO,0,0,0,0,0,0,Northcliffe Park,37163,2023
+20230307,2024-05-18 15:00:00,37,finished,Dunmore Athletic,Harrowmere Albion,Dunmore,Harrowmere,DUN,HAR,0,1,0,0,0,0,Dunmore Park,27767,2023
+20231400,2024-05-18 15:00:00,37,finished,Pemberton Athletic,Ashbury Rovers,Pemberton,Ashbury,PEM,ASH,0,2,0,1,0,0,Pemberton Park,35599,2023
+20230519,2024-05-18 15:00:00,37,finished,Fernhill Town,Upton Vale,Fernhill,Upton Vale,FER,UPT,1,0,0,0,0,0,Fernhill Park,41432,2023
+20230413,2024-05-18 17:30:00,37,finished,Eastwick City,Oakhaven Rovers,Eastwick,Oakhaven,EAS,OAK,0,0,0,0,0,0,Eastwick Park,34889,2023
+20230102,2024-05-19 14:00:00,37,finished,Brackenford United,Calder Vale,Brackenford,Calder Vale,BRK,CAL,1,0,0,0,0,0,Brackenford Park,33812,2023
+20231108,2024-05-19 16:30:00,37,finished,Marlow Heath,Ironvale Forest,Marlow Heath,Ironvale,MAR,IRO,1,3,1,2,0,0,Marlow Heath Park,32214,2023
+20231009,2024-05-20 20:00:00,37,finished,Larkhill United,Kestrel Park,Larkhill,Kestrel Park,LAR,KES,0,0,0,0,0,0,Larkhill Park,24605,2023
+20231715,2024-05-25 12:30:00,38,finished,Stonebury City,Queensbury Town,Stonebury,Queensbury,STO,QUE,2,1,2,0,0,0,Stonebury Park,22226,2023
+20231618,2024-05-25 15:00:00,38,finished,Redmarsh United,Thornfield Albion,Redmarsh,Thornfield,RED,THO,0,1,0,1,0,0,Redmarsh Park,34204,2023
+20230306,2024-05-25 15:00:00,38,finished,Dunmore Athletic,Glenbridge Wanderers,Dunmore,Glenbridge,DUN,GLE,3,0,1,0,0,0,Dunmore Park,28506,2023
+20231200,2024-05-25 15:00:00,38,finished,Northcliffe City,Ashbury Rovers,Northcliffe,Ashbury,NOR,ASH,0,1,0,1,0,0,Northcliffe Park,29332,2023
+20230507,2024-05-25 15:00:00,38,finished,Fernhill Town,Harrowmere Albion,Fernhill,Harrowmere,FER,HAR,2,1,1,0,0,0,Fernhill Park,21757,2023
+20231413,2024-05-25 15:00:00,38,finished,Pemberton Athletic,Oakhaven Rovers,Pemberton,Oakhaven,PEM,OAK,1,1,1,0,0,0,Pemberton Park,22606,2023
+20230119,2024-05-25 17:30:00,38,finished,Brackenford United,Upton Vale,Brackenford,Upton Vale,BRK,UPT,3,4,0,1,0,0,Brackenford Park,30880,2023
+20230408,2024-05-26 14:00:00,38,finished,Eastwick City,Ironvale Forest,Eastwick,Ironvale,EAS,IRO,1,2,0,2,0,0,Eastwick Park,30220,2023
+20231002,2024-05-26 16:30:00,38,finished,Larkhill United,Calder Vale,Larkhill,Calder Vale,LAR,CAL,1,1,0,0,1,0,Larkhill Park,23783,2023
+20231109,2024-05-27 20:00:00,38,finished,Marlow Heath,Kestrel Park,Marlow Heath,Kestrel Park,MAR,KES,0,2,0,0,0,0,Marlow Heath Park,21424,2023

@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-10-11T03:48:51+00:00",
+  "dataset": {
+    "name": "demo",
+    "label": "Demo league (synthetic)",
+    "synthetic": true
+  },
+  "server": "one `epl serve` process (single uvicorn worker), SQLite, localhost",
+  "machine": {
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "logical_cpus": 16,
+    "memory_gib": 15.4,
+    "python": "3.12.15"
+  },
+  "parameters": {
+    "requests": 2000,
+    "concurrency": 8,
+    "burst": 30,
+    "seed": 7,
+    "out": null
+  },
+  "workloads": {
+    "read_mix": {
+      "requests": 2000,
+      "wall_seconds": 15.308,
+      "throughput_rps": 130.6,
+      "status_counts": {
+        "200": 2000
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 59.2,
+        "p95": 91.3,
+        "p99": 148.9,
+        "max": 177.1
+      },
+      "by_endpoint": {
+        "elo": {
+          "n": 279,
+          "p50_ms": 56.6,
+          "p95_ms": 95.5,
+          "mean_ms": 59.1
+        },
+        "matchup": {
+          "n": 297,
+          "p50_ms": 55.5,
+          "p95_ms": 80.4,
+          "mean_ms": 55.9
+        },
+        "meta": {
+          "n": 289,
+          "p50_ms": 56.8,
+          "p95_ms": 87.5,
+          "mean_ms": 58.0
+        },
+        "ratings": {
+          "n": 269,
+          "p50_ms": 52.5,
+          "p95_ms": 77.1,
+          "mean_ms": 52.5
+        },
+        "simulation": {
+          "n": 260,
+          "p50_ms": 72.0,
+          "p95_ms": 107.7,
+          "mean_ms": 74.2
+        },
+        "standings": {
+          "n": 305,
+          "p50_ms": 67.0,
+          "p95_ms": 91.8,
+          "mean_ms": 67.6
+        },
+        "upcoming": {
+          "n": 301,
+          "p50_ms": 59.8,
+          "p95_ms": 88.1,
+          "mean_ms": 61.1
+        }
+      },
+      "server_cpu_seconds": 0.0
+    },
+    "cold_simulations": {
+      "requests": 10,
+      "wall_seconds": 2.939,
+      "throughput_rps": 3.4,
+      "status_counts": {
+        "200": 10
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 292.8,
+        "p95": 321.3,
+        "p99": 323.6,
+        "max": 324.2
+      },
+      "by_endpoint": {
+        "cold simulation": {
+          "n": 10,
+          "p50_ms": 292.8,
+          "p95_ms": 321.3,
+          "mean_ms": 293.9
+        }
+      }
+    },
+    "adversarial_burst": {
+      "requests": 30,
+      "wall_seconds": 1.186,
+      "throughput_rps": 25.3,
+      "status_counts": {
+        "200": 11,
+        "429": 19
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 303.3,
+        "p95": 1107.3,
+        "p99": 1157.6,
+        "max": 1175.7
+      },
+      "by_endpoint": {
+        "uncached burst": {
+          "n": 30,
+          "p50_ms": 303.3,
+          "p95_ms": 1107.3,
+          "mean_ms": 483.7
+        }
+      }
+    }
+  },
+  "server_usage": {
+    "start": {
+      "cpu_seconds": 0.0,
+      "rss_mib": 5.8
+    },
+    "end": {
+      "cpu_seconds": 0.0,
+      "rss_mib": 5.8
+    }
+  },
+  "note": "Run before response memoisation and before two benchmark fixes. Only the read_mix phase is comparable with later runs. cold_simulations and adversarial_burst were not isolated (the real database already held cached simulations from earlier runs), and server_usage measured only the Windows venv launcher process."
+}

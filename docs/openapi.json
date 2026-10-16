@@ -1,0 +1,2815 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "EPL Forecast API",
+    "description": "\nForecasts for the English Premier League from a time-weighted Dixon-Coles goals\nmodel, with walk-forward evaluation and Monte Carlo season simulation.\n\nAll probabilities are produced *before kickoff* from data available at the time.\n",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/v1/health": {
+      "get": {
+        "tags": [
+          "system"
+        ],
+        "summary": "Liveness probe",
+        "operationId": "health_api_v1_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/ready": {
+      "get": {
+        "tags": [
+          "system"
+        ],
+        "summary": "Readiness probe: database and model loaded",
+        "operationId": "ready_api_v1_ready_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Readiness"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/meta": {
+      "get": {
+        "tags": [
+          "system"
+        ],
+        "summary": "What data and model the API is serving",
+        "operationId": "meta_api_v1_meta_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Meta"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/teams": {
+      "get": {
+        "tags": [
+          "teams"
+        ],
+        "summary": "Every team in the database",
+        "operationId": "teams_api_v1_teams_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/Team"
+                  },
+                  "type": "array",
+                  "title": "Response Teams Api V1 Teams Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/ratings": {
+      "get": {
+        "tags": [
+          "teams"
+        ],
+        "summary": "Current strength of every team in the current season",
+        "operationId": "ratings_api_v1_ratings_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/TeamRating"
+                  },
+                  "type": "array",
+                  "title": "Response Ratings Api V1 Ratings Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/teams/{team_id}/elo": {
+      "get": {
+        "tags": [
+          "teams"
+        ],
+        "summary": "A team's Elo rating over time",
+        "operationId": "elo_api_v1_teams__team_id__elo_get",
+        "parameters": [
+          {
+            "name": "team_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Team Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EloPoint"
+                  },
+                  "title": "Response Elo Api V1 Teams  Team Id  Elo Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/seasons/{season}/fixtures": {
+      "get": {
+        "tags": [
+          "seasons"
+        ],
+        "summary": "Fixtures and results",
+        "operationId": "fixtures_api_v1_seasons__season__fixtures_get",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "maximum": 2100,
+              "minimum": 2000,
+              "description": "Season start year, e.g. 2026 for 2026/27",
+              "title": "Season"
+            },
+            "description": "Season start year, e.g. 2026 for 2026/27"
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "enum": [
+                    "finished",
+                    "scheduled"
+                  ],
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Status"
+            }
+          },
+          {
+            "name": "matchweek",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 38,
+                  "minimum": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Matchweek"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Fixture"
+                  },
+                  "title": "Response Fixtures Api V1 Seasons  Season  Fixtures Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/seasons/{season}/standings": {
+      "get": {
+        "tags": [
+          "seasons"
+        ],
+        "summary": "League table",
+        "operationId": "standings_api_v1_seasons__season__standings_get",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "maximum": 2100,
+              "minimum": 2000,
+              "description": "Season start year, e.g. 2026 for 2026/27",
+              "title": "Season"
+            },
+            "description": "Season start year, e.g. 2026 for 2026/27"
+          },
+          {
+            "name": "as_of_matchweek",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 38,
+                  "minimum": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Use only results before this matchweek",
+              "title": "As Of Matchweek"
+            },
+            "description": "Use only results before this matchweek"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/StandingRow"
+                  },
+                  "title": "Response Standings Api V1 Seasons  Season  Standings Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/seasons/{season}/simulation": {
+      "get": {
+        "tags": [
+          "seasons"
+        ],
+        "summary": "Monte Carlo simulation of the rest of the season",
+        "description": "Refits the goals model on everything known at the cutoff and simulates the remaining fixtures. Results are cached in the database, keyed by the data and model version. Uncached requests are rate limited per client (429) and share a bounded pool of workers (503 when saturated); `runs` must be one of the configured sizes (default 1,000 or 10,000).",
+        "operationId": "simulation_api_v1_seasons__season__simulation_get",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "maximum": 2100,
+              "minimum": 2000,
+              "description": "Season start year, e.g. 2026 for 2026/27",
+              "title": "Season"
+            },
+            "description": "Season start year, e.g. 2026 for 2026/27"
+          },
+          {
+            "name": "as_of_matchweek",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 38,
+                  "minimum": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Use only results before this matchweek",
+              "title": "As Of Matchweek"
+            },
+            "description": "Use only results before this matchweek"
+          },
+          {
+            "name": "runs",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "description": "Number of simulated seasons; an allowed size",
+              "default": 10000,
+              "title": "Runs"
+            },
+            "description": "Number of simulated seasons; an allowed size"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Simulation"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/predictions/upcoming": {
+      "get": {
+        "tags": [
+          "predictions"
+        ],
+        "summary": "Forecasts for the next fixtures",
+        "operationId": "upcoming_api_v1_predictions_upcoming_get",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 380,
+              "minimum": 1,
+              "default": 10,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "matchweek",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 38,
+                  "minimum": 1
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Only this matchweek",
+              "title": "Matchweek"
+            },
+            "description": "Only this matchweek"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UpcomingPredictions"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/predictions/matchup": {
+      "get": {
+        "tags": [
+          "predictions"
+        ],
+        "summary": "Forecast any home/away pairing",
+        "operationId": "matchup_api_v1_predictions_matchup_get",
+        "parameters": [
+          {
+            "name": "home",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 2,
+              "examples": [
+                "Ashbury Rovers"
+              ],
+              "title": "Home"
+            }
+          },
+          {
+            "name": "away",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 2,
+              "examples": [
+                "Calder Vale"
+              ],
+              "title": "Away"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Matchup"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/predictions/live": {
+      "get": {
+        "tags": [
+          "predictions"
+        ],
+        "summary": "How the logged pre-kickoff forecasts have scored this season",
+        "operationId": "live_api_v1_predictions_live_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LivePerformance"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/predictions/log": {
+      "get": {
+        "tags": [
+          "predictions"
+        ],
+        "summary": "Track record: each match's latest pre-kickoff forecast and its score",
+        "description": "One row per match: the latest forecast logged strictly before kickoff (the rule /predictions/live scores), newest kickoff first. Paged in the database. A season with no logged forecasts returns an empty page. Offset pages can shift between requests if forecasts are logged in the meantime.",
+        "operationId": "log_api_v1_predictions_log_get",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 2100,
+                  "minimum": 2000
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Season start year; defaults to the current season",
+              "title": "Season"
+            },
+            "description": "Season start year; defaults to the current season"
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "enum": [
+                    "finished",
+                    "pending"
+                  ],
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "finished, or pending (anything not yet finished)",
+              "title": "Status"
+            },
+            "description": "finished, or pending (anything not yet finished)"
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100,
+              "minimum": 1,
+              "default": 20,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 10000,
+              "minimum": 0,
+              "default": 0,
+              "title": "Offset"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PredictionLog"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/models": {
+      "get": {
+        "tags": [
+          "models"
+        ],
+        "summary": "Registered models and their cards",
+        "operationId": "models_api_v1_models_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ModelCardOut"
+                  },
+                  "type": "array",
+                  "title": "Response Models Api V1 Models Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/evaluation/backtest": {
+      "get": {
+        "tags": [
+          "models"
+        ],
+        "summary": "Walk-forward backtest report",
+        "description": "Per season: a leaderboard with bootstrap 95% CIs for RPS, log loss, Brier and accuracy; paired tests against the baseline and the best model; calibration curves; RPS by matchweek; confusion matrices.",
+        "operationId": "backtest_api_v1_evaluation_backtest_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BacktestReport"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/admin/refresh": {
+      "post": {
+        "tags": [
+          "admin"
+        ],
+        "summary": "Pull new results and retrain",
+        "operationId": "refresh_api_v1_admin_refresh_post",
+        "parameters": [
+          {
+            "name": "x-admin-token",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-Admin-Token"
+            }
+          }
+        ],
+        "responses": {
+          "202": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobAccepted"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/admin/jobs/{job_id}": {
+      "get": {
+        "tags": [
+          "admin"
+        ],
+        "summary": "Status of a background job",
+        "operationId": "job_api_v1_admin_jobs__job_id__get",
+        "parameters": [
+          {
+            "name": "job_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Job Id"
+            }
+          },
+          {
+            "name": "x-admin-token",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-Admin-Token"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Job"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Model not available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Problem"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BacktestReport": {
+        "properties": {
+          "generated_at": {
+            "type": "string",
+            "title": "Generated At"
+          },
+          "dataset": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Dataset"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "tuning_season": {
+            "type": "integer",
+            "title": "Tuning Season"
+          },
+          "holdout_season": {
+            "type": "integer",
+            "title": "Holdout Season"
+          },
+          "step_days": {
+            "type": "integer",
+            "title": "Step Days"
+          },
+          "hyperparameters": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Hyperparameters"
+          },
+          "seasons": {
+            "additionalProperties": {
+              "$ref": "#/components/schemas/SeasonReport"
+            },
+            "type": "object",
+            "title": "Seasons"
+          }
+        },
+        "type": "object",
+        "required": [
+          "generated_at",
+          "tuning_season",
+          "holdout_season",
+          "step_days",
+          "hyperparameters",
+          "seasons"
+        ],
+        "title": "BacktestReport"
+      },
+      "Calibration": {
+        "properties": {
+          "curves": {
+            "additionalProperties": {
+              "items": {
+                "$ref": "#/components/schemas/CalibrationPoint"
+              },
+              "type": "array"
+            },
+            "type": "object",
+            "title": "Curves"
+          },
+          "ece": {
+            "type": "number",
+            "title": "Ece",
+            "description": "Expected calibration error, averaged over outcomes"
+          }
+        },
+        "type": "object",
+        "required": [
+          "curves",
+          "ece"
+        ],
+        "title": "Calibration"
+      },
+      "CalibrationPoint": {
+        "properties": {
+          "forecast": {
+            "type": "number",
+            "title": "Forecast"
+          },
+          "observed": {
+            "type": "number",
+            "title": "Observed"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "forecast",
+          "observed",
+          "count"
+        ],
+        "title": "CalibrationPoint"
+      },
+      "Comparison": {
+        "properties": {
+          "difference": {
+            "$ref": "#/components/schemas/Estimate",
+            "description": "Mean per-match RPS difference (this model - other)"
+          },
+          "t_statistic": {
+            "type": "number",
+            "title": "T Statistic"
+          },
+          "p_value": {
+            "type": "number",
+            "title": "P Value"
+          }
+        },
+        "type": "object",
+        "required": [
+          "difference",
+          "t_statistic",
+          "p_value"
+        ],
+        "title": "Comparison"
+      },
+      "Dataset": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "synthetic": {
+            "type": "boolean",
+            "title": "Synthetic"
+          },
+          "redistributable": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Redistributable",
+            "description": "null = permission not established"
+          },
+          "has_match_stats": {
+            "type": "boolean",
+            "title": "Has Match Stats"
+          },
+          "license": {
+            "type": "string",
+            "title": "License"
+          },
+          "source_url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Url"
+          },
+          "notes": {
+            "type": "string",
+            "title": "Notes"
+          }
+        },
+        "type": "object",
+        "required": [
+          "name",
+          "label",
+          "synthetic",
+          "redistributable",
+          "has_match_stats",
+          "license",
+          "source_url",
+          "notes"
+        ],
+        "title": "Dataset"
+      },
+      "EloPoint": {
+        "properties": {
+          "match_id": {
+            "type": "integer",
+            "title": "Match Id"
+          },
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "kickoff": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff"
+          },
+          "elo": {
+            "type": "number",
+            "title": "Elo"
+          }
+        },
+        "type": "object",
+        "required": [
+          "match_id",
+          "season",
+          "kickoff",
+          "elo"
+        ],
+        "title": "EloPoint"
+      },
+      "Estimate": {
+        "properties": {
+          "mean": {
+            "type": "number",
+            "title": "Mean"
+          },
+          "low": {
+            "type": "number",
+            "title": "Low",
+            "description": "Bootstrap 95% CI lower bound"
+          },
+          "high": {
+            "type": "number",
+            "title": "High",
+            "description": "Bootstrap 95% CI upper bound"
+          }
+        },
+        "type": "object",
+        "required": [
+          "mean",
+          "low",
+          "high"
+        ],
+        "title": "Estimate"
+      },
+      "Fixture": {
+        "properties": {
+          "match_id": {
+            "type": "integer",
+            "title": "Match Id"
+          },
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "matchweek": {
+            "type": "integer",
+            "title": "Matchweek"
+          },
+          "kickoff": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff"
+          },
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "home_team": {
+            "type": "string",
+            "title": "Home Team"
+          },
+          "away_team": {
+            "type": "string",
+            "title": "Away Team"
+          },
+          "home_goals": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Home Goals"
+          },
+          "away_goals": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Away Goals"
+          }
+        },
+        "type": "object",
+        "required": [
+          "match_id",
+          "season",
+          "matchweek",
+          "kickoff",
+          "status",
+          "home_team",
+          "away_team",
+          "home_goals",
+          "away_goals"
+        ],
+        "title": "Fixture"
+      },
+      "FixturePrediction": {
+        "properties": {
+          "match_id": {
+            "type": "integer",
+            "title": "Match Id"
+          },
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "matchweek": {
+            "type": "integer",
+            "title": "Matchweek"
+          },
+          "kickoff": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff"
+          },
+          "home_team": {
+            "type": "string",
+            "title": "Home Team"
+          },
+          "away_team": {
+            "type": "string",
+            "title": "Away Team"
+          },
+          "p_home": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Home"
+          },
+          "p_draw": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Draw"
+          },
+          "p_away": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Away"
+          },
+          "expected_home_goals": {
+            "type": "number",
+            "title": "Expected Home Goals"
+          },
+          "expected_away_goals": {
+            "type": "number",
+            "title": "Expected Away Goals"
+          },
+          "over_2_5": {
+            "type": "number",
+            "title": "Over 2 5"
+          },
+          "both_teams_score": {
+            "type": "number",
+            "title": "Both Teams Score"
+          },
+          "home_clean_sheet": {
+            "type": "number",
+            "title": "Home Clean Sheet"
+          },
+          "away_clean_sheet": {
+            "type": "number",
+            "title": "Away Clean Sheet"
+          },
+          "top_scorelines": {
+            "items": {
+              "$ref": "#/components/schemas/Scoreline"
+            },
+            "type": "array",
+            "title": "Top Scorelines"
+          }
+        },
+        "type": "object",
+        "required": [
+          "match_id",
+          "season",
+          "matchweek",
+          "kickoff",
+          "home_team",
+          "away_team",
+          "p_home",
+          "p_draw",
+          "p_away",
+          "expected_home_goals",
+          "expected_away_goals",
+          "over_2_5",
+          "both_teams_score",
+          "home_clean_sheet",
+          "away_clean_sheet",
+          "top_scorelines"
+        ],
+        "title": "FixturePrediction"
+      },
+      "Health": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "const": "ok",
+            "title": "Status"
+          },
+          "version": {
+            "type": "string",
+            "title": "Version"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status",
+          "version"
+        ],
+        "title": "Health"
+      },
+      "Job": {
+        "properties": {
+          "job_id": {
+            "type": "string",
+            "title": "Job Id"
+          },
+          "kind": {
+            "type": "string",
+            "title": "Kind"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "queued",
+              "running",
+              "succeeded",
+              "failed"
+            ],
+            "title": "Status"
+          },
+          "owner": {
+            "type": "string",
+            "title": "Owner",
+            "description": "host:pid of the process that ran the job"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At"
+          },
+          "started_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Started At"
+          },
+          "finished_at": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Finished At"
+          },
+          "error": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Error"
+          }
+        },
+        "type": "object",
+        "required": [
+          "job_id",
+          "kind",
+          "status",
+          "owner",
+          "created_at"
+        ],
+        "title": "Job"
+      },
+      "JobAccepted": {
+        "properties": {
+          "job_id": {
+            "type": "string",
+            "title": "Job Id"
+          },
+          "status": {
+            "type": "string",
+            "title": "Status"
+          }
+        },
+        "type": "object",
+        "required": [
+          "job_id",
+          "status"
+        ],
+        "title": "JobAccepted"
+      },
+      "LivePerformance": {
+        "properties": {
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "n": {
+            "type": "integer",
+            "title": "N"
+          },
+          "pending": {
+            "type": "integer",
+            "title": "Pending",
+            "default": 0
+          },
+          "metrics": {
+            "anyOf": [
+              {
+                "additionalProperties": {
+                  "$ref": "#/components/schemas/Estimate"
+                },
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Metrics"
+          }
+        },
+        "type": "object",
+        "required": [
+          "season",
+          "n"
+        ],
+        "title": "LivePerformance"
+      },
+      "LoggedForecast": {
+        "properties": {
+          "match_id": {
+            "type": "integer",
+            "title": "Match Id"
+          },
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "matchweek": {
+            "type": "integer",
+            "title": "Matchweek"
+          },
+          "kickoff": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff",
+            "description": "UK local time, as for every other kickoff in this API"
+          },
+          "kickoff_utc": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff Utc",
+            "description": "The same instant in UTC"
+          },
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "home_team": {
+            "type": "string",
+            "title": "Home Team"
+          },
+          "away_team": {
+            "type": "string",
+            "title": "Away Team"
+          },
+          "prediction_id": {
+            "type": "integer",
+            "title": "Prediction Id"
+          },
+          "model_version": {
+            "type": "string",
+            "title": "Model Version"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At",
+            "description": "When the forecast was logged (UTC); always before kickoff"
+          },
+          "p_home": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Home"
+          },
+          "p_draw": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Draw"
+          },
+          "p_away": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Away"
+          },
+          "home_goals": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Home Goals",
+            "description": "Null until the match is finished"
+          },
+          "away_goals": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Away Goals",
+            "description": "Null until the match is finished"
+          },
+          "rps": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Rps",
+            "description": "Ranked probability score of this forecast; null until finished"
+          }
+        },
+        "type": "object",
+        "required": [
+          "match_id",
+          "season",
+          "matchweek",
+          "kickoff",
+          "kickoff_utc",
+          "status",
+          "home_team",
+          "away_team",
+          "prediction_id",
+          "model_version",
+          "created_at",
+          "p_home",
+          "p_draw",
+          "p_away",
+          "home_goals",
+          "away_goals",
+          "rps"
+        ],
+        "title": "LoggedForecast",
+        "description": "One match in the track record: the latest forecast logged before its kickoff."
+      },
+      "Matchup": {
+        "properties": {
+          "match_id": {
+            "type": "integer",
+            "title": "Match Id"
+          },
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "matchweek": {
+            "type": "integer",
+            "title": "Matchweek"
+          },
+          "kickoff": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Kickoff"
+          },
+          "home_team": {
+            "type": "string",
+            "title": "Home Team"
+          },
+          "away_team": {
+            "type": "string",
+            "title": "Away Team"
+          },
+          "p_home": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Home"
+          },
+          "p_draw": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Draw"
+          },
+          "p_away": {
+            "type": "number",
+            "maximum": 1.0,
+            "minimum": 0.0,
+            "title": "P Away"
+          },
+          "expected_home_goals": {
+            "type": "number",
+            "title": "Expected Home Goals"
+          },
+          "expected_away_goals": {
+            "type": "number",
+            "title": "Expected Away Goals"
+          },
+          "over_2_5": {
+            "type": "number",
+            "title": "Over 2 5"
+          },
+          "both_teams_score": {
+            "type": "number",
+            "title": "Both Teams Score"
+          },
+          "home_clean_sheet": {
+            "type": "number",
+            "title": "Home Clean Sheet"
+          },
+          "away_clean_sheet": {
+            "type": "number",
+            "title": "Away Clean Sheet"
+          },
+          "top_scorelines": {
+            "items": {
+              "$ref": "#/components/schemas/Scoreline"
+            },
+            "type": "array",
+            "title": "Top Scorelines"
+          },
+          "score_matrix": {
+            "items": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
+            },
+            "type": "array",
+            "title": "Score Matrix",
+            "description": "P(home i, away j) for 0..6 goals each"
+          }
+        },
+        "type": "object",
+        "required": [
+          "match_id",
+          "season",
+          "matchweek",
+          "kickoff",
+          "home_team",
+          "away_team",
+          "p_home",
+          "p_draw",
+          "p_away",
+          "expected_home_goals",
+          "expected_away_goals",
+          "over_2_5",
+          "both_teams_score",
+          "home_clean_sheet",
+          "away_clean_sheet",
+          "top_scorelines",
+          "score_matrix"
+        ],
+        "title": "Matchup"
+      },
+      "Meta": {
+        "properties": {
+          "version": {
+            "type": "string",
+            "title": "Version"
+          },
+          "dataset": {
+            "$ref": "#/components/schemas/Dataset"
+          },
+          "data_version": {
+            "type": "integer",
+            "title": "Data Version",
+            "description": "Increments whenever a load changes the data"
+          },
+          "current_season": {
+            "type": "integer",
+            "title": "Current Season"
+          },
+          "seasons": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Seasons"
+          },
+          "tuning_season": {
+            "type": "integer",
+            "title": "Tuning Season"
+          },
+          "holdout_season": {
+            "type": "integer",
+            "title": "Holdout Season"
+          },
+          "production_model": {
+            "type": "string",
+            "title": "Production Model"
+          },
+          "model_version": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Model Version"
+          },
+          "trained_through": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Trained Through"
+          },
+          "last_result": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date-time"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Last Result"
+          },
+          "matches_played": {
+            "type": "integer",
+            "title": "Matches Played"
+          },
+          "matches_scheduled": {
+            "type": "integer",
+            "title": "Matches Scheduled"
+          }
+        },
+        "type": "object",
+        "required": [
+          "version",
+          "dataset",
+          "data_version",
+          "current_season",
+          "seasons",
+          "tuning_season",
+          "holdout_season",
+          "production_model",
+          "model_version",
+          "trained_through",
+          "last_result",
+          "matches_played",
+          "matches_scheduled"
+        ],
+        "title": "Meta"
+      },
+      "ModelCardOut": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "version": {
+            "type": "string",
+            "title": "Version"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description"
+          },
+          "created_at": {
+            "type": "string",
+            "title": "Created At"
+          },
+          "trained_through": {
+            "type": "string",
+            "title": "Trained Through"
+          },
+          "n_matches": {
+            "type": "integer",
+            "title": "N Matches"
+          },
+          "data_fingerprint": {
+            "type": "string",
+            "title": "Data Fingerprint"
+          },
+          "params": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Params"
+          },
+          "package_version": {
+            "type": "string",
+            "title": "Package Version"
+          },
+          "git_commit": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Git Commit"
+          },
+          "metrics": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Metrics"
+          }
+        },
+        "type": "object",
+        "required": [
+          "name",
+          "version",
+          "description",
+          "created_at",
+          "trained_through",
+          "n_matches",
+          "data_fingerprint",
+          "params",
+          "package_version",
+          "git_commit",
+          "metrics"
+        ],
+        "title": "ModelCardOut"
+      },
+      "ModelReport": {
+        "properties": {
+          "n": {
+            "type": "integer",
+            "title": "N"
+          },
+          "metrics": {
+            "additionalProperties": {
+              "$ref": "#/components/schemas/Estimate"
+            },
+            "type": "object",
+            "title": "Metrics",
+            "description": "rps, log_loss, brier, accuracy"
+          },
+          "calibration": {
+            "$ref": "#/components/schemas/Calibration"
+          },
+          "rps_by_matchweek": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "type": "object",
+            "title": "Rps By Matchweek"
+          },
+          "confusion_matrix": {
+            "items": {
+              "items": {
+                "type": "integer"
+              },
+              "type": "array"
+            },
+            "type": "array",
+            "title": "Confusion Matrix",
+            "description": "Rows actual, columns predicted: home, draw, away"
+          },
+          "mean_probabilities": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "type": "object",
+            "title": "Mean Probabilities"
+          },
+          "vs_reference": {
+            "$ref": "#/components/schemas/Comparison"
+          },
+          "vs_best": {
+            "$ref": "#/components/schemas/Comparison"
+          }
+        },
+        "type": "object",
+        "required": [
+          "n",
+          "metrics",
+          "calibration",
+          "rps_by_matchweek",
+          "confusion_matrix",
+          "mean_probabilities",
+          "vs_reference",
+          "vs_best"
+        ],
+        "title": "ModelReport"
+      },
+      "PredictionLog": {
+        "properties": {
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/LoggedForecast"
+            },
+            "type": "array",
+            "title": "Items"
+          },
+          "total": {
+            "type": "integer",
+            "title": "Total",
+            "description": "Matching matches across all pages"
+          },
+          "limit": {
+            "type": "integer",
+            "title": "Limit"
+          },
+          "offset": {
+            "type": "integer",
+            "title": "Offset"
+          }
+        },
+        "type": "object",
+        "required": [
+          "season",
+          "items",
+          "total",
+          "limit",
+          "offset"
+        ],
+        "title": "PredictionLog"
+      },
+      "Problem": {
+        "properties": {
+          "type": {
+            "type": "string",
+            "title": "Type",
+            "default": "about:blank"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "status": {
+            "type": "integer",
+            "title": "Status"
+          },
+          "detail": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Detail"
+          },
+          "request_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Request Id"
+          }
+        },
+        "type": "object",
+        "required": [
+          "title",
+          "status"
+        ],
+        "title": "Problem",
+        "description": "RFC 9457 problem details."
+      },
+      "Readiness": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "ready",
+              "degraded"
+            ],
+            "title": "Status"
+          },
+          "database": {
+            "type": "boolean",
+            "title": "Database"
+          },
+          "model": {
+            "type": "boolean",
+            "title": "Model"
+          },
+          "detail": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status",
+          "database",
+          "model"
+        ],
+        "title": "Readiness"
+      },
+      "Scoreline": {
+        "properties": {
+          "home": {
+            "type": "integer",
+            "title": "Home"
+          },
+          "away": {
+            "type": "integer",
+            "title": "Away"
+          },
+          "probability": {
+            "type": "number",
+            "title": "Probability"
+          }
+        },
+        "type": "object",
+        "required": [
+          "home",
+          "away",
+          "probability"
+        ],
+        "title": "Scoreline"
+      },
+      "SeasonReport": {
+        "properties": {
+          "ranking": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Ranking"
+          },
+          "best": {
+            "type": "string",
+            "title": "Best",
+            "description": "Best deployable model (the oracle, if present, is excluded)"
+          },
+          "reference": {
+            "type": "string",
+            "title": "Reference"
+          },
+          "ceiling": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ceiling",
+            "description": "Oracle using the true probabilities (synthetic data)"
+          },
+          "n_matches": {
+            "type": "integer",
+            "title": "N Matches"
+          },
+          "outcome_rates": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "type": "object",
+            "title": "Outcome Rates"
+          },
+          "models": {
+            "additionalProperties": {
+              "$ref": "#/components/schemas/ModelReport"
+            },
+            "type": "object",
+            "title": "Models"
+          }
+        },
+        "type": "object",
+        "required": [
+          "ranking",
+          "best",
+          "reference",
+          "n_matches",
+          "outcome_rates",
+          "models"
+        ],
+        "title": "SeasonReport"
+      },
+      "SimulatedTeam": {
+        "properties": {
+          "position": {
+            "type": "integer",
+            "title": "Position"
+          },
+          "team": {
+            "type": "string",
+            "title": "Team"
+          },
+          "played": {
+            "type": "integer",
+            "title": "Played"
+          },
+          "won": {
+            "type": "integer",
+            "title": "Won"
+          },
+          "drawn": {
+            "type": "integer",
+            "title": "Drawn"
+          },
+          "lost": {
+            "type": "integer",
+            "title": "Lost"
+          },
+          "goals_for": {
+            "type": "integer",
+            "title": "Goals For"
+          },
+          "goals_against": {
+            "type": "integer",
+            "title": "Goals Against"
+          },
+          "goal_difference": {
+            "type": "integer",
+            "title": "Goal Difference"
+          },
+          "points": {
+            "type": "integer",
+            "title": "Points"
+          },
+          "expected_points": {
+            "type": "number",
+            "title": "Expected Points"
+          },
+          "points_p05": {
+            "type": "number",
+            "title": "Points P05"
+          },
+          "points_p95": {
+            "type": "number",
+            "title": "Points P95"
+          },
+          "expected_position": {
+            "type": "number",
+            "title": "Expected Position"
+          },
+          "p_title": {
+            "type": "number",
+            "title": "P Title"
+          },
+          "p_top_four": {
+            "type": "number",
+            "title": "P Top Four"
+          },
+          "p_relegation": {
+            "type": "number",
+            "title": "P Relegation"
+          }
+        },
+        "type": "object",
+        "required": [
+          "position",
+          "team",
+          "played",
+          "won",
+          "drawn",
+          "lost",
+          "goals_for",
+          "goals_against",
+          "goal_difference",
+          "points",
+          "expected_points",
+          "points_p05",
+          "points_p95",
+          "expected_position",
+          "p_title",
+          "p_top_four",
+          "p_relegation"
+        ],
+        "title": "SimulatedTeam"
+      },
+      "Simulation": {
+        "properties": {
+          "season": {
+            "type": "integer",
+            "title": "Season"
+          },
+          "as_of_matchweek": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "As Of Matchweek"
+          },
+          "cutoff": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Cutoff"
+          },
+          "matches_played": {
+            "type": "integer",
+            "title": "Matches Played"
+          },
+          "matches_remaining": {
+            "type": "integer",
+            "title": "Matches Remaining"
+          },
+          "n_runs": {
+            "type": "integer",
+            "title": "N Runs"
+          },
+          "teams": {
+            "items": {
+              "$ref": "#/components/schemas/SimulatedTeam"
+            },
+            "type": "array",
+            "title": "Teams"
+          },
+          "position_probabilities": {
+            "items": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
+            },
+            "type": "array",
+            "title": "Position Probabilities",
+            "description": "Row per team (same order as `teams`)"
+          },
+          "actual_final_positions": {
+            "anyOf": [
+              {
+                "additionalProperties": {
+                  "type": "integer"
+                },
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Actual Final Positions"
+          },
+          "cached": {
+            "type": "boolean",
+            "title": "Cached"
+          }
+        },
+        "type": "object",
+        "required": [
+          "season",
+          "as_of_matchweek",
+          "cutoff",
+          "matches_played",
+          "matches_remaining",
+          "n_runs",
+          "teams",
+          "position_probabilities",
+          "actual_final_positions",
+          "cached"
+        ],
+        "title": "Simulation"
+      },
+      "StandingRow": {
+        "properties": {
+          "position": {
+            "type": "integer",
+            "title": "Position"
+          },
+          "team": {
+            "type": "string",
+            "title": "Team"
+          },
+          "played": {
+            "type": "integer",
+            "title": "Played"
+          },
+          "won": {
+            "type": "integer",
+            "title": "Won"
+          },
+          "drawn": {
+            "type": "integer",
+            "title": "Drawn"
+          },
+          "lost": {
+            "type": "integer",
+            "title": "Lost"
+          },
+          "goals_for": {
+            "type": "integer",
+            "title": "Goals For"
+          },
+          "goals_against": {
+            "type": "integer",
+            "title": "Goals Against"
+          },
+          "goal_difference": {
+            "type": "integer",
+            "title": "Goal Difference"
+          },
+          "points": {
+            "type": "integer",
+            "title": "Points"
+          }
+        },
+        "type": "object",
+        "required": [
+          "position",
+          "team",
+          "played",
+          "won",
+          "drawn",
+          "lost",
+          "goals_for",
+          "goals_against",
+          "goal_difference",
+          "points"
+        ],
+        "title": "StandingRow"
+      },
+      "Team": {
+        "properties": {
+          "id": {
+            "type": "integer",
+            "title": "Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "short_name": {
+            "type": "string",
+            "title": "Short Name"
+          },
+          "abbr": {
+            "type": "string",
+            "title": "Abbr"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "short_name",
+          "abbr"
+        ],
+        "title": "Team"
+      },
+      "TeamRating": {
+        "properties": {
+          "team": {
+            "type": "string",
+            "title": "Team"
+          },
+          "elo": {
+            "type": "number",
+            "title": "Elo"
+          },
+          "attack": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Attack",
+            "description": "Expected goals scored vs an average side, neutral venue"
+          },
+          "defence": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Defence",
+            "description": "Expected goals conceded vs an average side, neutral venue"
+          },
+          "rating": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Rating",
+            "description": "attack - defence"
+          }
+        },
+        "type": "object",
+        "required": [
+          "team",
+          "elo",
+          "attack",
+          "defence",
+          "rating"
+        ],
+        "title": "TeamRating"
+      },
+      "UpcomingPredictions": {
+        "properties": {
+          "model": {
+            "type": "string",
+            "title": "Model"
+          },
+          "model_version": {
+            "type": "string",
+            "title": "Model Version"
+          },
+          "predictions": {
+            "items": {
+              "$ref": "#/components/schemas/FixturePrediction"
+            },
+            "type": "array",
+            "title": "Predictions"
+          }
+        },
+        "type": "object",
+        "required": [
+          "model",
+          "model_version",
+          "predictions"
+        ],
+        "title": "UpcomingPredictions"
+      }
+    }
+  }
+}

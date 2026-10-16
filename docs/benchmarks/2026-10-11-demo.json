@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-10-11T04:17:09+00:00",
+  "dataset": {
+    "name": "demo",
+    "label": "Demo league (synthetic)",
+    "synthetic": true
+  },
+  "server": "one `epl serve` process (single uvicorn worker), SQLite, localhost",
+  "machine": {
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "logical_cpus": 16,
+    "memory_gib": 15.4,
+    "python": "3.12.15"
+  },
+  "parameters": {
+    "requests": 2000,
+    "concurrency": 8,
+    "burst": 30,
+    "seed": 7,
+    "out": null
+  },
+  "workloads": {
+    "read_mix": {
+      "requests": 2000,
+      "wall_seconds": 7.293,
+      "throughput_rps": 274.2,
+      "status_counts": {
+        "200": 2000
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 26.6,
+        "p95": 50.6,
+        "p99": 122.5,
+        "max": 155.3
+      },
+      "by_endpoint": {
+        "elo": {
+          "n": 279,
+          "p50_ms": 32.0,
+          "p95_ms": 56.2,
+          "mean_ms": 33.7
+        },
+        "matchup": {
+          "n": 297,
+          "p50_ms": 28.6,
+          "p95_ms": 45.8,
+          "mean_ms": 30.8
+        },
+        "meta": {
+          "n": 289,
+          "p50_ms": 20.5,
+          "p95_ms": 40.6,
+          "mean_ms": 22.1
+        },
+        "ratings": {
+          "n": 269,
+          "p50_ms": 27.2,
+          "p95_ms": 46.2,
+          "mean_ms": 28.2
+        },
+        "simulation": {
+          "n": 260,
+          "p50_ms": 39.7,
+          "p95_ms": 61.1,
+          "mean_ms": 43.2
+        },
+        "standings": {
+          "n": 305,
+          "p50_ms": 21.6,
+          "p95_ms": 43.4,
+          "mean_ms": 24.3
+        },
+        "upcoming": {
+          "n": 301,
+          "p50_ms": 21.1,
+          "p95_ms": 38.2,
+          "mean_ms": 23.3
+        }
+      },
+      "server_cpu_seconds": 8.36
+    },
+    "cold_simulations": {
+      "requests": 10,
+      "wall_seconds": 2.802,
+      "throughput_rps": 3.6,
+      "status_counts": {
+        "200": 10
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 280.4,
+        "p95": 306.0,
+        "p99": 309.2,
+        "max": 309.9
+      },
+      "by_endpoint": {
+        "cold simulation": {
+          "n": 10,
+          "p50_ms": 280.4,
+          "p95_ms": 306.0,
+          "mean_ms": 280.2
+        }
+      }
+    },
+    "adversarial_burst": {
+      "requests": 30,
+      "wall_seconds": 1.307,
+      "throughput_rps": 23.0,
+      "status_counts": {
+        "200": 11,
+        "429": 19
+      },
+      "error_rate": 0.0,
+      "latency_ms": {
+        "p50": 279.2,
+        "p95": 1227.0,
+        "p99": 1275.3,
+        "max": 1287.4
+      },
+      "by_endpoint": {
+        "uncached burst": {
+          "n": 30,
+          "p50_ms": 279.2,
+          "p95_ms": 1227.0,
+          "mean_ms": 476.9
+        }
+      }
+    }
+  },
+  "server_usage": {
+    "start": {
+      "cpu_seconds": 2.75,
+      "rss_mib": 218.1,
+      "processes": 2
+    },
+    "end": {
+      "cpu_seconds": 15.42,
+      "rss_mib": 233.6,
+      "processes": 2
+    }
+  }
+}

@@ -1,0 +1,51 @@
+# Environments
+venv/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.coverage
+coverage.xml
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data: an allow-list. Only datasets that may be redistributed are tracked
+# (see src/epl/data/datasets.py); everything else under data/ stays local.
+/data/*
+!/data/demo/
+!/data/openfootball/
+!/data/artifacts/
+/data/artifacts/*
+!/data/artifacts/demo/
+!/data/artifacts/openfootball/
+# Trained models are rebuilt by `epl train`; databases by `epl load`.
+/data/artifacts/*/models/
+*.db
+*.db-*
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local only
+archive/
+*.xlsx
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local editor/agent settings
+.claude/
+
+# Local working notes (never distributed)
+/MEMORY.md
+/SESSION_HANDOFF.md
+/docs/review/

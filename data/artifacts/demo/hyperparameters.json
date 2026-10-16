@@ -1,0 +1,26 @@
+{
+  "elo": {
+    "k": 40.0,
+    "home_advantage": 55.0,
+    "season_regression": 0.25
+  },
+  "dixon_coles": {
+    "xi": 0.0005,
+    "prior_sd": 0.6
+  },
+  "logistic_regression": {
+    "C": 0.05
+  },
+  "gradient_boosting": {
+    "learning_rate": 0.02,
+    "max_iter": 50
+  },
+  "_tuned_on_season": 2024,
+  "_edge_optima": [
+    "elo.season_regression=0.25",
+    "dixon_coles.xi=0.0005",
+    "dixon_coles.prior_sd=0.6",
+    "gradient_boosting.learning_rate=0.02",
+    "gradient_boosting.max_iter=50"
+  ]
+}

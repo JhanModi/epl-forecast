@@ -1,0 +1,32 @@
+.git
+.github
+.venv
+venv
+archive
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+frontend/node_modules
+frontend/dist
+# Data: the same allow-list as .gitignore. Restricted datasets never enter the build context.
+data/*
+!data/demo
+!data/openfootball
+!data/artifacts
+data/artifacts/*
+!data/artifacts/demo
+!data/artifacts/openfootball
+data/artifacts/*/models
+**/*.db
+**/*.db-*
+*.xlsx
+.env
+.claude
+.coverage
+coverage.xml
+
+# Local working notes
+MEMORY.md
+SESSION_HANDOFF.md
+docs/review

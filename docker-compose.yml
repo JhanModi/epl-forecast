@@ -1,0 +1,33 @@
+# Production-like stack: the API + dashboard image backed by PostgreSQL.
+#   docker compose up --build      ->  http://localhost:8000
+services:
+  db:
+    # Local-only database: no port is published, so only the app container can reach it.
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: epl
+      POSTGRES_PASSWORD: epl
+      POSTGRES_DB: epl
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U epl -d epl"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      EPL_DATABASE_URL: postgresql+psycopg://epl:epl@db:5432/epl
+      # Admin endpoints stay disabled unless you set a strong token (32+ random characters) in your shell or
+      # .env; a weak value makes the app refuse to start.
+      EPL_ADMIN_TOKEN: ${EPL_ADMIN_TOKEN:-}
+    ports:
+      - "8000:8000"
+
+volumes:
+  pgdata:

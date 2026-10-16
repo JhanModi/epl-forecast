@@ -1,0 +1,40 @@
+name: Weekly data refresh (openfootball)
+
+# Pulls the latest results from openfootball/football.json (public-domain dedication; see
+# src/epl/data/datasets.py) and opens a pull request with the updated snapshot and evaluation report.
+# The restricted premier-league dataset is never fetched here.
+# Configured but not yet run on GitHub.
+on:
+  schedule:
+    - cron: "0 6 * * 2" # Tuesdays 06:00 UTC, after the weekend and Monday fixtures
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  EPL_DATASET: openfootball
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --frozen
+      - name: Extract every season (so a fresh runner has the full history)
+        run: uv run epl extract -s 2023 -s 2024 -s 2025 -s 2026
+      - name: Validate, load and refresh the evaluation report
+        run: uv run epl load && uv run epl backtest
+      - name: Check nothing restricted is about to be committed
+        run: uv run python scripts/check_distribution.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: data/weekly-refresh
+          commit-message: "data: weekly openfootball refresh"
+          title: "Weekly openfootball refresh"
+          body: "Automated refresh of `data/openfootball` and its backtest report."
+          add-paths: |
+            data/openfootball
+            data/artifacts/openfootball/backtest

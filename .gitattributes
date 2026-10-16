@@ -1,0 +1,6 @@
+# Normalise line endings in the repository to LF. Shell scripts must stay LF on every checkout: a CRLF
+# entrypoint.sh copied into the Linux image fails with "/bin/sh^M: not found".
+* text=auto eol=lf
+*.sh text eol=lf
+*.png binary
+*.db binary
